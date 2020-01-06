@@ -1,0 +1,1419 @@
+
+
+<!DOCTYPE html>
+<html id="htmlGlobal" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="tr">
+<head><link href="/CustomCss/384a9016/style.css?v=154743" rel="stylesheet" type="text/css" /><title>
+	POLİSMAN LASTİKLİ BOT - SİYAH - Selin Shoes
+</title>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, user-scalable=yes" />
+
+
+<link rel="Shortcut Icon" href="/Uploads/Images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/Uploads/Images/favicon.ico" type="image/x-icon" />
+<link href="/Uploads/Images/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="/Uploads/Images/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="/Uploads/Images/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/Uploads/Images/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="/Uploads/Images/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="/Uploads/Images/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="/Uploads/Images/icon-normal.png" rel="icon" sizes="128x128" />
+<script  type="text/javascript">var pageInitialized = false;</script>
+<script type="text/javascript">
+    function loadStyle(url, callback) {
+        var style = document.createElement("link")
+        style.rel = "stylesheet";
+        if (style.readyState) {
+            style.onreadystatechange = function () {
+                if (style.readyState == "loaded" || style.readyState == "complete") {
+                    style.onreadystatechange = null;
+                    callback();
+                }
+            };
+        } else {
+            style.onload = function () {
+                callback();
+            };
+        }
+        style.href = url;
+        document.getElementsByTagName("head")[0].appendChild(style);
+    }
+</script>
+<link href="https://cdn.ticimax.com/Version/v8.10.2/10/bundles/ticimax.core.min.css?v=8.10.2.450.154743" rel="stylesheet" />
+<script  src="https://cdn.ticimax.com/Version/v8.10.2/10/bundles/ticimax.structure.min.js?v=8.10.2.450.154743" type="text/javascript"></script>
+
+
+
+
+<script  src="/api/SiteSettings/GetGlobalModelJS?v=8.10.2.450.154743" type="text/javascript"></script>
+
+<script  type='text/javascript'>var siteSettings={"firmaAdi":"Selin Shoes","yetkiliKisi":"Bahadır Bor","telefon":"0216 366 10 16","faks":"-","vergiDairesi":"Kozyatağı","vergiNo":"22309776950","firmaMail":"info@selinshoes.com","sslAktif":true,"uyeliksizAlisverisAktif":true,"uyeGirisPopupAktif":false,"adresTCKNDogrulama":false,"adresTCKNZorunlu":false,"adresTarifiAktif":false,"facebookLoginAktif":true,"twitterLoginAktif":false,"googleLoginAktif":false,"urunFiltreAktif":true,"urunFiltreAyar":{"filtreKonumu":2,"filtreKategoriAyar":{"kardesKategorilerAktif":false,"tumKategorilerAktif":false,"aktif":true,"sira":1,"aramaAktif":false},"filtreMarkaAyar":{"aktif":false,"sira":2,"aramaAktif":false},"filtreTedarikciAyar":{"aktif":false,"sira":0,"aramaAktif":false},"filtreEkSecenekAyar":{"aktif":true,"sira":0,"aramaAktif":false},"filtreTeknikDetayAyar":{"aktif":false,"sira":3,"aramaAktif":false},"filtreFiyatAraligiAyar":{"tip":0,"fiyatAraliklari":[],"aktif":false,"sira":4,"aramaAktif":false},"ekFiltreAyar":{"indirimli":false,"yeni":false,"ucretsizKargo":false,"aktif":false,"sira":0,"aramaAktif":false},"siralamaTipi":0,"elemanLimiti":15,"urunFiltreBlokSira":{"markaSira":0,"kategoriSira":0,"aramaSira":0,"etiketSira":0,"tedarikciSira":0},"filtreyiYenidenOlustur":false},"urunDosyaYuklemeAktif":false,"urunVitrinRastgeleGoster":false,"kampanyaTeklifAktif":false,"globalPopupAktif":false,"ulkeId":1,"ulkeKodu":"tr","sehirId":34,"ilceId":331,"kombinUrunAktif":false,"googleApiProjeNo":"","urunAksesuarAktif":false,"stokOlmayanUrunBenzerGoster":false,"cariOdeme":false,"destekTalepAktif":true,"ustSolMenu":0,"yazilimVersiyon":"8.10.2.450.154743","urunDetayBenzerUrunGoster":true,"urunDetayAdetTipi":2,"menuTipi":1,"urunFiyatUyeGoster":false,"sliderBanner":0,"kampanyaBannerAktif":true,"sepeteEkleSepeteYonlendir":false,"pasifSekmeMesaji":{"mesaj":"Seni Çok Özledik!","dil":"tr"},"criteoAccountId":"","seoAnalytics":"UA-150104672-1","mobildeSepeteGitAktif":true,"mobilUygulamaBilgileri":{"bannerAktif":false,"bannerLogo":"/Uploads/Images/MobilUygulamaBannerLogo.png","uygulamaBaslik":"","androidUygulamaYolu":"","iOSUygulamaYolu":"","oneSignalAyar":{"apiKey":"","appId":""}},"urunListe2ResimAktif":false,"sliderParametreleri":{"sliderAktif":true,"kategorideSliderGoster":false,"sliderTipi":1,"sliderPozisyon":1,"kategoriSliderPozisyon":1,"effect":"fade","height":0,"width":0,"hoverStop":true,"loaderType":"none","navigation":true,"navigationHover":true,"pagination":false,"thumbnails":false,"time":7000,"transPeriod":1500,"playPause":false,"mobilSliderCozunurluk":992},"facebookPixelID":"540271826539804","ulkeGosterme":true,"urunSepetAtPopup":true,"isHopiAktif":false,"dinamikForm":{"formSistemiAktif":false,"cariOdemeFormAktif":false,"urunDetayFormAktif":false,"cariOdemeFormId":0,"iletisimFormId":0,"icerikFormId":0,"genelFormAktif":false,"genelFormId":0,"urunDetayFiyatCarpanAktif":false},"urunListeOnYaziAktif":false,"urunFiyatGoster":true,"urunDetayZoom":{"zoomPozisyon":"17"},"ekVergiTipi":0,"adresPostaKoduZorunlu":false,"uyelikSayfaParametre":{"alanParametre":[{"alanAdi":"CepTelefonu","goster":true,"zorunlu":false,"deger":null},{"alanAdi":"Ulke","goster":false,"zorunlu":false,"deger":null},{"alanAdi":"Sehir","goster":true,"zorunlu":false,"deger":null},{"alanAdi":"Ilce","goster":true,"zorunlu":false,"deger":null},{"alanAdi":"DogumGunu","goster":true,"zorunlu":false,"deger":null},{"alanAdi":"Cinsiyet","goster":true,"zorunlu":false,"deger":null},{"alanAdi":"Meslek","goster":false,"zorunlu":false,"deger":null},{"alanAdi":"OgrenimDurumu","goster":false,"zorunlu":false,"deger":null},{"alanAdi":"UyelikSozlesmeSecim","goster":true,"zorunlu":true,"deger":false},{"alanAdi":"Semt","goster":false,"zorunlu":false,"deger":false},{"alanAdi":"KampanyaSmsSecim","goster":true,"zorunlu":false,"deger":false},{"alanAdi":"KampanyaEmailSecim","goster":true,"zorunlu":false,"deger":false}],"adresAlaniAktif":false,"dinamikFormAktif":false,"dinamikFormId":0},"uyelikYoneticiOnayiAktif":false,"uyelikMailOnayiAktif":true,"ilceOzelDegerAktif":false,"magazaModuluAktif":false,"paraBirimiAktif":false,"varsayilanParaBirimi":"try","varsayilanParaBirimiDilKodu":"tr-TR","defaultCurrency":"try","defaultCurrencySymbol":"₺","anasayfaPopupGoster":false,"anasayfaPopupMetni":"","uygulamaAnasayfadaPopupGoster":false,"uygulamaAnasayfaPopupMetni":"","smsAktif":false,"googleMerchantAktif":true,"adresAyarlari":{"adresPostaKoduZorunlu":false,"adresPostaKoduDogrulama":false,"adresTCKNZorunlu":false,"adresTCKNDogrulama":false,"tcVatandasiDegilimGoster":false,"firmaAdiZorunlu":false,"vergiDairesiZorunlu":false,"vergiNoZorunlu":false,"semtAktif":false,"uyeliksizUyariMetinGoster":false,"tcNoGizle":false},"sayfalamaSecenek":1,"urunAyar":{"urunDetayBarkodGoster":false,"ozelAlanAyar":{"aktif":false,"ozelAlan1":{"urunDetayGoster":false,"listeGoster":false,"hizliBakistaGoster":false},"ozelAlan2":{"urunDetayGoster":false,"listeGoster":false,"hizliBakistaGoster":false},"ozelAlan3":{"urunDetayGoster":false,"listeGoster":false,"hizliBakistaGoster":false},"ozelAlan4":{"urunDetayGoster":false,"listeGoster":false,"hizliBakistaGoster":false},"ozelAlan5":{"urunDetayGoster":false,"listeGoster":false,"hizliBakistaGoster":false}},"urunFiyatGoster":true,"urunFiyatUyeGoster":false,"urunKdvDahilGoster":false,"urunVitrinRastgeleGoster":false,"urunStokKoduGoster":false,"urunStokAdediGoster":false,"urunMarkaGoster":true,"urunDetayBenzerUrunGoster":true,"urunDetayTaksitAciklamaGoster":true,"urunDetayTedarikciGoster":true,"urunDetayStokAdediGoster":false,"urunDetaySosyalMedyaAktif":false,"urunStokOlmayanGoster":true,"urunZiyaretSayisiGoster":true,"urunFotografBuyut":false,"urunListeUrunSayisi":100,"urunDetayAdetTipi":2,"urunListe2ResimAktif":false,"urunAdediOndalikliSayiGirilebilir":false,"urunDetayMinAlimGoster":false,"stokOlmayanUrunBenzerGoster":false,"urunListeOnYaziAktif":false,"urunDetayZoom":{"zoomPozisyon":"17"},"urunIndirimliSayacAyar":{"sayacAktif":false,"sonGunSayacAktif":false},"aramaKaydetAktif":false,"urunDetayAnahtarKelimeGoster":false,"otomatikAnahtarKelimeUret":false,"yeniUrunBastaGoster":false,"urunDetayIndirimOraniGoster":true,"urunListeEkSecenekTipi":0,"urunListeHizliBakisAktif":false,"urunListeStokKoduAktif":false,"urunResimAdiOlusturmaParametreleri":null,"urunResimAltOlusturmaParametreleri":null,"kendinTasarlaAyar":{"aktif":false,"tip":0,"pitchPrintAyar":{"apiKey":null,"designId":null}},"urunListeSatisBirimiGoster":false,"yeniUrunGosterilmeSuresi":0,"urunDetayVaryasyonOtomatikSec":false,"hizliBakisGorunumAyar":{"ilgiliUrunGoster":false,"benzerUrunGoster":false,"urunPuanVermeGoster":false,"urunPuanDegeriGoster":false,"stokKoduGoster":false,"breadcrumbGoster":false,"yeniUrunGoster":false,"markaGoster":false,"markaLogoGoster":false,"onYaziGoster":false,"urunTabGoster":false,"urunTabUrunOzelliklerGoster":false,"favorilereEkleGoster":false,"tahminiTeslimSuresiGoster":false,"satisBirimiGoster":false,"indirimOraniGoster":false,"tedarikciGoster":false,"paraPuanGoster":false,"yerelFiyatGoster":true,"kdvDahilFiyatGoster":true,"toplamStokAdediGoster":false,"stokAdediGoster":false,"barkodGoster":false,"taksitAciklamaGoster":false},"cokluBarkodAktif":false,"urunListeMarkaLogoAktif":false,"urunDetayAyar":{"urunMagazaStokGoster":false,"tavsiyeEtButonGoster":true,"yazdirButonGoster":true,"yorumYazButonGoster":true,"sosyalMedyaGoster":false,"twitterPaylasGoster":true,"facebookPaylasGoster":true,"facebookBegenGoster":true,"whatsAppPaylasGoster":true,"telegramPaylasGoster":true,"minMaksAlimGoster":false,"telefonSiparisGoster":true,"istekListesineEkleButonGoster":true,"karsilastirmaButonGoster":true,"gelinceHaberVerButonGoster":true,"fiyatiDusunceHaberVerButonGoster":true,"anahtarKelimeGoster":false,"stokYokBenzerUrunGoster":false,"ilgiliUrunAyar":{"aktif":true,"konum":0},"benzerUrunAyar":{"aktif":true,"urunSayisi":5},"urunPuanVermeGoster":false,"urunPuanDegeriGoster":false,"stokKoduGoster":false,"breadcrumbGoster":false,"yeniUrunGoster":false,"markaGoster":true,"markaLogoGoster":false,"onYaziGoster":true,"urunTabGoster":false,"urunTabUrunOzelliklerGoster":false,"favorilereEkleGoster":true,"tahminiTeslimSuresiGoster":false,"satisBirimiGoster":false,"indirimOraniGoster":true,"tedarikciGoster":true,"paraPuanGoster":false,"yerelFiyatGoster":true,"kdvDahilFiyatGoster":true,"toplamStokAdediGoster":false,"stokAdediGoster":false,"barkodGoster":false,"taksitAciklamaGoster":true},"ucretsizKargoLimitiGosterimAktif":true,"urunListeIcerikIlkSayfadaGoster":false,"urunDetayKampanyaHesapla":false},"urunListeVaryasyonluGoster":false,"tasarimAyarlari":{"id":1,"sliderGenislik":0,"sliderYukseklik":0,"sliderBoyutOncelik":"G","listeResimGenislik":50,"listeResimYukseklik":50,"listeResimBoyutOncelik":"G","listeResimKalite":90,"detayResimGenislik":50,"detayResimYukseklik":50,"detayResimBoyutOncelik":"G","detayResimKalite":90,"buyukResimGenislik":50,"buyukResimYukseklik":50,"buyukResimBoyutOncelik":"G","buyukResimKalite":90,"sliderThumpGenislik":120,"sliderThumpYukseklik":120,"sliderThumpBoyutOncelik":"G","lookBookGenislik":600,"lookBookYukseklik":200,"lookBookBoyutOncelik":"G"},"telefonLogin":{"aktif":false,"karakterSayisi":10},"uyelikSilmeAktif":true,"ucBoyutResimAktif":false,"magazaModulu":{"aktif":false,"magazaSayfasindaIlceGoster":false,"magazaBasic":{"siparisNotuGoster":false,"hediyePaketiNotuGoster":false},"magazaStokSatis":{"aktif":false,"ulkeSecimAktif":false,"ilSecimAktif":false,"gonderimTipi":1,"magazaTemsilciAyar":{"aktif":false,"sepetteGoster":false,"sepetBloktaGoster":false,"sepetMesaj":"","kuryeMesaj":""},"sayfadaGoster":false},"magazadanTeslim":{"aktif":false,"ulkeGoster":false,"ilGoster":false,"kargoGoster":false,"magazadaOdeAktif":false,"sayfadaGoster":false,"teslimatSaatiAktif":false,"magazayaAtamaAktif":false}},"bkmEntegrasyonTipi":0,"siteYonetimAyar":{"tedarikciSayfasiAktif":false,"varyasyonTasimaAktif":false,"uygulamaAnasayfadaPopupGoster":false,"openSearchAktif":false,"urunResimManuelBoyutlandirmaAktif":false,"dilSecimiGizle":false,"paraBirimiSecimiGizle":false,"cerezUyarisiGoster":false,"fiyatFormat":{"panelOndalikBasamak":4,"satisOndalikBasamak":2},"ozelDilDegerAktif":false,"uyeSifreSha256Aktif":false,"urunFavoriListeAktif":false,"resimBoyutlandirmaTipi":0,"resimArkaplanRengi":0,"hizliAramaAyar":{"siteSesliAramaAktif":false,"aramaSecenekTipi":1,"hizliAramaUrunAyar":{"urunGoster":true,"urunKayitSayisi":20,"urunResimGoster":false,"satisBirimiGoster":false,"urunFiyatiGoster":false,"urunAdindaAra":true,"urunStokKodundaAra":true,"urunBarkodundaAra":true,"arananKelimeyiBol":false,"urunAnahtarKelimedeAra":false,"arananKelimeyiEslestir":false},"hizliAramaGelismisAyar":{"urunSira":5,"kategoriGoster":true,"kategoriKayitSayisi":5,"kategoriSira":1,"markaGoster":true,"markaKayitSayisi":5,"markaSira":2,"tedarikciGoster":true,"tedarikciKayitSayisi":5,"tedarikciSira":3,"etiketGoster":true,"etiketKayitSayisi":5,"etiketSira":4,"urunGoster":false,"urunKayitSayisi":20,"urunResimGoster":false,"satisBirimiGoster":false,"urunFiyatiGoster":false,"urunAdindaAra":true,"urunStokKodundaAra":true,"urunBarkodundaAra":true,"arananKelimeyiBol":false,"urunAnahtarKelimedeAra":false,"arananKelimeyiEslestir":false}},"anasayfaPopupMetinleri":[{"mesaj":"","dil":"tr"}],"uygulamaAnasayfaMetinleri":[{"mesaj":"","dil":"tr"}],"sablonAyar":{"ozelSablon":false,"sablonCode":"100","sablonYolu":"/Templates/100/"},"webServisLogServer":false,"globalBlokModel1":{"solBolum":"col-lg-3 hidden-xs hidden-sm hidden-md","ortaBolum":"col-lg-9 col-md-12 col-sm-12 col-xs-12","sagBolum":"","urunListe":"col-lg-4 col-md-4 col-sm-6 col-xs-6"},"globalBlokModel2":{"solBolum":"col-lg-3 hidden-xs hidden-sm hidden-md","ortaBolum":"col-lg-6 col-md-12 col-sm-12 col-xs-12","sagBolum":"col-lg-3 hidden-xs hidden-sm hidden-md","urunListe":"col-lg-6 col-md-4 col-sm-6 col-xs-6"},"globalBlokModel3":{"solBolum":"","ortaBolum":"col-lg-9 col-md-12 col-sm-12 col-xs-12","sagBolum":"col-lg-3 hidden-xs hidden-sm hidden-md","urunListe":"col-lg-4 col-md-4 col-sm-6 col-xs-6"},"globalBlokModel4":{"solBolum":"","ortaBolum":"col-sm-12","sagBolum":"","urunListe":"col-lg-3 col-md-3 col-sm-6 col-xs-6"},"aramaSayfaAyar":{"seoNoIndex":true,"seoNoFollow":true},"mailSystemVersion":0},"payTR":{"aktif":false,"token":"","merchantId":0},"cerezUyarisiGoster":false,"kapidaOdemeAyar":{"kapidaOdemeMinLimit":0.0,"kapidaOdemeMaxLimit":0.0},"cdnAyar":{"statikCdnAktif":true,"statikCdnUrl":"https://selinshoes-img.ticimaxcdn.com"},"kendinTasarlaAyar":{"aktif":false,"tip":0,"pitchPrintAyar":{"apiKey":null,"designId":null}},"hizliAramaAyar":{"siteSesliAramaAktif":false,"aramaSecenekTipi":1,"hizliAramaUrunAyar":{"urunGoster":true,"urunKayitSayisi":20,"urunResimGoster":false,"satisBirimiGoster":false,"urunFiyatiGoster":false,"urunAdindaAra":true,"urunStokKodundaAra":true,"urunBarkodundaAra":true,"arananKelimeyiBol":false,"urunAnahtarKelimedeAra":false,"arananKelimeyiEslestir":false},"hizliAramaGelismisAyar":{"urunSira":5,"kategoriGoster":true,"kategoriKayitSayisi":5,"kategoriSira":1,"markaGoster":true,"markaKayitSayisi":5,"markaSira":2,"tedarikciGoster":true,"tedarikciKayitSayisi":5,"tedarikciSira":3,"etiketGoster":true,"etiketKayitSayisi":5,"etiketSira":4,"urunGoster":false,"urunKayitSayisi":20,"urunResimGoster":false,"satisBirimiGoster":false,"urunFiyatiGoster":false,"urunAdindaAra":true,"urunStokKodundaAra":true,"urunBarkodundaAra":true,"arananKelimeyiBol":false,"urunAnahtarKelimedeAra":false,"arananKelimeyiEslestir":false}},"siparisAyar":{"siparisAnketAktif":false},"sepetKdvDahilGoster":true,"relatedDigitalJSAyar":null,"mobilSiteActive":false,"siteDiliAktif":false,"chromeBilgidirimAktif":true,"gumrukVergisiServisSaglayici":0,"hediyeCekiOnceCalissin":false,"urunVideoAktif":false,"tamamlayiciUrunAktif":false,"personaClickAktif":false,"personaClickAramaAktif":false,"personaClickWebPushAktif":false,"sepetPopupSepeteYonlendir":false}; var ticiLang = {"AdresDetay_UyelikBilgiUyari":"Paylaştığım bilgilerin ve <strong><a href=\"/UyelikSozlesme.aspx?sozlemeTipi=5\" class=\"fancyboxIframe\" style=\"color: #ff0000;\">Kişisel verilerimin korunmasını</a></strong> kabul ediyorum.","GlobalMasterPage_Anasayfa":"Anasayfa","GlobalMasterPage_Iletisim":"İletişim","GlobalMasterPage_SepetGenelToplam":"Genel Toplam","GlobalMasterPage_Sepetim":"Sepetim","GlobalMasterPage_SepetUrun":"Ürün","GlobalMasterPage_SepetUrunYok":"Sepetinizde ürün bulunmamaktadır.","GlobalMasterPage_UyariBekleyiniz":"Lütfen bekleyiniz","GlobalMasterPage_UyariDosyaSec":"Dosya seçmeniz gerekir.","GlobalMasterPage_UyariDosyaYukleniyor":"<br/>Lütfen bekleyin dosyalarınız yükleniyor....","GlobalMasterPage_UyariFavoriEklendi":"Ürün favorilerinize eklenmiştir.","GlobalMasterPage_UyariMaksAlim":"Bu ürün için <b>en fazla</b> {0} {1} alım koşulu vardır.","GlobalMasterPage_UyariMaksKampanyaUrunAdedi":"Sepetinizde <b>en fazla</b> {0} adet kampanyalı ürün olabilir.","GlobalMasterPage_UyariMaksUrunAdedi":"Sepetinizde bu üründen <b>en fazla</b> {0} adet olabilir.","GlobalMasterPage_UyariMinAlim":"Bu ürün için <b>en az</b> {0} {1} alım koşulu vardır.","GlobalMasterPage_UyariMinSepetTutari":"Sepet tutarınızın minimum {0} olması gerekmektedir.","GlobalMasterPage_UyariSepeteEklendi":"Ürün(ler) sepetinize eklendi.","GlobalMasterPage_UyariSepettenCikarildi":"Ürün sepetinizden çıkarıldı.","GlobalMasterPage_UyariStokYok":"Yeterli stok bulunmamaktadır!","GlobalMasterPage_MobilHesabim":"Hesabım","GlobalMasterPage_MobilHosgeldiniz":"HOŞGELDİNİZ","GlobalMasterPage_MobilMenuAnasayfa":"ANASAYFA","GlobalMasterPage_MobilMenuIletisim":"İLETİŞİM","GlobalMasterPage_MobilMenuKategoriler":"KATEGORİLER","GlobalMasterPage_MobilMenuMarkalar":"MARKALAR","GlobalMasterPage_MobilMenuSepetim":"SEPETİM","GlobalMasterPage_MobilUyeCikis":"Çıkış Yap","GlobalMasterPage_MobilUyeGirisi":"Üye Girişi","GlobalMasterPage_MobilUyeOl":"Üye Ol","GlobalMasterPage_NewsletterBaslik":"E-bültenimize kayıt olun!","GlobalMasterPage_NewsletterEmailYaziniz":"E-posta adresinizi yazın...","Urunler_FiltrelemeKaldir":"Filtrelemeyi Kaldır","Urunler_KategoriSeciniz":"Kategori Seçiniz","Urunler_MarkaSeciniz":"Marka Seçiniz","Urunler_Seciniz":"Seçiniz","Urunler_SiralamaSeciniz":"Sıralama Seçiniz","Urunler_Stoktakiler":"Stoktakiler","AdresDefterim_Baslik":"Adres Defterim","AdresDefterim_FormAdres":"Adres","AdresDefterim_FormAdresTanimi":"Adres Başlığı","AdresDefterim_FormAdSoyad":"Ad Soyad","AdresDefterim_FormFaturaAdSoyad":"Faturada yazacak isim","AdresDefterim_FormFaturaTipiBireysel":"Bireysel","AdresDefterim_FormFaturaTipiKurumsal":"Kurumsal","AdresDefterim_FormFirmaAdi":"Firma Adı","AdresDefterim_FormIlce":"İlçe","AdresDefterim_FormPostaKodu":"Posta Kodu","AdresDefterim_FormSehir":"Şehir","AdresDefterim_FormTCKimlikNo":"T.C. Kimlik No","AdresDefterim_FormTelefonNo":"Telefon No","AdresDefterim_FormUlke":"Ülke","AdresDefterim_FormVergiDairesi":"Vergi Dairesi","AdresDefterim_FormVergiNo":"Vergi No","Urunler_TumMarkalar":"Tüm Markalar","Arama_AramaSonuclari":"Arama Sonuçları","CariOdemeRaporlari_Banka":"Banka","CariOdemeRaporlari_Baslik":"Cari Ödeme Raporlarim","CariOdemeRaporlari_Cikti":"Çıktı","CariOdemeRaporlari_IslemNo":"İşlem No","CariOdemeRaporlari_IslemTarihi":"İşlem Tarihi","CariOdemeRaporlari_KartNo":"Kart No","CariOdemeRaporlari_KartÜzeriIsim":"Kart Üzerindeki İsim","CariOdemeRaporlari_Notlar":"Notlar","CariOdemeRaporlari_OdemeTutari":"Ödeme Tutarı","CariOdemeRaporlari_OdenenTutar":"Ödenen Tutar","CariOdemeRaporlari_SiparisNo":"Sipariş No","CariOdemeRaporlari_Taksit":"Taksit","CariOdemeTamamlandi_TamamlandiMesaj":"Ödemeniz başarılı bir şekilde kaydedilmiştir.","CariOdemeYap_Baslik":"Cari Ödeme","CariOdemeYap_OdemeBilgisi":"Ö.Bilgisi","CariOdemeYap_OdemeTutari":"Ö.Tutarı","DestekTalepDetay_DestekDetay":"Destek Detay","DestekTalepDetay_DestekKonusu":"Destek Konusu","DestekTalepDetay_DestekTarihi":"Destek Tarihi","DestekTaleplerim_Baslik":"Destek Taleplerim","DestekTaleplerim_DestekBaslik":"Başlık","DestekTaleplerim_Detay":"Detay","DestekTaleplerim_Durumu":"Durumu","DestekTaleplerim_Id":"ID","DestekTaleplerim_Konu":"Konu","DestekTaleplerim_Tarih":"Tarih","Favorilerim_Baslik":"Favorilerim","Favorilerim_FavorilerdenKaldir":"Favorilerden Kaldır","Favorilerim_Fiyati":"Fiyatı","FiyatAlarmListem_Baslik":"Fiyat Alarm Listem","Global_Aciklama":"Açıklama","Global_Banka":"Banka","Global_ButtonCevapla":"Cevapla","Global_ButtonDuzenle":"Düzenle","Global_ButtonGonder":"Gönder","Global_ButtonKaydet":"Kaydet","Global_ButtonSil":"Sil","Global_ButtonVazgec":"Vazgeç","Global_ButtonYeniEkle":"Yeni Ekle","Global_EklemeTarihi":"Ekleme Tarihi","Global_GuvenlikKodu":"Güvenlik Kodu","Global_ListedenKaldir":"Listeden kaldır","Global_ListeUrunYok":"Listeye eklenmiş ürün bulunmamaktadır.","Global_Notlar":"Notlar","Global_ParaPuan":"Para Puan","Global_SiparisNo":"Sipariş No","Global_Tutar":"Tutar","Global_UrunAdi":"Ürün Adı","HediyeKuponlarim_Baslik":"Hediye Kuponlarım","HediyeKuponlarim_KullanimSayisi":"Kullanım Sayısı","HediyeKuponlarim_KuponDegeri":"Kupon Değeri","HediyeKuponlarim_KuponKodu":"Kupon Kodu","HediyeKuponlarim_MinAlisverisTutari":"Min. Alışveriş Tutarı","HediyeKuponlarim_SonKullanimTarihi":"Son Kullanım Tarihi","Hesabim_Baslik":"Hesabım","Hesabim_Bilgi1":"\"Hesabım\" sayfasından siparişlerinizi ve arıza/iade/değişim işlemlerinizi takip edebilir, kazandığınız hediye çeki ve puanları görüntüleyebilir, üyelik bilgisi güncelleme, şifre ve adres değişikliği gibi hesap ayarlarınızı kolayca yapabilirsiniz.","Hesabim_Bilgi2":"Size özel fırsatlar ve dönemsel kampanyalar da bu sayfada duyurulur.","IadeTaleplerim_Baslik":"İade Taleplerim","IadeTaleplerim_Cevap":"Cevap","IadeTaleplerim_CevapOku":"Cevabı Oku","IadeTaleplerim_Durum":"Durum","IadeTaleplerim_Notlar":"Notlar","IadeTaleplerim_ParaIadeTipi":"Para İade Tipi","IadeTaleplerim_ParaIadeTipi_HediyeCeki":"Hediye Çeki","IadeTaleplerim_ParaIadeTipi_ParaIadesi":"Para İadesi","IadeTaleplerim_SiparisNo":"Sipariş No","Iletisim_Adres":"Adres","Iletisim_Baslik":"İletişim","Iletisim_Eposta":"E-posta","Iletisim_Fals":"Faks","Iletisim_FirmaAdi":"Firma Adı","Iletisim_FormAdSoyad":"Ad Soyad","Iletisim_FormBaslik":"İletişim Formu","Iletisim_FormMesaj":"Mesaj","Iletisim_HesapBilgileriBaslik":"Banka Hesap Bilgilerimiz","Iletisim_HesapBilgileri_BankaAdi":"Banka Adı","Iletisim_HesapBilgileri_HesapAdi":"Hesap Adı","Iletisim_HesapBilgileri_HesapNo":"Hesap No","Iletisim_HesapBilgileri_HesapTipi":"Hesap Tipi","Iletisim_HesapBilgileri_IbanNo":"IBAN No","Iletisim_HesapBilgileri_Sube":"Şube","Iletisim_HesapBilgileri_SubeKodu":"Şube Kodu","Iletisim_Telefon":"Telefon","KargoTakip_GonderiBilgileriBaslik":"Gönderi Bilgileri","KargoTakip_GonderiDetaylariBaslik":"Gönderi Detayları","KargoTakip_KargoHareketleriBaslik":"Kargo Hareketleri","KargoTakip_TeslimBilgileriBaslik":"Teslim Bilgileri","OdemeBildirimFormu_Baslik":"Ödeme Bildirim Formu","ParaPuanDetay_Baslik":"Parapuanlarım Detay","ParaPuanDetay_KalanPuan":"Kalan Puan","ParaPuanDetay_KazanilanPuan":"Kazanılan Puan","ParaPuanDetay_KullanilanPuan":"Kullanılan Puan","ParaPuanlarim_Baslik":"Para Puanlarım","ParaPuanlarim_HediyeCekiOlusturulduAciklama":"<span>[HEDIYECEKIDEGER]</span> [PARABIRIMI] değerinde <span>[HEDIYECEKIKOD]</span> kodlu hediye çekiniz oluşturulmuştur. Detayları <a href=\"/Hesabim.aspx#/HediyeCeklerim\">Hediye Çeklerim</a> sayfasından görebilirsiniz.","ParaPuanlarim_KacTLKuponOlusturulsun":"Kaç [PARABIRIMI] değerinde kupon oluşturulsun?","ParaPuanlarim_MinParaPuanAciklama":"Hediye çeki oluşturabilmek için en az [MINPARAPUAN] para puan toplamanız gerekmektedir.","ParaPuanlarim_ParaPuanKullanimAciklama":"[TARIH] tarihinde, saat [SAAT]'da [HEDIYECEKIKOD] kodlu hediye çekini oluşturmak için kullanılan para puan","ParaPuanlarim_TLKarsiligi":"[PARABIRIMI] Karşılığı","ParaPuanlarim_ToplamPuan":"Toplam Puanınız","SifremiUnuttum_BilgilerGonderildi":"Gerekli bilgiler e-posta adresinize gönderildi.","SifremiUnuttum_OnayAciklama":"Şifrenizi değiştirmek için lütfen onay anahtarını ve yeni şifrenizi giriniz.","SifremiUnuttum_OnayAnahtari":"Onay Anahtarı","SifremiUnuttum_SayfaAciklama":"Sitemize üye olduysanız ve şifrenizi hatırlamıyorsanız; üyelik formunda kayıtlı olan e-posta adresinizi aşağıdaki alana yazarak \"Kaydet\" butonuna tıklayın. Yeni şifre belirlemeniz için kullanacağınız linki e-posta adresinize hemen göndereceğiz.","SifremiUnuttum_SifreDegistirildi":"Şifreniz değiştirildi, giriş yapmak için <a href=\"/UyeGiris.aspx\">buraya</a> tıklayınız.","SifremiUnuttum_YeniSifre":"Yeni Şifre","SifremiUnuttum_YeniSifreTekrar":"Yeni Şifre (tekrar)","UserControls_HesabimSolMenu_AdresDefterim":"Adres Defterim","UserControls_HesabimSolMenu_CariOdemeRaporlari":"Cari Ödeme Raporları","UserControls_HesabimSolMenu_CariOdemeYap":"Cari Ödeme","UserControls_HesabimSolMenu_DestekTaleplerim":"Destek Taleplerim","UserControls_HesabimSolMenu_Favorilerim":"Favorilerim","UserControls_HesabimSolMenu_FiyatAlarmListem":"Fiyat Alarm Listem","UserControls_HesabimSolMenu_HediyeKuponlarim":"Hediye Çeklerim","UserControls_HesabimSolMenu_IadeTaleplerim":"İade Taleplerim","UserControls_HesabimSolMenu_OdemeBildirimFormu":"Havale Bildirim Formu","UserControls_HesabimSolMenu_ParaPuanDetay":"Para Puan Detaylarım","UserControls_HesabimSolMenu_ParaPuanlarim":"Para Puanlarım","UserControls_HesabimSolMenu_Sepetim":"Alışveriş Sepetim","UserControls_HesabimSolMenu_Siparislerim":"Siparişlerim","UserControls_HesabimSolMenu_UyeCikis":"Güvenli Çıkış","UserControls_HesabimSolMenu_UyelikBilgilerim":"Üyelik Bilgilerim","Validation_AdresGiriniz":"Lütfen Adres Giriniz.","Validation_AdresTanimiGiriniz":"Lütfen Adres Tanımı Belirtiniz.","Validation_AdSoyadGiriniz":"Lütfen Ad Soyad Giriniz.","Validation_BaslikGiriniz":"Lütfen Başlık Yazınız.","Validation_DetayGiriniz":"Lütfen Detay Yazınız.","Validation_FirmaAdiGiriniz":"Lütfen Firma Adı Yazınız.","Validation_MailGiriniz":"Lütfen E-posta Adresinizi Giriniz.","Validation_MailKontrolEdiniz":"Lütfen E-posta Adresinizi Kontrol Ediniz.","Validation_MesajGiriniz":"Lütfen Mesajı Yazınız.","Validation_Minimum10Karakter":"Minimum 10 karakter olmalıdır.","Validation_SehirSeciniz":"Lütfen Şehir Seçiniz.","Validation_SifreGiriniz":"Lütfen Şifrenizi Giriniz..","Validation_SifreGirinizTekrar":"Lütfen Yeni Şifre (Tekrar) Giriniz.","Validation_SifreUyusmuyor":"Girdiğiniz şifreler uyuşmamaktadır. Lütfen kontrol ediniz.","Validation_TelefonGiriniz":"Lütfen Telefon Numarası Giriniz.","Validation_UlkeSeciniz":"Lütfen Ülke Seçiniz.","Validation_VergiDairesiGiriniz":"Lütfen Vergi Dairesi Yazınız.","Validation_VergiNumarasiGiriniz":"Lütfen Vergi Numarası Yazınız.","Global_Durum":"Durum","Global_KargoFirmasi":"Kargo Firması","SiparisAdimlari_AdresAciklama":"Adres Seçimi","SiparisAdimlari_AdresBaslik":"ADRES","SiparisAdimlari_OdemeAciklama":"Ödeme Bilgileri","SiparisAdimlari_OdemeBaslik":"ÖDEME","SiparisAdimlari_OnayAciklama":"Sipariş Onayı","SiparisAdimlari_OnayBaslik":"SİPARİŞ","SiparisAdimlari_SepetimAciklama":"Alışveriş Sepetim","SiparisAdimlari_SepetimBaslik":"SEPETİM","Siparislerim_Baslik":"Siparişlerim","Siparislerim_Detay":"Detay","Siparislerim_KargomNerede":"Kargom Nerede","Siparislerim_SiparisDetaylari":"Sipariş Detayları","Siparislerim_SiparisTarihi":"Sipariş Tarihi","SiparisTamamlandi_SiparisBasarili":"Siparişiniz başarılı bir şekilde kaydedilmiştir.","SiparisTamamlandi_SiparisNumaraniz":"Sipariş Numaranız","SiparisTamamlandi_SiparisOdemeniz":"Toplam Ödemeniz","SiparisTamamlandi_SiparisTutariniz":"Sipariş Tutarınız","SiparisTamamlandi_AnasayfayaDon":"<< Anasayfaya Geri Dön","SiparisTamamlandi_Sonuc_Havale":"<li>Havale ile ödeme seçeneğini seçtiniz.</li>\n                            <li> Lütfen seçtiğiniz banka hesap numarasına havale yaparken <b class=\"SiparisNoLabel\">137</b> numaralı\n                        sipariş numaranızı yazmayı unutmayınız.</li>\n                            <li>Sipariş detaylarınız e-mail adresinize gönderilmiştir.</li>\n                            <li><b>Bizi Tercih Ettiğiniz İçin Teşekkür Ederiz..</b></li>","SiparisTamamlandi_Sonuc_KapidaOdeme":"<li>Kapıda Ödeme ile ödeme seçeneğini seçtiniz.</li>\n                            <li>Sipariş detaylarınız e-mail adresinize gönderilmiştir.</li>\n                            <li><b>Bizi Tercih Ettiğiniz İçin Teşekkür Ederiz..</b></li>","SiparisTamamlandi_Sonuc_MailOrder":"<li>Mail order ile ödeme ile ödeme seçeneğini seçtiniz.</li>\n                            <li>Sipariş detaylarınız e-mail adresinize gönderilmiştir.</li>\n                            <li><b>Bizi Tercih Ettiğiniz İçin Teşekkür Ederiz..</b></li>","SiparisTamamlandi_Sonuc_MobilOdeme":"<li>Mobil Ödeme ile ödeme seçeneğini seçtiniz.</li>\n                            <li>Sipariş detaylarınız e-mail adresinize gönderilmiştir.</li>\n                            <li><b>Bizi Tercih Ettiğiniz İçin Teşekkür Ederiz..</b></li>","StokAlarmListem_Baslik":"Stok Alarm Listem","UserControls_AnasayfaSlider_FirsatiYakala":"FIRSATI YAKALA","UrunListesi_Indirim":"İndirim","UrunListesi_UrunuIncele":"Ürünü İncele","UyeGiris_Baslik":"Üye Girişi","UyeGiris_BeniHatirla":"Beni Hatırla","UyeGiris_Giris":"Giriş Yap","UyeGiris_HizliUyelik":"Hızlı Üyelik","UyeGiris_MailAdresiniz":"E-Posta:","UyeGiris_SifremiUnuttum":"Şifremi Unuttum","UyeGiris_Sifreniz":"Şifre:","UyeGiris_UyeliksizDevamEt":"Üyeliksiz Devam Et","UyeGiris_UyeOl":"Üye Ol","UyelikBilgilerim_Adiniz":"Adınız","UyelikBilgilerim_Baslik":"Üyelik Bilgilerim","UyelikBilgilerim_CepTelefonunuz":"Cep Telefonunuz","UyelikBilgilerim_Cinsiyet":"Cinsiyet","UyelikBilgilerim_Cinsiyet_Erkek":"Erkek","UyelikBilgilerim_Cinsiyet_Kadin":"Kadın","UyelikBilgilerim_DogumTarihi":"Doğum Tarihi","UyelikBilgilerim_MailAdresiniz":"E-posta Adresiniz","UyelikBilgilerim_MailAdresinizTekrar":"E-posta Adresiniz (tekrar)","UyelikBilgilerim_Meslek":"Meslek","UyelikBilgilerim_OgrenimDurumu":"Öğrenim Durumu","UyelikBilgilerim_Sifreniz":"Şifre","UyelikBilgilerim_SifrenizTekrar":"Şifre (tekrar)","UyelikBilgilerim_Soyadiniz":"Soyadınız","UyelikBilgilerim_Telefonunuz":"Telefonunuz","UyelikBilgilerim_YeniSifreGecerli":"Yeni yazdığım şifre geçerli olsun","UyeOl_Basarili1":"<h4>HOŞGELDİNİZ</h4>\n                            <span>Yeni Üyelik İşleminiz Başarıyla Kaydedildi!</span>","UyeOl_Basarili2":"E-posta adresinizi ve şifrenizi yazarak giriş yapabilirsiniz.<br /> \n                            Teşekkür ederiz","UyeOl_Baslik":"Yeni Üyelik","Validation_AdGiriniz":"Lütfen Adınızı Giriniz.","Validation_CepTelefonuGiriniz":"Lütfen Cep Telefonu Numaranızı Giriniz.","Validation_SoyadiGiriniz":"Lütfen Soyadınızı Giriniz.","Global_Adet":"Adet","Global_Fiyat":"Fiyat","Global_Sil":"Sil","Odeme_3DSecureOdeme":"3D Secure ile ödeme yapmak istiyorum.","Odeme_Baslik":"Ödeme Bilgileri","Odeme_BaslikAciklama":"Siparişinizi tamamlamak için lütfen bir ödeme türü seçiniz","Odeme_BKMEkspres":"BKM Express","Odeme_Cari":"Cari","Odeme_GuvenlikKodu":"Güvenlik Kodu","Odeme_HavaleEft":"Havale/EFT","Odeme_Ipara":"iPara","Odeme_KapidaOdeme":"Kapıda Ödeme","Odeme_KapidaOdemeKrediKarti":"Kapıda Kredi Kartı ile Ödeme","Odeme_KapidaOdemeNakit":"Kapıda Nakit Ödeme","Odeme_KapidaOdemeSecenek":"Kapıda Ödeme Seçenekleri","Odeme_KartKampanyasi":"Kart Kampanyası","Odeme_KartNumarasi":"Kredi Kartı Numarası","Odeme_KartSahibiAdiSoyadi":"Kart Sahibinin Adı Soyadı","Odeme_KrediKarti":"Kredi Kartı / Banka Kartı","Odeme_MailOrder":"Mail Order","Odeme_MailOrderAciklama":"Mail Order ödeme seçeneğini seçtiniz. Lütfen aşağıdaki formu bilgisayarınıza indirdikten sonra doldurup tarafımıza gönderiniz.","Odeme_MailOrderFormu":"Mail Order Formu","Odeme_MobilOdeme":"Mobil Ödeme","Odeme_MobilOdemeGsmSeciniz":"Lütfen GSM şirketini seçiniz.","Odeme_MobilOdemeKosullari":"Mobil Ödeme Koşulları","Odeme_MobilOdemeNumara":"Lütfen ödeme yapacağınız cep telefonu numarasını giriniz","Odeme_Paypal":"PayPal","Odeme_SonKullanmaTarihi":"Son Kullanma Tarihi","Odeme_TaksitAylikTutar":"Aylık T.","Odeme_TaksitSayisi":"Taksit S.","Odeme_TaksitToplamTutar":"Toplam T.","Sepet_AlisveriseDevamEt":"Alışverişe Devam Et","Sepet_AlisverisiTamamla":"SİPARİŞİ TAMAMLA","Sepet_Baslik":"SEPETİM","Sepet_BaslikAciklama":"Sepetinizde olan ürünlerin listesi","Sepet_Indirimler":"İndirimler","Sepet_KampanyaUygula":"Kampanya Uygula","Sepet_KasaOnuFirsatlar":"Kasa Önü Fırsatlar","Sepet_KDV":"Kdv","Sepet_SepeteOzelFirsatlar":"Sepete Özel Fırsatlar","Sepet_SepetToplami":"Sepet Toplamı","Sepet_SiparisOzeti":"Sipariş Özeti","Sepet_SiparisTutari":"Sipariş Tutarı","Sepet_UyariAsortiUrunSil":"Asorti Grubu bütün ürünler silinecektir. Devam etmek istiyor musunuz?","Odeme_BkmEkspresAciklama":"BKM Express, kart bilginizi paylaşmadan işlem yapabilmenizi sağlayan güvenli ve hızlı bir ödeme sistemidir.BKM Express ile ödeme yaparken <a href=\"http://www.bkmexpress.com.tr\" target='_blank'>www.bkmexpress.com.tr</a> sayfasına yönlendirileceksiniz.\nBKM Express sitesine üye olurken kullandığınız kullanıcı adı ve şifreniz ile uygulamaya giriş yapmanız gerekmektedir.Karşınıza gelen ödeme ekranından işlem yapmak istediğiniz kartı ve ödeme şeklini seçerek kolayca ödeme yapabilirsiniz. \nAlışverişinizi tamamladıktan sonra otomatik olarak {0} sitesine döneceksiniz","Odeme_HediyeCekiKullan":"Hediye çeki kullan","Odeme_HediyeCekiUygula":"Ekle","Odeme_HediyeCekleri":"Hediye Çekleri","Odeme_HediyePaketi":"Hediye Paketi","Odeme_KargoTutari":"Kargo Tutarı","Odeme_MobilOdemeAveaAciklama":"Ödeme hizmeti Mobilepax tarafından Avea aboneleri için Avea Mobil Ödeme servisi ile gerçekleşmektedir. Servis bedeli faturalı hatlarda faturaya yansıtılır, faturasız hatlarda ise TL bakiyesinden düşülür. 8044 numarasına gönderilen her SMS Avea hatlarında 0,5 TL (KDV ve ÖİV Dahil) olarak ücretlendirilir. Bilgilendirme mesajları ücretsizdir. Mobil ödeme servisinin sunulabilmesi için üyelik kapsamındaki bilgilerinizin iş ortakları ile paylaşılması gerekmektedir. Avea Mobil Ödeme ile ilgili detaylar için&nbsp;<a href=\"http://www.avea.com.tr/tr/sta/bireysel/servisler/ozel/mobilodeme.shtml\" target=\"_blank\"><font color=\"#0066ff\">tıklayınız.</font></a><b><i><a name=\"aciklama\"></a></i></b>","Odeme_MobilOdemeTurkcellAciklama":"Ödeme hizmeti Mobilepax tarafından Turkcell aboneleri için Turkcell Mobil Ödeme servisi ile gerçekleşmektedir. Gerçekleşen işlemler sırasında 8044 numarasına gönderilen her SMS Turkcell aboneleri için 50 Kr olarak ücretlendirilir (KDV ve ÖİV Dahil). Turkcell Mobil Ödeme ile detaylar için&nbsp;<a href=\"http://www.turkcell.com.tr/bireysel/servisler/Sayfalar/turkcellmobilodeme.aspx\" target=\"_blank\"><font color=\"#0066ff\">tıklayınız.</font></a>","Odeme_MobilOdemeVodafoneAciklama":"Ödeme hizmeti Mobilepax tarafından Vodafone aboneleri için Vodafone Mobil Ödeme servisi ile gerçekleşmektedir. Gerçekleşen işlemler sırasında 8044 numarasına gönderilen her SMS Vodafone aboneleri için 41 Kr (KDV ve ÖİV Dahil) olarak ücretlendirilir. Bilgilendirme mesajları ücretsizdir. Vodafone Mobil Ödeme ile ilgili detaylar için <a href=\"http://www.vodafone.com.tr/Servisler/mobil-odeme-servisi.php\" target=\"_blank\"><font color=\"#0066ff\">tıklayınız.</font></a>","Odeme_ParcaliOdemeSec":"Parçalı ödeme yapmak istiyorum.","Odeme_SiparisiTamamla":"SİPARİŞİ TAMAMLA","Odeme_SiparisOzeti":"Sipariş Özeti","SiparisTamamlandi_SiparisBakiyeniz":"Kalan Bakiyeniz","SiparisTamamlandi_TekrarOdemeYap":"Bakiyenizi kapatmak için tıklayınız.","Odeme_3DSecureIleOdemeYapmakIstiyorum":"3D Secure ile ödeme yapmak istiyorum.","Odeme_AraToplam":"Ara Toplam","Odeme_BankaKomisyonu":"Banka Komisyonu","Odeme_BilgileriniziKontrolEdiniz":"Lütfen bilgilerinizi kontrol ediniz.","Odeme_CVVGirinizUyari":"Lütfen kartın arkasında belirtilen güvenlik kodunu eksiksiz giriniz.","Odeme_HavaleHesapSecinizUyari":"Lütfen havale yapılacak hesap numarası seçiniz.","Odeme_HediyeCekiIndirimi":"Hediye çeki indirimi","HediyeCeki_Hata_MinimumSiparisTutari":"Bu hediye çekini kullanabilmeniz için çek kullanım kriterlerine uygun ürün(ler) toplam tutarı minimum {0} olmalıdır.","Odeme_HediyeCekiKullanilamaz":"Bu hediye çekini kullanabilmek için gerekli koşullar sağlanamamıştır. Hediye çekinin kullanım limiti dolmuş, tarihi geçmiş ya da silinmiş olabilir.","HediyeCeki_Hata_KampanyaliUrun":"Sepetinizde kampanyalı ürün bulunduğundan, bu hediye çeki kullanılamaz.","Odeme_HesapNo":"Hesap No:","Odeme_Indirimler":"İndirimler","Odeme_iParaOdemeSayfasi":"iPara Ödeme Sayfası","Odeme_KapidaOdemeTutari":"Kapıda Ödeme Tutarı","Odeme_KargoIndirimi":"Kargo İndirimi","Odeme_KartIsmiGirinizUyari":"Lütfen kart üzerindeki ismi yazınız.","Odeme_KartNumarasiEksiksizUyari":"Lütfen kart numarasını eksiksiz giriniz.","Odeme_LutfenBekleyinizMesaji":"Lütfen bekleyiniz, ödeme işlemi devam etmektedir.","Odeme_MesafeliSatisSozlesmesi":"Mesafeli satış sözleşmesi","Odeme_MesafeliSatisSozlesmesiUyari":"Lütfen Mesafeli Satış Sözleşmesini kabul ediniz.","Odeme_OdemeTipiSecinizUyari":"Lütfen bir ödeme tipi seçiniz.","Odeme_OkudumOnayliyorum":"'ni okudum , onaylıyorum.","Odeme_ParcaliOdemeYapmakIstiyorum":"Parçalı ödeme yapmak istiyorum.","Odeme_PaypalOdemeSayfasi":"Paypal Ödeme Sayfası","Odeme_SubeKodu":"Şube Kodu:","Odeme_TahsilEdilecekTutar":"Ödenecek Tutar","Odeme_TekrarDenemekIcinTiklayiniz":"Tekrar denemek için tıklayınız.","HediyeCeki_Hata_TutarHediyeCekindenKucuk":"Bu hediye çekini kullanabilmeniz için sipariş tutarı hediye çeki tutarından büyük olmalıdır.","SiparisTamamla_AdresGuncelleUyari":"Adresi kaydetmek ya da güncellemek için; \"Kaydet\" ve \"Güncelle\" butonlarını kullanabilirsiniz.","SiparisTamamla_KayitliEpostaAdresi":"Bu e-posta adresi zaten kayıtlı lütfen giriş yaparak siparişinizi tamamlayınız.","SiparisTamamla_BuAdresiKullan":"Bu adresi kullan<span>Teslimat adresiniz için lütfen aşağıdaki formu doldurun</span>","SiparisTamamla_EpostaAdresi":"E-Posta Adresi","SiparisTamamla_KisiselBilgiler":"Kişisel Bilgiler","SiparisTamamla_TeslimatBilgileri":"Teslimat Bilgileri","SiparisTamamla_FaturaAdresi":"<span class=\"st_1\">Fatura Adresi</span>","SiparisTamamla_KargoBilgileriSeciniz":"<span class=\"st_1\">Kargo Bilgileri</span>","SiparisTamamla_TeslimatAdresi":"<span class=\"st_1\">Teslimat Adresi</span>","SiparisTamamla_TeslimatBilgileriBelirtiniz":"<span class=\"st_1\">Teslimat Bilgileri</span>","SiparisTamamla_YeniAdresEkle":"Yeni Adres Ekle","Kombin_SepeteEkle":"Sepete Ekle","Kombin_UrunSeciniz":"Lütfen ürün seçiniz.","SepetimPopup_UrunSepeteEklendi":"Ürün Sepete Eklendi","SiparisTakip_Sorgula":"Sorgula","SiparisTamamla_DevamEt":"SİPARİŞ TAMAMLA","SiparisTamamla_DigerHediyeCekleri":"DİĞER HEDİYE ÇEKLERİ","SiparisTamamla_GenelToplam":"Genel Toplam","SiparisTamamla_HediyePaketi":"Hediye Paketi","SiparisTamamla_HediyePaketiIstiyorum":"Hediye paketi istiyorum (Extra","SiparisTamamla_HediyePaketiIstiyorum2":"ücret)","SiparisTamamla_KdvTutari":"Kdv Tutarı","SiparisTamamla_SiparisNotu":"<span class=\"st_1\">Sipariş Notu</span>","SiparisTamamla_TeslimatTarihi":"<span class=\"st_1\">Teslimat Tarihi</span>","SiparisTamamla_UrunFiyati":"Ürün Fiyatı","SiparisTamamla_UrunToplami":"Ürün Toplamı:","UyeOl_Aktivasyon":"<strong>Üyelik işleminizin tamamlanması için;</strong><br /> \n                            E-posta adresinize gönderilen aktivasyon linkine tıklayınız yada<br />\n                            kopyalayarak tarayıcınızın (browser) adres satırına yapıştırmanız gerekmektedir.\n                            <br /> \n                            Aktivasyon işleminden sonra siteye e-posta adresinizi ve şifrenizi yazarak giriş yapabilirsiniz.<br /> \n                            Teşekkür ederiz","Odeme_CaymaHakkiSozlesmesi":"Cayma Hakkı","Siparislerim_SiparisIptalEt":"Siparişi İptal Et","Siparislerim_SiparisSozlesmesi":"Sipariş Sözleşmesi","Uyelik_MailIzinAciklama":"Kampanya, duyuru, bilgilendirmelerden e-posta ile haberdar olmak istiyorum.","Uyelik_SmsIzinAciklama":"Kampanya, duyuru, bilgilendirmelerden sms ile haberdar olmak istiyorum.","Validation_IlceSeciniz":"Lütfen İlçe Seçiniz.","EBultenAyril_ButtonAyril":"E-bülten üyeliğinden ayrıl","EBultenAyril_MailOnayAciklama":"E-bülten aboneliğinden ayrılmak için e-posta adresinize gönderilen onay bağlantısına tıklamanız gerekmektedir.","EBultenAyril_MailSilindi":"E-posta adresiniz e-bülten listemizden silinmiştir.","EBultenAyril_MailSilinecek":"Adresiniz e-bülten listemizden silinecektir.","KargoTakip_FirmaAdi":"Firma Adı","KargoTakip_KargoBilgileri":"Kargo Bilgileri","KargoTakip_TelefonNumarasi":"Telefon Numarası","SiparisTamamlandi_MailGonderildi":"Sipariş detaylarınız e-posta adresinize gönderilmiştir.","Iletisim_Mail":"E-posta","Global_Tesekkurler":"Teşekkürler","SiparisTamamla_SiparisNotuAciklama":"<span class=\"st_2\">Varsa sipariş notu ekleyebilirsiniz.</span>","EBultenAyril_MailBulunamadi":"E-posta adresi sistemimizde kayıtlı değildir.","Odeme_PayUOneClickKullanmakIstiyorum":"Daha sonraki ödemelerde kullanabilmem için kart bilgilerini kaydet.","Favorilerim_FavorilerimeEkle":"Favorilere Ekle","Global_IndirimOrani":"İndirim Oranı","Global_KargoBedava":"Kargo Bedava","Global_KdvDahil":"KDV Dahil","Global_Marka":"Marka","Global_SayfayiYazdir":"Sayfayı Yazdır","Global_TavisyeEt":"Tavsiye Et","Global_Tedarikci":"Tedarikçi","Global_TLFiyat":"TL Fiyat","UrunDetay_FiyatAlarmListeCikar":"Fiyat Alarm Listemden Çıkart","UrunDetay_ArkadasEposta":"Arkadaşınızın E-posta Adresi","UrunDetay_FiyatDusunceHaberVer":"Fiyat Düşünce Haber Ver","UrunDetay_GelinceHaberVer":"Gelince Haber Ver","UrunDetay_HaberVer":"Haber Ver","UrunDetay_HaberVerIptal":"Haber Ver İptal","UrunDetay_Indirimli":"İndirimli","UrunDetay_IndirimliUrun":"İndirimli Ürün","UrunDetay_KendinTasarla":"Kendin Tasarla","UrunDetay_KisiselNotAciklama":"Ürününüzde yer almasını istediğiniz kişiselleştirme notunuz.","UrunDetay_KritikStok":"Kritik Stok","UrunDetay_OncekiSayfa":"< < Önceki Sayfaya Dön","UrunDetay_StokYok":"Ürün stoklarımızda kalmamıştır.","UrunDetay_TaksitBaslangicAciklama":"'den başlayan taksitlerle","UrunDetay_TelefonlaSiparis":"Telefonla Sipariş","UrunDetay_TumKombiniSatinAl":"Tüm Kombini Satın Al","UrunDetay_YorumYaz":"Yorum Yaz","UrunDetay_SiziBekleyenFirsatlar":"Bu üründen aldığınızda sizi bekleyen fırsatlar","UrunDetay_TabUrunOzellikleri":"Ürün Özellikleri","UrunDetay_TabYorumlar":"Yorumlar","UrunDetay_TabOdemeSecenekleri":"Ödeme Seçenekleri","UrunDetay_TabUrunOnerileri":"Ürün Önerileri","UrunDetay_Yorumunuz":"Yorumunuz","UrunDetay_YorumKaydedildi":"Yorumunuz kaydedilmiştir. Teşekkür ederiz","UrunDetay_YorumUyeGirisi":"Yorum yazabilmek için üye girişi yapmalısınız.","UrunDetay_YorumBegen":"Beğendim","UrunDetay_YorumYok":"Bu ürün için hiç yorum yapılmamış.İlk yorum yapan siz olun.","UrunDetay_HavaleOdeme":"Havale ile Ödeme","UrunDetay_KrediKartiTekCekim":"Kredi Kartı Tek Çekim","UrunDetay_KapidaOdeme":"Kapıda Ödeme","UrunDetay_UrunOnerileri_Baslik":"Bu ürünün açıklamalarında, fiyat veya diğer özelliklerinde bir hata olduğunu düşünüyorsanız aşağıdaki formu doldurarak bize geri dönebilirsiniz.","UrunDetay_UrunOnerileri_AciklamaYetersiz":"Ürün açıklaması yetersiz","UrunDetay_UrunOnerileri_BilgiHatali":"Açıklamada verilen bilgilerde hatalar var","UrunDetay_UrunOnerileri_FiyatHatali":"Fiyat bilgisi hatalı","UrunDetay_UrunOnerileri_ResimKalitesiz":"Ürün resmi görünmüyor veya kalitesiz","UrunDetay_UrunOnerileri_TeknikProblem":"Sayfada teknik bir problem var","UrunDetay_UrunOnerileri_UrunPahali":"Bu ürün diğer sitelere göre burada daha pahalı","Validation_GuvenlikKodu":"Güvenlik Kodu:","Validation_GuvenlikKoduGiriniz":"Lütfen yukarıda yazan sayıları yandaki kutuya giriniz.","UrunDetay_UrunTavsiye":"Bu ürünün yanında bunları da tavsiye ediyoruz.","UrunDetay_Etiketler":"Etiketler","UrunDetay_UrunGoruntulemeSayisi1":"Bu Ürün","UrunDetay_UrunGoruntumemeSayisi2":"kere görüntülendi","UrunDetay_ToplamStokAdedi":"Toplam Stok Adedi","TaksitSecenekleri_TaksitTutari":"Taksit Tutarı","TaksitSecenekleri_ToplamTutar":"Toplam Tutar","Global_CikisYap":"Çıkış Yap","Global_Hosgeldiniz":"Hoşgeldiniz","UyeGiris_UyeBilgileri":"Üye Bilgileri","UrunListesi_SepeteEkle":"Sepete Ekle","UrunListesi_UcretsizKargo":"Ücretsiz Kargo","UrunListesi_YeniUrun":"Yeni Ürün","UrunListesi_FirsatUrunu":"Fırsat Ürünü ","UrunListesi_OzelFirsat":"Özel Fırsat","KendinTasarla_Metin":"Metin","KendinTasarla_Resim":"Resim","KendinTasarla_Sekil":"Şekil","KendinTasarla_AnahatBoyutu":"Anahat Boyutu","KendinTasarla_Saydamlik":"Saydamlık","KendinTasarla_Filtreler":"Filtreler","KendinTasarla_GriTonlama":"Gri Tonlama","KendinTasarla_Karsitlik":"Karşıtlık","KendinTasarla_Sepia":"Sephia","KendinTasarla_Parlaklik":"Parlaklık","KendinTasarla_Parazit":"Parazit","KendinTasarla_GradientTransparency":"Gradient Transparency","KendinTasarla_Piksellestir":"Pikselleştir","KendinTasarla_Blur":"Blur","KendinTasarla_Keskinlestir":"Keskinleştir","KendinTasarla_Kabart":"Kabart","KendinTasarla_Tonlama":"Tonlama","KendinTasarla_Multiply":"Multiply","KendinTasarla_Blend":"Blend","KendinTasarla_Sekiller":"Şekiller","KendinTasarla_SekilRengi":"Şekil Rengi","KendinTasarla_AnahatRengi":"Anahat Rengi","KendinTasarla_AnahtarBoyutu":"Anahtar Boyutu","AdresDefterim_FormAdresTarifi":"Adres Tarifi","Odeme_PayUOneClick":"Tek Tıkla Ödeme","Odeme_PayUTokenSeciniz":"Lütfen önceden kayıtlı bir işlem seçiniz","Odeme_CariKrediOdeme":"Cari Kredisinden","Odeme_CariKrediOdeme_Hata":"Cari kredi limitiniz uygun değildir. Lütfen başka bir ödeme yolu seçin ya da cari ödeme yaparak kredi limitinizi kullanabilir hale getirebilirsiniz.","SiparisTamamlandi_Sonuc_CariKrediOdeme":"Cari Kredi Limitinizi kullanarak ödeme yaptınız.","Global_KategoriyeGit":"Kategoriye Git","Odeme_OdemeYok":"Ödeme yok","UrunDetay_HemenAl":"Hemen Al","Global_Ay":"Ay","Global_Gun":"Gün","Global_Yil":"Yıl","GlobalMasterPage_UyariFavoriCikarildi":"Ürün favorilerinizden çıkarıldı.","GlobalMasterPage_UyariFiyatAlarmCikarildi":"Ürün, fiyat alarm listenizden çıkartıldı.","GlobalMasterPage_UyariFiyatAlarmEklendi":"Ürün, fiyat alarm listenize eklendi.","GlobalMasterPage_UyariStokBekleyenlerCikarildi":"Ürün, stok bekleyenler listenizden çıkarıldı.","GlobalMasterPage_UyariStokBekleyenlerEklendi":"Ürün, stok bekleyenler listenize eklendi.","UrunDetay_BenzerUrunler":"Benzer Ürünler","Hesabim_ParaPuaniniz":"Toplam Parapuanınız:","Validation_SadeceRakam":"Lütfen Sadece Rakam Yazınız.","Validation_SiparisNoGiriniz":"Lütfen Sipariş Numarası Yazınız.","AdresDefterim_SehirSeciniz":"Şehir Seçiniz","AdresDefterim_AdresimTanimOrnek":"Ev, iş...","AdresDefterim_IlceSeciniz":"İlçe Seçiniz","AdresDefterim_Zorunlu":"Zorunlu","AdresDefterim_ZorunluDegil":"Zorunlu değil","SiparisTamamla_Baslik":"Sipariş Tamamla","SiparisTamamla_SiparisNotuTextAreaPlaceHolder":"Siparişle ilgili belirtmek istediginiz notları yazınız..","Validation_TCKimlikGiriniz":"Lütfen TC Kimlik Numaranızı Giriniz.","UrunFiltreleme_Filtreleme":"Filtreleme","UrunFiltreleme_FirsatUrunleri":"Fırsat Ürünleri","UrunFiltreleme_FiyatAraligi":"Fiyat Aralığı","UrunFiltreleme_FiyatKriteriBelirle":"Fiyat Kriteri Temizle","UrunFiltreleme_Kategoriler":"Kategoriler","UrunFiltreleme_Marka":"Marka","Siparislerim_SiparisiTekrarla":"Siparişi Tekrarla","UrunListesi_Tukendi":"Tükendi","IstekListesi_Baslik":"İstek Listesi","IstekListesi_Button_Gonder":"Gönder","IstekListesi_Button_MailGonder":"E-posta Gönder","IstekListesi_ValidateBosMail":"Lütfen e-posta adresi girin.","UrunDetay_IstekListemeEkle":"İstek Listeme Ekle","UrunDetay_IstekListesineEklendi":"Ürün İstek Listenize Eklenmiştir.","IstekListesi_IstekListesiEkle":"İstek Listesi Ekle","IstekListesi_FormAciklama":"Açıklama","IstekListesi_FormTanim":"Tanım","IstekListesi_FormVarsayılan":"Varsayılan","IstekListesi_YeniEkle":"Yeni Ekle","UserControls_HesabimSolMenu_IstekListem":"İstek Listelerim","GlobalMasterPage_SayfaninBasinaDon":"Sayfanın başına dön","GlobalMasterPage_TicimaxFooterAciklama":"Bu site Ticimax<sup>®</sup> Gelişmiş<a href='https://www.ticimax.com' style='color: #0066CC;' target='_blank' class='ticimax_link' \n                                      title='E Ticaret Sistemleri Ticimax'> E-Ticaret</a> sistemleri ile hazırlanmıştır.","UrunDetay_BenzerArttir":"Arttır","UrunDetay_BenzerAzalt":"Azalt","CariOdemeRaporlari_Dekont":"DEKONT","CariOdeme_Baslik":"Cari Ödeme","DestekTaleplerim_YeniDestekTalebi":"Yeni Talep Oluştur","FacebookMagaza_SepeteEkle":"Sepete Ekle","FacebookMagaza_UrunuIncele":"Ürünü İncele","Favorilerim_FiyatSorun":"Fiyat Sorunuz","GlobalMasterPage_TasarimOnizle":"Tasarımı önizle","Global_Evet":"Evet","Global_Hayir":"Hayır","Global_IndirimliUrunler":"İndirimli Ürünler","Global_Kapat":"Kapat","Global_SilmeOnay":"Silmek istediğinize emin misiniz?","Global_Var":"Var","Global_YetkiYok":"Yetkiniz bulunmamaktadır.","Global_Yok":"Yok","Iletisim_BasariliIslemMesaj":"Mesajınız başarılı bir şekilde kaydedilmiştir. En kısa zamanda iletişime geçilecektir.","Iletisim_BasarisizIslemMesaj":"Hatalı doğrulama kodu, lütfen tekrar deneyiniz.","KargoTakip_Aciklama":"Açıklama","KargoTakip_Alici":"Alıcı","KargoTakip_Baslik":"Kargo Takip","KargoTakip_Birim":"Birim","KargoTakip_CikisBirimi":"Çıkış Birimi","KargoTakip_CikisSube":"Çıkış Şube","KargoTakip_CikisTarihi":"Çıkış Tarihi","KargoTakip_Durumu":"Durumu","KargoTakip_FaturaNo":"Fatura No","KargoTakip_Gonderici":"Gönderici","KargoTakip_Islem":"İşlem","KargoTakip_IslemSirasi":"İşlem Sırası","KargoTakip_KargoTakipNo":"Kargo Takip No","KargoTakip_Mesaj_KargoBilgisiBulunamadi":"Kargo bilgisi bulunamadı.","KargoTakip_Mesaj_KargoBulunamadi":"Kargo bulunamadı!","KargoTakip_Mesaj_KargoHareketBulunamadi":"Kargo hareket bilgisi bulunamadı.","KargoTakip_Mesaj_KullaniciBilgileriYanlis":"Kullanıcı bilgileri yanlış!","KargoTakip_SonBulunduguYer":"Son Bulunduğu Yer","KargoTakip_SonDurum":"Son Durum","KargoTakip_SonHareket":"Son Hareket","KargoTakip_SonHareketTarihi":"Son Hareket Tarihi","KargoTakip_Tarih":"Tarih","KargoTakip_TeslimAlan":"Teslim Alan","KargoTakip_TeslimatAciklamasi":"Teslimat Açıklaması","KargoTakip_TeslimatTarihi":"Teslimat Tarihi","KargoTakip_TeslimSaati":"Teslim Saati","KargoTakip_TeslimTarihi":"Teslim Tarihi","KargoTakip_UpsReferansNumarası":"UPS Referans Numarası","KargoTakip_VarisSube":"Varış Şube","Odeme_SayfaBaslik":"Ödeme Sayfası","Siparislerim_AraToplam":"Ara Toplam","Siparislerim_KapidaOdemeTutari":"Kapıda Ödeme Tutarı","Siparislerim_KargoTutari":"Kargo Tutarı","Siparislerim_Mesaj_MailGonderimHatasi":"Mail Gönderim Hatası","Siparislerim_Mesaj_SiparisIptalEdildi":"Sipariş iptal edildi.","Siparislerim_OdemesizSiparisler":"Ödemesiz Siparişler","Siparislerim_SiparisIptalEdildiMailBaslik":"Siparişiniz iptal edilmiştir.","Siparislerim_SiparisIptalEdildiMailKonu":"{0} numaralı sipariş müşteri tarafından iptal edilmiştir.","Siparislerim_SozlesmeAciklama1":"Mesafeli Satış Sözleşmesine erişmek için","Siparislerim_SozlesmeAciklama2":"tıklayınız.","Siparislerim_TamamlananSiparisler":"Tamamlanan Siparişler","Siparislerim_Toplam":"Toplam","Siparislerim_ToplamKdv":"Toplam KDV","SiparisTakip_Aciklama1":"Siparişiniz {0} durumundadır.","SiparisTakip_KargoTakipIcinTiklayiniz":"Kargo takibi için tıklayınız.","SiparisTakip_KargoTakipNumaraniz":"Kargo Takip Numaranız","SiparisTakip_SiparisinizBulunamamistir":"Sipariş Bulunamamıştır","UyeGiris_EPostaKayitliDegil":"E-posta adresiniz sistemimizde kayıtlı değil.","UyeGiris_HataliOnayKodu":"Hatalı onay kodu.","Global_DevaminiGoster":"Devamını göster","Global_YeniUrunler":"Yeni Ürünler","SiparisTamamlandi_AlisverisKazanilanPuanMiktari":"Bir sonraki alışverişinizde kullanmak için bu alışverişten;","SiparisTamamlandi_Baslik":"Sipariş Tamamlandı","SiparisTamamlandi_KartKaydedilmistirAciklama":"Kartınız bundan sonraki alışverişlerinizde kolay kullanım için kaydedilmiştir.","SiparisTamamlandi_UyelikOnayiAlindi":"Üyelik başvurunuz alınmıştır, yönetici onayından sonra üyeliğiniz aktif olacaktır.","UyelikBilgilerim_Mesaj_AdminYetki":"Bilgilerinizi yönetim paneli üzerinden güncelleyebilirsiniz!","UyelikBilgilerim_Mesaj_ParaPuanAciklama":"Üyelik bilgileri güncelleme ile kazanılan para puan","UyelikOnay_Aciklama":"Alışverişe Başla butonuna tıklayarak ürünlerimizi görebilirsiniz!","UyelikOnay_AlisVeriseBasla":"Alışverişe Başla","UyelikOnay_Baslik":"Üyelik Onay","UyelikOnay_HataliKod":"Hatalı kod","UyelikOnay_Hosgeldiniz":"HOŞGELDİNİZ","UyelikOnay_KeyifliAlisverislerDileriz":"Keyifli alışverişler dileriz...","UyelikOnay_TesekkurEderiz":"Teşekkür ederiz","UyelikOnay_YeniUyelikIslemiTamamlamistir":"Yeni Üyelik İşleminiz tamamlanmıştır.!","UyeOl_EPostaSistemeKayitli":"E-posta adresi sistemimizde kayıtlı.","BlokModul_Anket_AktifAnketBulunamadi":"Aktif anket bulunmamaktadır.","BlokModul_Anket_Anket":"Anket","BlokModul_Anket_DahaOnceOyKullandiniz":"Daha önce oy kullandınız","BlokModul_Anket_OylamaSonuclari":"Oylama Sonuçları","BlokModul_Anket_OyunuzKaydedildi":"Oyunuz kaydedildi.","BlokModul_DavetEt_ArkadasiniDavetEt":"Arkadaşını Davet Et","BlokModul_DavetEt_DahaOnceDavetinizGonderildi":"Daha önce davet edilmiş.","BlokModul_DavetEt_DavetinizGonderildi":"Davetiniz gönderildi.","BlokModul_DovizKurlari_Baslik":"Döviz Kurları","BlokModul_Duyurular_Baslik":"Duyurular","BlokModul_EnCokSatilanUrunler_Baslik":"En Çok Satılan Ürünler","BlokModul_FirsatModul_Baslik":"Günün Fırsatı","BlokModul_FirsatModul_FirsatiYakala":"FIRSATI YAKALA","BlokModul_FirsatModul_Indirim":"İNDİRİM","BlokModul_FirsatModul_UrunuIncele":"ÜRÜNÜ İNCELE","BlokModul_Haberler_Baslik":"Haberler","BlokModul_Istatistikler_Baslik":"İstatistikler","BlokModul_Istatistikler_GunlukZiyaretciSayisi":"Bugün sitemizi {0} kişi ziyaret etti.","BlokModul_Istatistikler_Ziyaretciler":"Sitemizde şu anda {0} üye, {1} ziyaretçi bulunmaktadır.","BlokModul_Kategoriler_Baslik":"Kategoriler","BlokModul_MailListesi_Baslik":"E-posta Listesi","BlokModul_MailListesi_BilgilerinizKaydedildi":"Bilgileriniz kaydedildi.","BlokModul_MarkaArama_Baslik":"Hızlı Marka Arama","BlokModul_MarkaSlider_Baslik":"Markalarımız","BlokModul_OdenmemisSiparisler_Baslik":"Ödemesi Yapılmamış Siparişler","BlokModul_Sayfalar_Baslik":"Sayfalar","BlokModul_SepetBlok_GenelToplam":"Genel Toplam","BlokModul_SepetBlok_Indirimler":"İndirimler","BlokModul_SepetBlok_Kdv":"KDV","BlokModul_SepetBlok_Sepetim":"Sepetim","BlokModul_SepetBlok_SiparisiTamamla":"Siparişi Tamamla","BlokModul_SepetBlok_SiparisToplami":"Sipariş Toplamı","BlokModul_SizinIcinOnerdiklerimiz_Baslik":"SİZİN İÇİN ÖNERDİKLERİMİZ","BlokModul_SonZiyaretEdilenUrunler_Baslik":"Son Ziyaret Edilen Ürünler","BlokModul_UrunArama_Ara":"Ara","BlokModul_UrunArama_Arama":"Arama","BlokModul_UrunArama_AranacakKelimeGirin":"Lütfen aranacak kelimeyi giriniz...","Global_BirimFiyat":"Birim Fiyat","Global_Ekle":"Ekle","Global_Indirim":"İndirim","Global_IndirimliFiyat":"İndirimli Fiyat","Global_Kategori":"Kategori","Global_OnYazi":"Ön Yazı","Global_Promosyon":"Promosyon","Global_Puan":"Puan","Global_StokKodu":"Stok Kodu","Global_TeslimatNotu":"Teslimat Notu","Global_ToplamFiyat":"Toplam Fiyat","OdemeSistemi_BKM_Mesaj_OdemeParametresiHatali":"Ödeme parametreleri hatalı. checkTimeStamp failed","OdemeSistemi_BKM_Mesaj_OdemeTamamlanmadi":"Ödeme işlemi tamamlanamadı. Lütfen tekrar deneyiniz","OdemeSistemi_DenizBank_Mesaj_ServiseUlasilamadi":"Bank servisine ulaşılamadı.","OdemeSistemi_IPara3DGetWay_Mesaj_CevapAlinamadi":"Cevap Alınamadı","OdemeSistemi_IPara3DGetWay_Mesaj_OdemeBasarisiz":"Ödeme başarısız. Response Boş.","OdemeSistemi_IPara3DGetWay_Mesaj_OdemeBasarisiz1":"ÖDEME İŞLEMİNİZ BAŞARISIZ. Error Kodu: {0} Error Mesajı: {1}","OdemeSistemi_IPara3DGetWay_Mesaj_SessionBilgisiBulunamadi":"Session bilgisi bulunamadı","OdemeSistemi_IPara3DGetWay_Mesaj_SistemHatasi":"Sistem Hatası","OdemeSistemi_IyziCo_Mesaj_ApiBilgileriKontrol":"Iyzico token oluşturulamadı. API Bilgilerinizi kontrol edin.","OdemeSistemi_IyziCo_Mesaj_OdemeBasarisiz":"Ödeme Başarısız - Lütfen Yeniden Deneyiniz","OdemeSistemi_Mesaj_IslemBasarisiz":"İşlem sırasında bir hata oluştu.","OdemeSistemi_PaypalNotify_Mesaj_OdemeBasariz":"Ödeme Başarılı rutin Hatası","OdemeSistemi_Taksit":"Taksit","OdemeSistemi_TekCekim":"Tek Çekim","OdemeSistemi_VakifBank3D_Mesaj_2":"VPOS-724 Üye işyeri tanımsız ya da hatalı","OdemeSistemi_VakifBank3D_Mesaj_3":"Kart Visa/Mastercard değil ya da Üye işyeri MPI bilgileri alınamadı","OdemeSistemi_VakifBank3D_Mesaj_51":"ValidateUyeIsyeri hatası","OdemeSistemi_VakifBank3D_Mesaj_52":"GetUyeisyeriDirectoryInfo hatası","OdemeSistemi_VakifBank3D_Mesaj_53":"SendToMPI hatası","OdemeSistemi_VakifBank3D_Mesaj_54":"ProcessMPIResponse hatası","OdemeSistemi_VakifBank3D_Mesaj_55":"ProcessMPIACSResponse hatası","OdemeSistemi_VakifBank3D_Mesaj_60":"Üye işyeri sisteminden gelen parametreler eksik ya da validasyon başarısız","OdemeSistemi_VakifBank3D_Mesaj_61":"MPI sisteminden gelen parametreler eksik ya da validasyon başarısız","OdemeSistemi_VakifBank3D_Mesaj_62":"Kullanici Get 724 Session Hatasi","OdemeSistemi_VakifBank3D_Mesaj_69":"Hash bilgisi hatali","OdemeSistemi_VakifBank3D_Mesaj_9":"İşlem Başarısız.","OdemeSistemi_Ziraat_Mesaj_00":"Hata","OdemeSistemi_Ziraat_Mesaj_02":"Kartı veren bankayı arayınız.","OdemeSistemi_Ziraat_Mesaj_03":"Geçersiz Üye İşyeri","OdemeSistemi_Ziraat_Mesaj_04":"Karta El Koyunuz","OdemeSistemi_Ziraat_Mesaj_05":"İşlem Onaylanmadı","OdemeSistemi_Ziraat_Mesaj_12":"Geçersiz İşlem","OdemeSistemi_Ziraat_Mesaj_13":"Geçersiz İşlem tutarı","OdemeSistemi_Ziraat_Mesaj_14":"Geçersiz Kart Numarası","OdemeSistemi_Ziraat_Mesaj_15":"Kart Veren Banka Tanımsız","OdemeSistemi_Ziraat_Mesaj_41":"Kayıp kart","OdemeSistemi_Ziraat_Mesaj_43":"Çalıntı kart","OdemeSistemi_Ziraat_Mesaj_51":"Kart limiti Yetersiz","OdemeSistemi_Ziraat_Mesaj_54":"Vade Sonu Geçmiş Kart","OdemeSistemi_Ziraat_Mesaj_57":"İşlem Tipine Müsade Yok","OdemeSistemi_Ziraat_Mesaj_58":"İşlem Tipi Terminale Kapalı","OdemeSistemi_Ziraat_Mesaj_62":"Kısıtlanmış kart","OdemeSistemi_Ziraat_Mesaj_67":"Bu hesapta hiçbir işlem yapılamaz","OdemeSistemi_Ziraat_Mesaj_91":"Kartı veren banka hizmet dışı","OdemeSistemi_Ziraat_Mesaj_96":"Banka sistem arızası","SiparisTamamlandi_KargoAciklama":"güvencesiyle, siparişin en kısa sürede elinde.","SiparisTamamlandi_TicimaxKargo":"Ticimax Kargo","UrunDetay_MaksimumAlimAdedi":"Maksimum alım adeti","UrunDetay_MinimumAlimAdedi":"Minimum alım adeti","UserKontrol_MusteriSiparisDetayi_Banka":"Banka","UserKontrol_MusteriSiparisDetayi_BankaKomisyonu":"Banka Komisyonu","UserKontrol_MusteriSiparisDetayi_Durum":"Durum","UserKontrol_MusteriSiparisDetayi_FaturaBilgisi":"Fatura Bilgisi","UserKontrol_MusteriSiparisDetayi_FaturaYazdir":"Fatura Yazdır","UserKontrol_MusteriSiparisDetayi_HediyeCekiIndirimi":"Hediye Çeki İndirimi","UserKontrol_MusteriSiparisDetayi_HediyeCekiParaTutari":"Hediye Paketi Tutarı","UserKontrol_MusteriSiparisDetayi_HediyePaketiNotu":"Hediye Paketi Notu","UserKontrol_MusteriSiparisDetayi_HediyePaketiVar":"*** Hediye Paketi Var! ***","UserKontrol_MusteriSiparisDetayi_KapidaOdemeTutari":"Kapıda Ödeme Tutarı","UserKontrol_MusteriSiparisDetayi_KargoBedeli":"Kargo Bedeli","UserKontrol_MusteriSiparisDetayi_KartNo":"Kart No","UserKontrol_MusteriSiparisDetayi_KdvToplam":"Kdv Toplam","UserKontrol_MusteriSiparisDetayi_Mesaj_OdemeDurumu":"* Ödeme kontrolü yapılamamıştır. Lütfen bankanızdan kontrol ediniz.","UserKontrol_MusteriSiparisDetayi_NotunuzKaydedildi":"Notunuz kaydedildi.","UserKontrol_MusteriSiparisDetayi_OdemeTipi":"Ödeme Tipi","UserKontrol_MusteriSiparisDetayi_ReklamBilgisi":"Reklam Bilgisi","UserKontrol_MusteriSiparisDetayi_SecimYapilanKargo":"Seçim Yapılan Kargo","UserKontrol_MusteriSiparisDetayi_SiparisIleIlgiliNotlar":"Siparişle ilgili notlar","UserKontrol_MusteriSiparisDetayi_SiparisinGeldigiAdres":"Siparişin Geldiği Adres","UserKontrol_MusteriSiparisDetayi_TaksitSayisi":"Taksit Sayısı","UserKontrol_MusteriSiparisDetayi_TeslimatBilgisi":"Teslimat Bilgisi","UserKontrol_MusteriSiparisDetayi_TeslimatTarihiSaati":"Teslimat Tarihi / Saati","UserKontrol_MusteriSiparisDetayi_ToplamIndirimler":"Toplam İndirimler","UserKontrol_MusteriSiparisDetayi_Tutar":"Tutar","UserKontrol_SocialLogin_FacebookIleBaglan":"Facebook İle Bağlan","UserKontrol_SocialLogin_GoogleIleBaglan":"Google İle Bağlan","UserKontrol_SocialLogin_TwitterIleBaglan":"Twitter İle Bağlan","SiparisTamamlandi_TercihEttiginizTesekkurler":"{0} tercih ettiğiniz için teşekkür ederiz.","UrunDetay_AsortiSatisAciklama":"Bu üründe asorti satışı vardır. Sepete Eklenecek ürünler;","UrunDetay_HataliGuvenlikKodu":"Hatalı güvenlik kodu, lütfen tekrar deneyiniz.","UrunDetay_OnerinizKaydedildi":"Önerileriniz kaydedildi.","UrunDetay_UrunKampanyaSatir1_Aciklama1":"TL ve üzeri alışverişlerinizde bu ürünü","UrunDetay_UrunKampanyaSatir1_Aciklama2":"TL'ye alabilirsiniz.","UrunDetay_UrunKampanyaSatir2_Aciklama":"Özel fırsat ürünleri 1 sepette sadece {0} adet satın alınabilir.","Sepet_Guncelle":"Güncelle","Odeme_TaksitSecenekleri":"Taksit Seçenekleri","Sepet_UrunNotu":"Ürün Notu","HediyeKuponlarim_Tab_AktifHediyeCeklerim":"Aktif Hediye Çeklerim","HediyeKuponlarim_Tab_AktifOlacakHediyeCeklerim":"Aktif Olacak Hediye Çeklerim","HediyeKuponlarim_Tab_Tumu":"Tümü","ParaPuanlarim_HediyeCekiOlustur":"Hediye Çeki Oluştur","ParaPuanlarim_TLDegeriniGiriniz":"Lütfen [PARABIRIMI] değerini giriniz.","SiparisTamamlandi_AnasayfaDon":"Anasayfaya Dön","SiparisTamamlandi_HesabinizdakiToplamParaPuan":"Hesabınızdaki toplam Parapuan","SiparisTamamlandi_Kampanyalar":"Kampanyalar","SiparisTamamlandi_ParaPuanKazandiniz":"ParaPuan kazandınız!","SiparisTamamlandi_SiparisOzetindenTakipEdebilirsiniz":"Sipariş Özetinden Takip Edebilirsiniz!","UyeOl_Sozlesme":"<strong><a href=\"/UyelikSozlesme.aspx\" target=\"_blank\" style=\"color: #ff0000;\">Üyelik koşullarını</a></strong> ve <strong><a href=\"/UyelikSozlesme.aspx?sozlemeTipi=5\" target=\"_blank\" style=\"color: #ff0000;\">kişisel verilerimin korunmasını</a></strong> kabul ediyorum.","OdemeBildirimFormu_OdemeBildiriminizKaydedildi":"Ödeme bildiriminiz kaydedildi.","SiparisTamamla_HediyeNotunuzuBurayaYazabilirsiniz":"Hediye Notunuzu buraya yazabilirsiniz..","BlokModul_MailListesi_EPostaKayitli":"E-posta adresi zaten kayıt edilmiş.","GlobalArtiKDV":"&nbsp;+ KDV","SiparisDurumlari_Iade":"İade Edildi","SiparisDurumlari_IadeOdemeYapildi":"İade Ödemesi Yapıldı","SiparisDurumlari_IadeTalepAlindi":"İade Talebi Alındı","SiparisDurumlari_IadeUlastiOdemeYapilacak":"İade Ulaştı Ödeme Yapılacak","SiparisDurumlari_Iptal":"İptal Edildi","SiparisDurumlari_IptalTalebi":"İptal Talebi","SiparisDurumlari_KargoyaVerildi":"Kargoya Verildi","SiparisDurumlari_OdemeBekliyor":"Ödeme Bekliyor","SiparisDurumlari_On":"Siparişiniz Alındı","SiparisDurumlari_OnayBekliyor":"Onay Bekliyor","SiparisDurumlari_Onaylandi":"Onaylandı","SiparisDurumlari_Paketleniyor":"Paketleniyor","SiparisDurumlari_Silinmis":"Silinmiş","SiparisDurumlari_TedarikEdiliyor":"Tedarik Ediliyor","SiparisDurumlari_TeslimEdildi":"Teslim Edildi","SiparisDurumlari_TeslimOncesiIptal":"Teslimat Öncesi İptal Talebi","OdemeTipleri_Cari":"Cari","OdemeTipleri_CariKredi":"Cari Kredi","OdemeTipleri_Havale":"Havale","OdemeTipleri_KapidaOdemeKrediKarti":"Kapıda Ödeme Kredi Kartı","OdemeTipleri_KapidaOdemeNakit":"Kapıda Ödeme Nakit","OdemeTipleri_KrediKarti":"Kredi Kartı","OdemeTipleri_MobilOdeme":"Mobil Ödeme","OdemeTipleri_Nakit":"Nakit","PaketlemeDurumlari_Beklemede":"Beklemede","PaketlemeDurumlari_EksikGonderildi":"Eksik Gönderildi","PaketlemeDurumlari_EksikUrun":"Eksik Ürün","PaketlemeDurumlari_FaturaBekliyor":"Fatura Bekliyor","PaketlemeDurumlari_FaturaKesildi":"Fatura Kesildi","PaketlemeDurumlari_Paketleniyor":"Paketleniyor","SiparisFiltre_SiparisTipi_HataliOdemeli":"Hatalı Ödemesi Olan Siparişler","SiparisFiltre_SiparisTipi_Odemesiz":"Ödemesi Olmayan Siparişler","SiparisFiltre_SiparisTipi_Siparis":"Ödemesi Olan ya da Onay Bekleyen Ödemesi Olan Siparişler","Siparis_OdemeYok":"Ödeme Yok","Global_DilDegistir":"Dil Değiştir","Global_ParaBirimiDegistir":"Para Birimi Değiştir","Arama_UrunBulunmamaktadir":"ÜRÜN BULUNMAMAKTADIR","Global_SatinAl":"Satın Al","AdresDefterim_UlkeSeciniz":"Ülke Seçiniz","Odeme_LutfenSecimYapin":"Lütfen kapıda ödeme seçeneklerinden birini seçiniz.","Global_Tamam":"Tamam","SiparisTamamlandi_BtnMusteriHizmetleriBeniArasin":"Müşteri Hizmetleri Beni Arasın","SiparisTamamlandi_BtnSmsIleOnay":"Sms İle Onayla","SiparisTamamlandi_DogrulamaKoduHata":"Girdiğiniz Onay Kodu sistemle uyuşmamaktadır. Lütfen kontrol ediniz.","SiparisTamamlandi_DogrulamaKoduSureDoldu":"Doğrulama kodunuzun süresi dolmuştur.  Lütfen tekrar doğrulama kodu talep ediniz.","SiparisTamamlandi_DogrulamaKoduTelefonNumaraniziTekrarGonderilmistir":"Doğrulama kodu telefon numaranıza tekrar gönderilmiştir.","SiparisTamamlandi_GmsNo":"GSM No","SiparisTamamlandi_KapidaOdemeOnayGerekiyor":"Kapıda ödeme siparişinizin onayı gerekiyor.","SiparisTamamlandi_KapidaOdemeOnay_Aciklama1":"Kapıda ödeme siparişlerinizde GSM doğrulaması gerekmektedir.\n                                          Lütfen aşağıdaki kutuya telefon numaranızı girdikten sonra, istediğiniz doğrulama tipini seçiniz.","SiparisTamamlandi_KapidaOdemeOnay_Aciklama2":"** Siparişiniz onayını SMS ile direkt olarak verebilir ya da bırakacağınız numaradan çağrı merkezimiz tarafından aranarak onay verebilirsiniz. Siparişiniz; onay aınmadığı takdirde 48 saat içerisinde iptal edilir.","SiparisTamamlandi_KapidaOdemeOnay_Aciklama3":"GSM numaranıza gönderilen kodu üstte yer alan kutuya girerek onaylayabilirsiniz.","SiparisTamamlandi_KapidaOdemeOnay_Aciklama4":"Onay kodu hâlâ gelmediyse, tekrar isteyebilirsiniz.","SiparisTamamlandi_KapidaOdemeOnay_Aciklama5":"Onay işlemi tamamlandı.\n                                            <br>\n                                            <p></p>\n                                            <p>\n\t\t\t\t\t\t\t\t\t\t\t\tSiparişinizin onayı için gün içerisinde müşteri hizmetleri tarafından GSM numaranızdan aranarak onayınız talep edilecektir.\n                                            </p>\n                                            <p>\n\t\t\t\t\t\t\t\t\t\t\t\tSiparişiniz onay alınana kadar bekletilmektedir.\n                                            <br>\n                                            </p>\n                                            <p>\n                                                Siparişinizin onayını {0} numaralı Müşteri Hizmetlerimizden de verebilirsiniz. \n                                            <br>\n                                            </p>\n                                            <p>\n                                                <strong>Alışverişinizde {1} tercih ettiğiniz için teşekkür ederiz. </strong>\n                                            </p>","SiparisTamamlandi_KapidaOdemeOnay_SiparisDogrulamaKodu":"Sipariş Doğrulama Kodu","SiparisTamamlandi_OnayKodunuGiriniz":"Onay Kodunu Giriniz","SiparisTamamlandi_SiparisBasariylaOnaylanmistir":"Siparişiniz başarıyla onaylanmıştır.","SiparisTamamlandi_SiparisOnayi":"SİPARİŞ ONAYI","SiparisTamamlandi_SiparisOnayla":"Siparişi Onayla","SiparisTamamlandi_TelefonNumaranizDegistirilmistir":"Telefon numaranız başarıyla değiştirilmiştir.","SiparisTamamlandi_YenidenKodTalepEt":"Yeniden Kod Talep Et!","Global_ListeyeDon":"Listeye dön","Global_KayitBulunamadi":"Kayıt bulunamadı.","Validation_LutfenKimlikNumarasınızKontrolEdiniz":"Lütfen TC Kimlik Numaranızı Doğru Girdiğinizden Emin Olun","Global_Silindi":"Silindi","Global_Kopyala":"Kopyala","Global_PanoyaKopyala":"Panoya Kopyala","Global_PuanKullan":"Puan kullan","HediyeKuponlarim_KupanKopyalandi":"Kupon kodu panoya kopyalandı.","SiparisTamamla_BuTarihteTeslimatYapilmamaktadir":"Bu tarihte teslimat yapılmamaktadır.","SiparisTamamla_LutfenTeslimatSaatiSecin":"Lütfen teslimat saati seçiniz.","UyeOl_Sifre_errorList":"Hatalar","UyeOl_Sifre_medium":"Orta","UyeOl_Sifre_normal":"Normal","UyeOl_Sifre_strong":"Güçlü","UyeOl_Sifre_veryStrong":"Çok Güçlü","UyeOl_Sifre_veryWeak":"Çok Zayıf","UyeOl_Sifre_weak":"Zayıf","UyeOl_Sifre_wordLength":"Parolanız çok kısa","UyeOl_Sifre_wordNotEmail":"Şifre olarak e-posta kullanmayın","UyeOl_Sifre_wordRepetitions":"Çok fazla tekrarlar eden metin var","UyeOl_Sifre_wordSequences":"Parolanız sıralı dizi içeriyor","UyeOl_Sifre_wordSimilarToUsername":"Şifre kullanıcı adı içermelidir","UyeOl_Sifre_wordTwoCharacterClasses":"Farklı karakter sınıfları kullanın","BlokModul_Anket_Oyla":"Oyla","UrunDetay_LutfenSecenekSecin":"Lütfen Seçenek Seçiniz","Siparis_KargoUcreti":"Kargo Ücreti","Siparis_VadeFarki":"Vade Farkı","UrunDetay_MagazaStokBaslik":"Stoktaki Mağazalar","Sepet_KargoLimitineUlasimNotu":"Ücretsiz kargo hakkı kazanmanıza {0} kaldı!","ParaPuanlarim_MaxParaPuanAciklama":"Tek seferde en fazla [MAXDEGER] değerinde hediye çeki oluşturabilirsiniz.","SiparisTamamlandi_KapidaOdemeOnay_Aciklama6":"Sms kullanım hakkınız dolmuştur. Gün içerisinde müşteri hizmetleri tarafından GSM numaranızdan aranarak onayınız talep edilecektir.","Sepet_HediyeCekiniIptalEt":"Hediye Çekini İptal Et","Sepet_SepettenCikar":"Sepetten Çıkar","UrunListesi_SonUrun":"Son ürün","UrunListesi_TukenmekUzere":"Tükenmek üzere","HediyeKuponlarim_KullanilanSiparisler":"Kullanılan Siparişler","IadeTaleplerim_ParaIadeTipi_Degisim":"Değişim","IadeTaleplerim_Talep":"Talep","Validation_LutfenSecimYapin":"Lütfen Seçim Yapınız","Validation_Seciniz":"Seçiniz","Global_Aktif":"Aktif","Global_Pasif":"Pasif","Global_SecilenleriSepeteEkle":"Seçilenleri Sepete Ekle","IstekListesi_SatinAlinmadi":"Satın Alınmadı","IstekListesi_TarafindanSatinAlindi":"Tarafından Satın Alındı","Message_IslerimizBasarili":"İşleminiz başarıyla gerçekleşmiştir.","Message_IslerimizBasarisiz":"İşleminiz sırasında hata oluştu. Lütfen tekrar deneyin.","FiyatAlarmListem_IlkFiyat":"İlk Fiyat","ParaPuanlarim_MaxParaPuanValidate":"Maximum [DEGER] [PARABIRIMI] değerinde çek oluşturabilirsiniz","ParaPuanlarim_MinParaPuanValidate":"Minimum [DEGER] [PARABIRIMI] değerinde çek oluşturabilirsiniz","DestekTalepDetay_CevapYaziniz":"Cevap Yazınız","Global_Yonlendir":"Yönlendir","Global_Yonlendirme":"Yönlendirme","Siparislerim_SiparisIptalUyari":"Bu sipariş için iade talebi oluşturmalısınız. İade Talebi sayfasına yönlendiriliyorsunuz.","Siparislerim_SiparisTekrarlamaUyari":"Ürün(ler) sepetinize eklenmiştir.<br>Sepet sayfasına yönlendiriliyorsunuz.","UserControls_HesabimSolMenu_StokAlarmListem":"Stok Alarm Listem","GlobalMasterPage_GoogleBildirim1":"masaüstü bildirimlerine ekleyin.","GlobalMasterPage_GoogleBildirim2":"özel fırsatlardan ve güncel kampanyalardan haberiniz olsun ister misiniz?","Global_Merhaba":"Merhaba","GlobalMasterArtiKDV":"+ KDV","UrunDetay_IstekListesiSatinAlinmaUyari":"İstek listesinde bulunan bu ürün başka bir kullanıcı tarafından satın alındı.","HediyeKuponlarim_BaslangicTarihi":"Başlangıç Tarihi","FiyatAlarmListem_SonFiyat":"Son Fiyat","Hesabim_HesabimMenu":"Hesabım Menü","Global_OdemeYap":"Ödeme Yap","SiparisTakip_Baslik":"Sipariş Takip","AdresDefterim_AdresOrnek":"Mahalle, sokak, cadde ve diğer bilgilerinizi giriniz","UyeGiris_UyeDegilsenUyeOl":"Üye değilsen <b class='uyeDegilsenUyeOl'>ÜYE OL</b>","UrunFiltreleme_Tedarikci":"Tedarikçi","Odeme_OnBilgilendirmeFormu":"Ön Bilgilendirme Formu","Global_Onayliyorum":"Onaylıyorum","HediyeCeki_Hata_Bulunamadi":"Hediye çeki bulunamadı","HediyeCeki_Hata_FarkliUye":"Hediye çeki başka üyeye tanımlı","HediyeCeki_Hata_IndirimDegeriSifir":"Hediye çeki indirim değeri 0 dan büyük olmalıdır.","HediyeCeki_Hata_KategoriyeTanimli":"Hediye çeki kategoriye tanımlı, sadece ilgili kategorilerde kullanılabilir","HediyeCeki_Hata_MarkayaTanimli":"Hediye çeki markaya tanımlı, sadece ilgili markalarda kullanılabilir","HediyeCeki_Hata_UndirimliUrun":"Hediye çeki indirimli ürünlerle kullanılamaz, indirimsiz ürün toplamı hediye çeki tutarından düşük olamaz","HediyeCeki_Hata_UyeKullanimLimiti":"Hediye çeki üye kullanım limiti aşıldı","Global_DahaSonra":"Daha Sonra","BlokModul_MarkaArama_MarkaAra":"Marka Ara","UrunFiltreleme_Siralama":"Sıralama","UrunDetay_FiyatlariGorebilmekIcinGirisYapin":"Fiyatları görebilmek için üye girişi yapmalısınız.","UrunListesi_Sepette":"Sepette","Global_VarsayilanYap":"Varsayılan Yap","BlokModul_TelefonBulten_Aciklama":"Yeniliklerden Haberdar Olmak için Telefon Listemize Kaydolun","BlokModul_TelefonBulten_Baslik":"Telefon Bülten Kaydı","BlokModul_TelefonBulten_TelefonKayitli":"Telefon numarası daha önce  kayıt edilmiştir.","Global_Sayfa":"Sayfa","HediyeCeki_Uyari_KargoIndirimi":"Kullanılan hediye çeki kargo indirimi uygulamaktadır. İndirim tutarını sonraki ekranda görebilirsiniz.","Sepet_SepetiTemizle":"Sepeti Temizle","Odeme_OdemeSuresiDolmustur":"Sipariş için belirlenen ödeme süresi dolmuştur.","Sepet_TanimliHediyeCeklerim":"Tanımlı Hediye Çeklerim","SiparisAdimlari_AdresBilgileri":"Adres Bilgileri","Global_KargoKodu":"Kargo Kodu","SiparisAdimlari_OdemeSecenekAciklama":"Ödemenizi güvenle yapabilirsiniz","SiparisTamamla_FaturaAdresimiFarkliGirmekIstiyorum":"Fatura Adresim Farklı Olsun","Odeme_OdemeTurleri":"Ödeme Türleri","Odeme_OdemeTuruAciklama":"Siparişinizi tamamlamak için lütfen aşağıdan bir ödeme tipi belirleyin.","Arama_IlgiliEtiketler":"İlgili Etiketler","Arama_IlgiliKategoriler":"İlgili Kategoriler","Arama_IlgiliMarka":"İlgili Markalar","Arama_IlgiliTedarikciler":"İlgili Tedarikçiler","AdresDefterim_BukoliMesaji":"İstanbul içerisindeki Bukoli noktalarından birini seçin, ürünlerinizi size uyan zamanda kendiniz teslim alın.","SiparisDurumlari_KismiIadeTalebi":"Kısmi İade Talebi","SiparisDurumlari_KismiIadeYapildi":"Kısmi İade Yapıldı","Odeme_OdemeSecenegiBulunamadiUyari":"Ödeme Seçeneği Bulunamadı.","Validation_TelefonNumaraniziKontrolEdin":"Lütfen Telefon Numaranızı Kontrol Edin","Valdation_AyniDegeriTekrarGiriniz":"Lütfen aynı değeri tekrar giriniz.","Valdation_GecerliBirNumaraGirin":"Lütfen geçerli bir numara girin.","Valdation_GecerliBirTarihGirin":"Lütfen Geçerli Bir Tarih Girin","Valdation_GecerliBirUrlGirin":"Lütfen Geçerli Bir Url Girin","Valdation_LutfenBuAlandaDuzenlemeYapin":"Lütfen Bu Alanda Düzenleme Yapın","Valdation_MaximumKarakterKontrol":"Lütfen en fazla {0} karakter girin.","Valdation_MinimumKarakterKontrol":"Lütfen en az {0} karakter girin.","Valdation_SadeceRakamGiriniz":"Lütfen sadece rakam giriniz.","Valdation_UzantiKontrol":"Lütfen geçerli bir uzantıya sahip bir değer girin.","Validation_BuAlanZorunludur":"Bu Alan Zorunludur","Validation_MaximumDeger":"Lütfen {0} değerinden küçük veya ona eşit bir değer girin.","Validation_MinimumDeger":"Lütfen {0} değerinden büyük veya ona eşit bir değer girin.","Sepet_UyariSepetiTemizle":"Sepetinizdeki ürünler silinecektir. Devam etmek istiyor musunuz?","Validation_TelefonKontrolEdiniz":"Lütfen Telefon Numaranızı Kontrol Ediniz","Odeme_TaksitSecenekleriBilgilendirme":"Taksit seçenekleri, kredi kartı bilgilerinizi girdikten sonra gelecektir.","IadeTaleplerim_IadeAdedi":"İade Adedi","IadeTaleplerim_IadeTutari":"İade Tutarı","IadeTaleplerim_ToplamIadeTutari":"Toplam İade Tutarı","Sepet_Item_KampanyaTanimi":"Kampanya","Odeme_HediyeCekiKullanımLimitiDolmustur":"Kullandığınız hediye çekinin kullanım limiti dolmuştur.","Odeme_SiparisTutarUyari":"Ödeme yapabilmek için sipariş tutarınız 0'dan büyük olmalıdır.","Sepet_FavoriUrunleriniz":"Favori Ürünleriniz","SiparisTamamla_EkVergiTutari":"İlave Vergi","Validation_PostaKoduGiriniz":"Lütfen Posta Kodu Giriniz.","Sepet_MaksimumTaksitUyari":"{0} isimli üründen dolayı taksit sayısı {1} ile sınırlandırılmıştır.","Tedarikci_Listesi_Tedarikcilerimiz":"Tedarikçilerimiz","Global_Karsilastir":"Karşılaştır","KarsilastirmaListesi_UrunKarsilastirma":"Ürün Karşılaştırma","Validation_DogumGunuTarihiSecin":"Lütfen Doğum Günü Alanı Doldurunuz","Validation_LutfenCinsiyetAlanınıDoldurunuz":"Lütfen Cinsiyet Alanını Doldurunuz","TelefonBultenAyril_ButtonAyril":"Sms üyeliğinden ayrıl","TelefonBultenAyril_SmsSilindi":"Telefon numaranız bülten listemizden silinmiştir.","TelefonBultenAyril_SmsSilinecek":"Telefon numaranız sms listemizden silinecektir.\n olarak değiştirilmiştir.","TelefonBultenAyril_TelefonNoBulunamadi":"Telefon Numarası sistemimizde kayıtlı değildir.","TelefonBultenAyril_TelefonOnayAciklama":"Sms bülten aboneliğinden ayrılmak için telefon adresinize gönderilen onay bağlantısına tıklamanız gerekmektedir.","Odeme_SiparisiniGozdenGecir":"SİPARİŞİNİ GÖZDEN GEÇİR","Karsilastirma_Uyari":"Karşılaştırma yapabilmek için bir ürün daha ekleyin.","UrunDetay_MagazaAdi":"Mağaza Adı","UrunDetay_StokMiktari":"Stok Miktarı","UrunDetay_VarsayonBilgisi":"Varyasyon Bilgisi","Validation_HataliKullaniciAdi":"Hatalı kullanıcı adı, lütfen tekrar deneyiniz!!!","Validation_HataliSifreLutfenTekrarDeneyiniz":"Hatalı şifre, lütfen tekrar deneyiniz!","Validation_SifreniziDegistirmenizGerekiyor":"Şifrenizi değiştirmeniz gerekiyor","Validation_UyeliginizOnayBeklemektedir":"Üyeliğiniz onay beklemektedir!","Validation_UyeliginizPasifDurumdadir":"Üyeliğiniz pasif durumdadır","Validation_YetkisizIPAdresi":"Yetkisiz Ip Adresi.","Global_GeriDon":"Geri Dön","Global_Ucret":"Ücret","IstekListesi_IstekListesiAra":"İstek Listesi Ara","IstekListesi_IstekListesiDetay":"İstek Listesi Detay","IstekListesi_UyeninIstekListesi":"{0}'ın Listeleri","Sepet_Ozellestirmeleriniz":"Özelleştirmeleriniz","Sepet_UrunOzellestirmeTutari":"Ürün Özelleştirme Tutarı","Global_Hesapla":"Hesapla","Sepet_EkVergiHesaplama":"Ek Vergi Hesaplama","Validation_LutfenGecerliPostaKoduGirin":"Lütfen Geçerli Bir Posta Kodu Giriniz.","IstekListesiAra_IstekListesiBulunamadi":"İstek listesi bulunamadı.","IstekListesiAra_MailAdresineUygunIstekListesiBulunamadi":"Belirtilen mail adresine uygun istek listesi bulunamadı.","AdresDetay_TCVatandasiDegilim":"Tc Vatandaşı Değilim","UrunListe_KalanUrunSayisi":"Kalan ürün sayısı : ","UrunListe_SonrakiSayfa":"Sonraki Sayfa","UrunListe_FiltreFiyatUzerinde":"üzerinde","Instashop_AlisVeriseBasla":"ALIŞVERİŞE BAŞLA","Instashop_Bilgilendirme1":"Fiyat bilgisi ve alışveriş için fotoğraflara tıklayın.","Instashop_SosyaAgdaPaylas":"Sosyal Ağlarda Paylaş","Instashop_TakipEdin":"Instagram’da Takip Edin!","Magazalarimiz_EnYakinMagazalarimiz":"Size En Yakın Mağazalarımız","Magazalarimiz_HaritaGor":"Haritada Gör","Magazalarimiz_KonumunuzBulunamadi":"Konumunuz bulunamadı. Lütfen tekrar deneyin.","Magazalarimiz_MagazaAdiIleAra":"Mağaza Adı ile Ara","Magazalarimiz_SonucBulunamadi":"Sonuç bulunamadı","UrunListesi_HizliKargo":"Hızlı Kargo","Sepet_DosyayiGoruntule":"Dosyayı Görüntüle","BlokModul_DavetEt_DavetLinkinizOlusturulmustur":"Davet linkiniz oluşturulmuştur.","BlokModul_DavetEt_DavetLinkOlustur":"Link Oluştur","BlokModul_DavetEt_DavetLinkPaylas":"Davet Linki Paylaş","BlokModul_DavetEt_EPostaIle":"E-Posta ile","BlokModul_DavetEt_LutfenUyeGirisYapin":"Lütfen Üye Girişi Yapın","BlokModul_DavetEt_SmsIle":"Sms İle","Global_Kargo_Tanimi":"Kargo Tanımı","Global_Kargo_PaketInfo":" Gönderi Bilgileri","Global_Tarih":"Tarih","Arama_IlgiliUrunler":"Ürün","SozlesmeTipi_CaymaHakki":"Cayma Hakkı","SozlesmeTipi_MesafeliSatisSozlesmesi":"Mesafeli Satış Sözleşmesi","SozlesmeTipi_OnBilgilendirme":"Ön Bilgilendirme","SozlesmeTipi_UyelikSozlesmesi":"Üyelik Sözleşmesi","Validation_LutfenBirKargoSeciniz":"Lütfen bir kargo seçiniz.","Odeme_BuSiparisSonrasiBakiyeniz":"Bu Siparis Sonrası Bakiyeniz","Odeme_KrediLimitiniz":"Kredi Limitiniz","Odeme_KullanilabilirBakiyeniz":"Kullanılabilir Bakiyeniz","Global_Carsamba":"Çarşamba","Global_Cuma":"Cuma","Global_Cumartesi":"Cumartesi","Global_Pazar":"Pazar","Global_Pazartesi":"Pazartesi","Global_Persembe":"Perşembe","Global_Sali":"Salı","Galeri_BasariliIslemAciklama":"Yükleme işlemin başarıyla gerçekleşti, incelenip yayına alınacaktır. Sana haber vereceğiz. Teşekkür ederiz.","Galeri_BilgileriniziGiriniz":"Bilgilerinizi Giriniz","Galeri_EklemekIstedikleriniz":"Eklemek İstedikleriniz","Galeri_FotografEklendi":"FOTOĞRAF EKLENDİ","Global_Fotograf":"Fotoğraf","Global_Yukle":"Yükle","Validation_DosyaLimitKontrol":"Yüklediğiniz dosya {0} aşmaktadır. Lütfen boyutu daha düşük dosya yükleyiniz.","Validation_DosyaTipKontrol":"Dosya tipi desteklenmemektedir.Lütfen yüklediniz dosyayı kontrol ediniz.Desteklenen dosya tipleri","Validation_ResimSeciniz":"Lütfen Yüklemek İstediğiniz Resim(leri) seçin","Galeri_Resimleriniz":"Resimleriniz","Siparis_IleToplam":"{0} ile Toplam {1}","Siparislerim_HavaleBildirimi":"Havale Bildirimi","Hesabim_AramaAdi":"Arama Adı","Urunler_AramayiFavorilereKaydet":"Aramayı Favorilere Kaydet","Urunler_FiltrelemeyiKaydet":"Filtrelemeyi Kaydet","Urunler_KaydettigimFiltreyiKullan":"Kaydettigim Filtreyi Kullan","UserControls_HesabimSolMenu_KayitliAramalarim":"Kayıtlı Aramalarım","Global_Artir":"Artir","Global_Azalt":"Azalt","Urunler_BuguneOzel":"Bugüne Özel","Global_Dakika":"Dakika","Global_Saat":"Saat","Global_Saniye":"Saniye","Odeme_OdemeYapabilmekIcin":"Ödeme Yapabilmek İçin","Odeme_SozlesmeyiOnaylamanizGerekiyor":"Sözleşmeyi Onaylamanız Gerekiyor","Global_ListesinizdeAdetUrunBulunmaktadir":"Listenizde {0} ürün bulunmaktadır","Global_UrunResim":"Ürün Resmi","SayfaIcerik_IlgiliUrunler":"İlgili Ürünler","Siparis_NoluSiparisiniz":"{0} nolu Siparişiniz","Siparis_SiparisinizBasaliSekildeAlinmistir":"Siparişiniz başarılı şekilde alınmıştır.","Siparis_SiparisinizKargoyaVerildiKargoTakipNumaraniz":"Siparişiniz Kargoya Verildi. Kargo Takip Numaranız :","Siparis_SiparisizKargoyaVerildiTakipNo":"Siparişiniz Kargoya Verildi. [ Takip no : {0} ]","Siparis_TeslimEdildiBilgilendirme":"Siparişiniz teslim edildi","Global_Raf":"Raf","Siparis_PaketinizKargoyaVerildiKargoTakipNumaraniz":"Paketiniz Kargoya Verildi. Kargo Takip Numaranız :","Siparis_PaketinizKargoyaVerildiTakipNo":"Paketiniz Kargoya Verildi. [ Takip no : {0} ]","Siparis_PaketinizKargoyaVerildi":"Paketiniz Kargoya Verildi.","IstekListesi_FormOnemDerecesi":"Önem Derecesi","IstekListesi_OnemDerecesiYuksek":"Yüksek","IstekListesi_OnemDerecesiOrta":"Orta","IstekListesi_OnemDerecesiDusuk":"Düşük","IstekListesi_OnemDerecesiSeciniz":"Önem Derecesi Seçiniz","IstekListesi_FormTip":"Liste Türü","IadeTaleplerim_StokKodu":"Stok Kodu","IadeTaleplerim_UrunAdi":"Ürün Adı","Global_Sepetlerim":"Sepetlerim","Global_SepetleriBirlestir":"Sepetleri Birleştir","Global_YeniSepetOlustur":"Yeni Sepet Oluştur","Global_SeçilenleriTasi":"Seçilenleri Taşı","Siparislerim_FaturaIndir":"Fatura İndir","Blog_ListeyeDon":"Listeye dön","Blog_DevaminiOku":"Devamını oku","Blog_Kategoriler":"Kategoriler","Blog_Son_Blog_Yazilari":"Son Blog Yazıları","Blog_Etiketler":"Etiketler","IadeTaleplerim_Neden":"İptal İade Nedeni","IadeTaleplerim_Tip":"İptal İade Tipi","IadeTaleplerim_KargoCagriKodu":"Kargo Cağrı Kodu","UyeGiris_MailTelefon":"E-posta ya da Cep Telefonu","UyeOl_TelefonSistemeKayitli":"Cep telefonu sistemimizde kayıtlı.","SifremiUnuttum_TelelefonaBilgilerGonderildi":"Gerekli bilgiler telefon numaranıza gönderildi.","UyeGiris_TelefonKayitliDegil":"Telefon numaranız sisteme kayıtlı değil","UyelikBilgilerim_Mesaj_TelefonFarkliBirUyeyeAit":"Telefon numarası başka bir üye tarafından kullanılmaktadır.","UyelikBilgileriml_UyelikBilgilerimiSil":"Üyelik Bilgilerimi Sil","UyelikBilgilerim_UyelikSilmeAciklama":"Üyelik bilgilerini sildiğinizde kişisel verilerin korunması kanunu gereği tüm bilgileriniz sistemden silinmekte olup, yeniden üye olmanız gerekmektedir.","IadeTaleplerim_IptalEdilecekUrunuBulunamadi":"Siparişte iptal edilecek ürün bulunamadı.","IadeTaleplerim_KargoKodu":"Kargo Kodu","Global_Miktar":"Miktar","SiparisTamamlandi_SmsimGelmedinMusteriHizmetleriBeniArasin":"SMS’im Gelmedi Müşteri Hizmetleri Beni Arasın","UrunDetay_DosyaYukle":"Dosya Yükle","Magaazalarimiz_Buradasiniz":"Buradasınız","Magazalarimiz_YolTarifiAl":"Yol Tarifi Al","Validation_SemtSeciniz":"Lütfen Semt Seçiniz.","AdresDefterim_FormSemt":"Semt","AdresDefterim_SemtSeciniz":"Semt Seçiniz","Siparis_NoluSiparisinizinOdemesiOnaylanmistir":"{0} nolu Siparişinizin Ödemesi Onaylanmıştır","UrunDetay_TahminiTeslimSuresi":"Tahmini Teslim Süresi","Denemesitedil7":"denemesitedil7","BlokModul_BlogYazilari_Baslik":"Blog","SiparisTamamla_KargoSaatUcretsiz":"Ücretsiz","SiparisTamamla_KargoSaatMusait":"Müsait","SiparisTamamla_KargoSaatDolu":"Dolu","Siparislerim_SiparisiDegerlendir":"Sipariş Değerlendir","Odeme_MagazadaOde":"Mağazada Öde","DosyaSec":"Dosya Yükle","UrunDetay_Barkod":"Barkod","AdresDefterim_VergiNoUyari":"Lütfen geçerli bir vergi numarası girin","AdresDefterim_VergiNoUyariZorunluDegil":"Lütfen geçerli bir vergi numarası girin veya boş bırakın","0IsimliUrunumuzde1AdetStokBulunmamaktadir":"{0} isimli ürünümüzde {1} adet stok bulunmamaktadır.","UrunPasifeAlinmistir":"Ürün pasife alınmıştır. Alışverişe devam etmek için {0} isimli ürünü sepetinizden çıkarmanız gerekmektedir.","0IsimliUrunSepettenCikarilmistir":"{0} isimli ürün sepetten çıkarılmıştır.","UrunListe_Secenekler":"Seçenekler","LutfenOneriSecin":"Lütfen öneri seçin","LutfenFormAlanlariniDoldunuz":"Lütfen Form Alanlarını Doldurunuz","MagazaDetay":"Mağaza Detay","Sepet_GumrukVergisiHesaplama":"Gümrük Vergisi Hesaplama","SiparisTamamla_GumrukVergisi":"Gümrük Vergisi Tutarı","SiparisTamamla_GumrukVergisiTutari":"Gümrük Vergisi Tutarı","Sepet_KargoTamamlayiciUrunler":"Kargo Tamamlayıcı Ürünler","SiparisTamamla_GumrukVergisiVergi":"Yurt Dışı KDV","SiparisTamamla_GumrukVergisiGumruk":"Gümrük Vergisi","SiparisTamamla_GumrukVergisiMaliyet":"Gümrük Vergisi Maliyet","UrunePuanVerdiniz":"Ürüne {0} puan verdiniz.","Global_KombinUrunler":"Kombin Ürünler","UrunDetay_StoktakiMagazalar":"Stoktaki Mağazalar","Siparislerim_Mesaj_SiparisIadeEdildi":"Siparişiniz İade Edilmiştir.","Siparislerim_SiparisIadeEdildiMailBaslik":"Siparişiniz İade Edilmiştir.","LutfenFormAlanlariniDoldurunuz":"Lütfen Form Alanlarını Doldurunuz","Odeme_AlternatifOdemeYontemleri":"Alternatif Ödeme Yöntemleri","Siparislerim_KolayIade":"Kolay İade","Siparislerim_KargoKodu":"Kargo Kodu","IadeTaleplerim_KargoSecmelisiniz":"İadenizi tamamlamak için kargo seçmelisiniz.","Global_ButtonDevam":"Kaydet ve Devam Et","IadeTaleplerim_UrunSecmelisiniz":"İade talebi oluşturmak için ürün seçmelisiniz.","IadeTaleplerim_SiparisiminTamaminiIptalEt":"Siparişimin Tamamını İptal Et","IadeTaleplerim_SiparisiminUrunleriniIptalEt":"Siparişimdeki Ürünleri İptal Et","IadeTaleplerim_IadeKargoKoduBaslik":"İade Kargo Kodunuz Oluşturuldu.","IadeTaleplerim_IadeKargoKodu":"İade Kargo Kodu","Siparislerim_SiparisTekrarKampanyaUyari":"Oluşturduğunuz siparişte kampanyalı ürün bulunduğundan siparişinizi yeniden oluşturmanız için sepete yönlendirildiniz.","SiparisTamamla_PosetBilgisi":"Poşet Seçimi","SiparisTamamla_PosetIstemiyorum":"Poşet İstemiyorum","UrunDetay_Parcalar":"Parçalar","UrunDetay_TakimIceriginiDegistir":"Takım İçeriğini Değiştir","UrunDetay_Degistir":"Değiştir","UrunDetay_TakimIcerigi":"Takım İçeriği","UrunDetay_TakimEkle":"Takım Ekle","Sepet_PuanKullanimIptalEt":"Puan Kullanımı İptal Et","Sepet_PuanIndirimi":"Puan İndirimi","Testsitedil1":"testsitedil1","TamamlayiciUrunlerPopupAciklama":"{URUNADI} ürününü satın almak için aşağıdaki ürünleri de satın almalısınız.","TamamlayiciUrunler":"Tamamlayıcı Ürünler","UrunDetay_TamamlayiciUrunlerPopupAciklama":"{URUNADI} ürününü satın almak için aşağıdaki ürünleri de satın almalısınız.","UrunDetay_TamamlayiciUrunler":"Tamamlayıcı Ürünler","Global_TumunuSepeteEkle":"Tümünü Sepete Ekle","TamamlayiciUrunler_Bilgilendirme":"Satın almaya çalıştığınız ürün(ler)e ait tamamlayıcı ürün(ler) bulunmaktadır.","Sepet_Tamamlayici_Uyari":"Silmek istediğiniz ürüne ait tamamlayıcı ürünler bulunmaktadır. Tamamlayıcı ürünler ile birlikte ürünün silinmesini onaylıyor musunuz?","UrunDetay_GelinceHaberinOlsun":"GELİNCE HABERİN </br> OLSUN","Odeme_SwiftKodu":"Swift Kodu","UrunDetay_KombinFiyati":"Kombin Fiyatı","UrunDetay_IlgiliKombinler":"İlgili Kombinler","Sepet_KampanyaIndirimi":"Kampanya İndirimi","Hesabim_SifreDegistir":"Şifre Değiştir","Hesabim_EskiSifre":"Eski Şifre","Validation_SifreMinimumMinimumDegerKontrol":"Şifreniz {0}-{1} karakter arası uzunlukta olmalıdır.","Validation_Sifresnizde0Bulunmalidir":"Şifreniz de {0} bulunmalıdır.","Global_Harf":"Harf","Global_BuyukHarf":"Büyük Harf","Global_Rakam":"Rakam","Global_OzelKarakter":"Özel Karakter","Validation_YeniSifrenizEskisiIleAyniOlamaz":"Yeni şifreniz eski şifreniz ile aynı olamaz.","Validation_GirmisOldugunuzMevcutSifreniziKontrolEdin":"Lütfen girmiş olduğunuz mevcut şifrenizi kontrol ediniz.","Validation_MevcutSifreIleYeniSifreAyniOlamaz":"Mevcut şifre ile yeni şifre aynı olamaz","Global_IadeRefNo":"İade Referans Numarası","IadeTaleplerim_IadeTalebinizOlusturuldu":"İade Talebiniz Oluşturuldu.","Magazalarimiz_Magazalarimiz":"Mağazalarımız","UrunMagazadaBulunamadiUyari":"Ürün hiçbir mağazamızda bulunmamaktadır.","IslemGormemisTakipNumarasi":"İşlem Görmemiş Takip Numarası","CariOdeme_TutarOnaylaBilgilendirme":"* Tutar onayladıktan sonra ödeme ekranı açılacaktır.","CariOdeme_TutariOnayla":"Tutarı Onayla","CariOdeme_Ode":"Öde","Iletisim_HesapBilgileri_SwiftKodu":"Swift Kodu","UyelikBilgilerim_Iban":"IBAN","Sepet_BakiyeUyari":"Siparişi tamamlamak için bakiye tutarınıza eşit veya fazla tutarda ürün eklemelisiniz.","Odeme_BakiyeTamaminiOdeBilgi":"Siparişinizin tamamı hesabınızda bulunan bakiye ile ödeneceğinden diğer ödeme tiplerini göremiyorsunuz. Vazgeçmek için bakiye kullan işaretini kaldırabilir veya yeniden sepete gidebilirsiniz. Sepete gitmek için <a href=\"/Sepetim.aspx\"> tıklayın.</a>","Sepet_Bakiye":"Kullanılabilir Bakiyeniz","Odeme_Bakiyeniz":"Kullanılabilir Bakiyeniz","Odeme_BakiyeKullan":"Bakiye Kullan","Sepet_BakiyeTamamlayiciUrunler":"Bakiye Tamamlayıcı Ürünler","Validation_LutfenHediyeCekiGiriniz":"Lütfen hediye çeki giriniz.","UserControls_HesabimSolMenu_BakiyeBilgilerim":"Bakiye Bilgilerim","BakiyeBilgilerim_Baslik":"Bakiye Bilgilerim","Global_Bakiye":"Bakiye","UrunDetay_KampanyaFiyatAciklama":"Sepetteki Son Fiyat","UrunFiltreleme_Etiket":"Etiket","Validation_LutfenIbanAdresiniKontrolEdin":"Lütfen IBAN adresinizi kontrol ediniz.","Global_Urunler":"Ürünler","Validation_HataliKullaniciAdiVeyaSifre":"Hatalı kullanıcı adı veya şifre, lütfen tekrar deneyiniz!","Sepet_MinUrunAdetUyari":"Siparişinizi tamamlamak için sepetinizde {0} adet ürün bulunmalıdır."};</script>
+<script  src="/Scripts/bundles/ticimax.global.min.js?v=8.10.2.450.154743" type="text/javascript"></script>
+
+    
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N4JXG7X');</script>
+<!-- End Google Tag Manager -->
+  
+
+
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+var OneSignal = window.OneSignal || [];
+OneSignal.push(
+["init", {
+appId: "395d80a2-3f77-4977-949b-19fd47c212c1",
+welcomeNotification: {
+"title": "Selin Shoes",
+"message": "Bildirimleri kabul ettiğiniz için teşekkür ederiz."
+},
+autoRegister: false,
+notifyButton: {
+enable: false,
+}
+}],
+function() {
+OneSignal.registerForPushNotifications()
+}
+);
+</script><link href="https://www.selinshoes.com/polisman-lastikli-bot---siyah-1732" rel="canonical" /><script ticimax="true" type="text/javascript" src="/CustomCss/384a9016/Temp.js?v=154743"></script><script>(function (i, s, o, g, r, a, m) {
+                                            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                                                (i[r].q = i[r].q || []).push(arguments)
+                                            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                                            m = s.getElementsByTagName(o)[0]; a.setAttribute('ticimax', 'true'); a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                                        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');ga('create', 'UA-150104672-1', 'selinshoes.com');ga('require', 'displayfeatures');</script><script async="true" src="https://www.googletagmanager.com/gtag/js?id=AW-697430203"></script><script>window.dataLayer = window.dataLayer || [];
+                                    function gtag() { dataLayer.push(arguments); }
+                                    gtag('js', new Date());
+
+                                    gtag('config', 'AW-697430203');</script><meta name="description" content="POLİSMAN LASTİKLİ BOT - SİYAH - Selin Shoes , en iyi fiyat ve hızlı kargo ile selinshoes.com&#39;da.Kadın(bayan) Bot ve Çizme modellerini hemen keşfet! " /><meta property="og:url" content="https://www.selinshoes.com/polisman-lastikli-bot---siyah-1732" /><meta property="og:type" content="product" /><meta property="og:title" content="POLİSMAN LASTİKLİ BOT - SİYAH - Selin Shoes" /><meta property="og:image" content="https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg" /><meta property="og:description" content="POLİSMAN LASTİKLİ BOT - SİYAH - Selin Shoes , en iyi fiyat ve hızlı kargo ile selinshoes.com&#39;da.Kadın(bayan) Bot ve Çizme modellerini hemen keşfet! " /><meta property="og:site_name" content="Modanın Kalbi Ayakkabıların Trendi - Selin Shoes " /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="" /><meta name="twitter:creator" content="" /><meta name="twitter:title" content="POLİSMAN LASTİKLİ BOT - SİYAH - Selin Shoes" /><meta name="twitter:description" content="POLİSMAN LASTİKLİ BOT - SİYAH - Selin Shoes , en iyi fiyat ve hızlı kargo ile selinshoes.com&#39;da.Kadın(bayan) Bot ve Çizme modellerini hemen keşfet! " /><meta name="twitter:image" content="https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg" /><meta name="google-site-verification" content="tmVXaptisBHmoLRU3585C65g8BYsD5HL94hoAVxE9Z0" /></head>
+<body class="global_body">
+    <form method="post" action="./polisman-lastikli-bot---siyah-1732" id="formGlobal">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQzOTMwNDYzOGRkMoIP4OnjoH19shqzTpATyRI/sG6WJBiicZUL3+P1dFw=" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+globalModel.isiosDevice = false; 
+                                            globalModel.isAndroidDevice = false; 
+                                            globalModel.urlReferrer = 'https://www.selinshoes.com/kadin-ayakkabi-modelleri'; 
+                                            globalModel.pageUrl = 'www.selinshoes.com/polisman-lastikli-bot---siyah-1732'; 
+                                            var numFormatDefaults = {currencySymbol : '₺',currencySymbolLocation:0,decimalChar:',',decimalPlaces:2};
+                                            siteSettings.isAuthenticated = globalModel.isAuthenticated;var productDetailModel = {"productId":1732,"productName":"POLİSMAN LASTİKLİ BOT - SİYAH","stockCode":"SH000593-SİYAH","productShortDescription":"","productUrl":null,"productIsAsorti":false,"assortmentGroupId":0,"productVariantData":[{"id":107,"tanim":"SİYAH","tipID":2,"aktif":true,"sira":0,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Renk","ekSecenekTipiSira":1,"ekSecenekListeTipi":2,"stokAdedi":5,"urunID":8314,"urunKartID":1732,"stokBilgilendir":false},{"id":107,"tanim":"SİYAH","tipID":2,"aktif":true,"sira":0,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Renk","ekSecenekTipiSira":1,"ekSecenekListeTipi":2,"stokAdedi":6,"urunID":8313,"urunKartID":1732,"stokBilgilendir":false},{"id":107,"tanim":"SİYAH","tipID":2,"aktif":true,"sira":0,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Renk","ekSecenekTipiSira":1,"ekSecenekListeTipi":2,"stokAdedi":5,"urunID":8311,"urunKartID":1732,"stokBilgilendir":false},{"id":107,"tanim":"SİYAH","tipID":2,"aktif":true,"sira":0,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Renk","ekSecenekTipiSira":1,"ekSecenekListeTipi":2,"stokAdedi":4,"urunID":8312,"urunKartID":1732,"stokBilgilendir":false},{"id":107,"tanim":"SİYAH","tipID":2,"aktif":true,"sira":0,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Renk","ekSecenekTipiSira":1,"ekSecenekListeTipi":2,"stokAdedi":4,"urunID":8315,"urunKartID":1732,"stokBilgilendir":false},{"id":7,"tanim":"36","tipID":1,"aktif":true,"sira":9,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Numara","ekSecenekTipiSira":2,"ekSecenekListeTipi":2,"stokAdedi":5,"urunID":8311,"urunKartID":1732,"stokBilgilendir":false},{"id":8,"tanim":"37","tipID":1,"aktif":true,"sira":10,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Numara","ekSecenekTipiSira":2,"ekSecenekListeTipi":2,"stokAdedi":4,"urunID":8312,"urunKartID":1732,"stokBilgilendir":false},{"id":9,"tanim":"38","tipID":1,"aktif":true,"sira":11,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Numara","ekSecenekTipiSira":2,"ekSecenekListeTipi":2,"stokAdedi":6,"urunID":8313,"urunKartID":1732,"stokBilgilendir":false},{"id":10,"tanim":"39","tipID":1,"aktif":true,"sira":12,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Numara","ekSecenekTipiSira":2,"ekSecenekListeTipi":2,"stokAdedi":5,"urunID":8314,"urunKartID":1732,"stokBilgilendir":false},{"id":11,"tanim":"40","tipID":1,"aktif":true,"sira":13,"resim":"","renkKodu":"","ekSecenekTipiTanim":"Numara","ekSecenekTipiSira":2,"ekSecenekListeTipi":2,"stokAdedi":4,"urunID":8315,"urunKartID":1732,"stokBilgilendir":false}],"products":[{"alisKDV":0.0,"satisKDV":10.362960000000001,"indirimliKDV":0.0,"uye1KDV":0.0,"uye2KDV":0.0,"uye3KDV":0.0,"uye4KDV":0.0,"uye5KDV":0.0,"spotResimAdi":"polisman-lastikli-bot---siyah-9645.jpg","spotResimThumbYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/Thumb/polisman-lastikli-bot---siyah-9645.jpg","spotResimYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg","spotResimBuyukYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/polisman-lastikli-bot---siyah-9645.jpg","paraBirimi":"TL","paraBirimiKodu":"TRY","paraBirimiDilKodu":"tr-TR","urunSepetFiyati":129.537,"urunSepetFiyatiKDV":10.362960000000001,"urunFiyatiOrjinal":129.537,"urunFiyatiOrjinalKDV":10.362960000000001,"indirimOrani":0,"ekSecenekOzellik":null,"ekSecenekOzellikDetay":null,"ekSecenekOzellikDetayIDs":null,"resimler":null,"urunKampanyaAktif":false,"urunKampanyaAdet":0,"urunKampanyaUrunFiyat":0.0,"urunKampanyaSepetTutari":0.0,"urunKampanyaKosulsuzEklenebilir":true,"urunKampanyaNormalFiyatKullan":false,"alisFiyatiStr":null,"satisFiyatiStr":"₺139,90","indirimliFiyatiStr":"₺0,00","uyeTipiFiyat1Str":"₺0,00","uyeTipiFiyat2Str":"₺0,00","uyeTipiFiyat3Str":"₺0,00","uyeTipiFiyat4Str":"₺0,00","uyeTipiFiyat5Str":"₺0,00","urunSepetFiyatiStr":"₺139,90","urunFiyatiOrjinalStr":"₺139,90","id":8311,"stokKodu":"SH000593-SİYAH","barkod":"8699403067493","stokAdedi":5.0,"eksiStokAdedi":0.0,"alisFiyati":0.0,"satisFiyati":129.537,"indirimliFiyati":0.0,"kdvOrani":8,"kdvDahil":true,"paraBirimiId":1,"satisFiyati1":0.0,"indirimliFiyati1":0.0,"kdvOrani1":0,"kdvDahil1":false,"paraBirimi1Id":1,"satisFiyati2":0.0,"indirimliFiyati2":0.0,"kdvOrani2":0,"kdvDahil2":false,"paraBirimi2Id":1,"satisFiyati3":0.0,"indirimliFiyati3":0.0,"kdvOrani3":0,"kdvDahil3":false,"paraBirimi3Id":1,"satisFiyati4":0.0,"indirimliFiyati4":0.0,"kdvOrani4":0,"kdvDahil4":false,"paraBirimi4Id":1,"satisFiyati5":0.0,"indirimliFiyati5":0.0,"kdvOrani5":0,"kdvDahil5":false,"paraBirimi5Id":1,"satisFiyati6":0.0,"indirimliFiyati6":0.0,"kdvOrani6":0,"kdvDahil6":false,"paraBirimi6Id":1,"satisFiyati7":0.0,"indirimliFiyati7":0.0,"kdvOrani7":0,"kdvDahil7":false,"paraBirimi7Id":1,"satisFiyati8":0.0,"indirimliFiyati8":0.0,"kdvOrani8":0,"kdvDahil8":false,"paraBirimi8Id":1,"satisFiyati9":0.0,"indirimliFiyati9":0.0,"kdvOrani9":0,"kdvDahil9":false,"paraBirimi9Id":1,"satisFiyati10":0.0,"indirimliFiyati10":0.0,"kdvOrani10":0,"kdvDahil10":false,"paraBirimi10Id":1,"satisFiyati11":0.0,"indirimliFiyati11":0.0,"kdvOrani11":0,"kdvDahil11":false,"paraBirimi11Id":1,"satisFiyati12":0.0,"indirimliFiyati12":0.0,"kdvOrani12":0,"kdvDahil12":false,"paraBirimi12Id":1,"satisFiyati13":0.0,"indirimliFiyati13":0.0,"kdvOrani13":0,"kdvDahil13":false,"paraBirimi13Id":1,"satisFiyati14":0.0,"indirimliFiyati14":0.0,"kdvOrani14":0,"kdvDahil14":false,"paraBirimi14Id":1,"satisFiyati15":0.0,"indirimliFiyati15":0.0,"kdvOrani15":0,"kdvDahil15":false,"paraBirimi15Id":1,"satisFiyati16":0.0,"indirimliFiyati16":0.0,"kdvOrani16":0,"kdvDahil16":false,"paraBirimi16Id":1,"satisFiyati17":0.0,"indirimliFiyati17":0.0,"kdvOrani17":0,"kdvDahil17":false,"paraBirimi17Id":1,"satisFiyati18":0.0,"indirimliFiyati18":0.0,"kdvOrani18":0,"kdvDahil18":false,"paraBirimi18Id":1,"satisFiyati19":0.0,"indirimliFiyati19":0.0,"kdvOrani19":0,"kdvDahil19":false,"paraBirimi19Id":1,"satisFiyati20":0.0,"indirimliFiyati20":0.0,"kdvOrani20":0,"kdvDahil20":false,"paraBirimi20Id":1,"uyeTipiFiyat1":0.0,"uyeTipiFiyat2":0.0,"uyeTipiFiyat3":0.0,"uyeTipiFiyat4":0.0,"uyeTipiFiyat5":0.0,"iscilikAgirlik":0.0,"iscilikParaBirimiId":1,"kargoAgirligi":1.0,"kargoAgirligiYurtDisi":0.0,"kargoUcreti":0.0,"urunKartiId":1732,"aktif":true,"anaUrun":true,"eklemeTarihi":"0001-01-01T00:00:00","duzenlemeTarihi":"0001-01-01T00:00:00","ekleyenKullanici":0,"duzenleyenKullanici":0,"tedarikciKodu":"NEBIMV3|SH000593|SİYAH|36","tedarikciKodu2":null},{"alisKDV":0.0,"satisKDV":10.362960000000001,"indirimliKDV":0.0,"uye1KDV":0.0,"uye2KDV":0.0,"uye3KDV":0.0,"uye4KDV":0.0,"uye5KDV":0.0,"spotResimAdi":"polisman-lastikli-bot---siyah-9645.jpg","spotResimThumbYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/Thumb/polisman-lastikli-bot---siyah-9645.jpg","spotResimYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg","spotResimBuyukYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/polisman-lastikli-bot---siyah-9645.jpg","paraBirimi":"TL","paraBirimiKodu":"TRY","paraBirimiDilKodu":"tr-TR","urunSepetFiyati":129.537,"urunSepetFiyatiKDV":10.362960000000001,"urunFiyatiOrjinal":129.537,"urunFiyatiOrjinalKDV":10.362960000000001,"indirimOrani":0,"ekSecenekOzellik":null,"ekSecenekOzellikDetay":null,"ekSecenekOzellikDetayIDs":null,"resimler":null,"urunKampanyaAktif":false,"urunKampanyaAdet":0,"urunKampanyaUrunFiyat":0.0,"urunKampanyaSepetTutari":0.0,"urunKampanyaKosulsuzEklenebilir":true,"urunKampanyaNormalFiyatKullan":false,"alisFiyatiStr":null,"satisFiyatiStr":"₺139,90","indirimliFiyatiStr":"₺0,00","uyeTipiFiyat1Str":"₺0,00","uyeTipiFiyat2Str":"₺0,00","uyeTipiFiyat3Str":"₺0,00","uyeTipiFiyat4Str":"₺0,00","uyeTipiFiyat5Str":"₺0,00","urunSepetFiyatiStr":"₺139,90","urunFiyatiOrjinalStr":"₺139,90","id":8312,"stokKodu":"SH000593-SİYAH","barkod":"8699403067509","stokAdedi":4.0,"eksiStokAdedi":0.0,"alisFiyati":0.0,"satisFiyati":129.537,"indirimliFiyati":0.0,"kdvOrani":8,"kdvDahil":true,"paraBirimiId":1,"satisFiyati1":0.0,"indirimliFiyati1":0.0,"kdvOrani1":0,"kdvDahil1":false,"paraBirimi1Id":1,"satisFiyati2":0.0,"indirimliFiyati2":0.0,"kdvOrani2":0,"kdvDahil2":false,"paraBirimi2Id":1,"satisFiyati3":0.0,"indirimliFiyati3":0.0,"kdvOrani3":0,"kdvDahil3":false,"paraBirimi3Id":1,"satisFiyati4":0.0,"indirimliFiyati4":0.0,"kdvOrani4":0,"kdvDahil4":false,"paraBirimi4Id":1,"satisFiyati5":0.0,"indirimliFiyati5":0.0,"kdvOrani5":0,"kdvDahil5":false,"paraBirimi5Id":1,"satisFiyati6":0.0,"indirimliFiyati6":0.0,"kdvOrani6":0,"kdvDahil6":false,"paraBirimi6Id":1,"satisFiyati7":0.0,"indirimliFiyati7":0.0,"kdvOrani7":0,"kdvDahil7":false,"paraBirimi7Id":1,"satisFiyati8":0.0,"indirimliFiyati8":0.0,"kdvOrani8":0,"kdvDahil8":false,"paraBirimi8Id":1,"satisFiyati9":0.0,"indirimliFiyati9":0.0,"kdvOrani9":0,"kdvDahil9":false,"paraBirimi9Id":1,"satisFiyati10":0.0,"indirimliFiyati10":0.0,"kdvOrani10":0,"kdvDahil10":false,"paraBirimi10Id":1,"satisFiyati11":0.0,"indirimliFiyati11":0.0,"kdvOrani11":0,"kdvDahil11":false,"paraBirimi11Id":1,"satisFiyati12":0.0,"indirimliFiyati12":0.0,"kdvOrani12":0,"kdvDahil12":false,"paraBirimi12Id":1,"satisFiyati13":0.0,"indirimliFiyati13":0.0,"kdvOrani13":0,"kdvDahil13":false,"paraBirimi13Id":1,"satisFiyati14":0.0,"indirimliFiyati14":0.0,"kdvOrani14":0,"kdvDahil14":false,"paraBirimi14Id":1,"satisFiyati15":0.0,"indirimliFiyati15":0.0,"kdvOrani15":0,"kdvDahil15":false,"paraBirimi15Id":1,"satisFiyati16":0.0,"indirimliFiyati16":0.0,"kdvOrani16":0,"kdvDahil16":false,"paraBirimi16Id":1,"satisFiyati17":0.0,"indirimliFiyati17":0.0,"kdvOrani17":0,"kdvDahil17":false,"paraBirimi17Id":1,"satisFiyati18":0.0,"indirimliFiyati18":0.0,"kdvOrani18":0,"kdvDahil18":false,"paraBirimi18Id":1,"satisFiyati19":0.0,"indirimliFiyati19":0.0,"kdvOrani19":0,"kdvDahil19":false,"paraBirimi19Id":1,"satisFiyati20":0.0,"indirimliFiyati20":0.0,"kdvOrani20":0,"kdvDahil20":false,"paraBirimi20Id":1,"uyeTipiFiyat1":0.0,"uyeTipiFiyat2":0.0,"uyeTipiFiyat3":0.0,"uyeTipiFiyat4":0.0,"uyeTipiFiyat5":0.0,"iscilikAgirlik":0.0,"iscilikParaBirimiId":1,"kargoAgirligi":1.0,"kargoAgirligiYurtDisi":0.0,"kargoUcreti":0.0,"urunKartiId":1732,"aktif":true,"anaUrun":false,"eklemeTarihi":"0001-01-01T00:00:00","duzenlemeTarihi":"0001-01-01T00:00:00","ekleyenKullanici":0,"duzenleyenKullanici":0,"tedarikciKodu":"NEBIMV3|SH000593|SİYAH|37","tedarikciKodu2":null},{"alisKDV":0.0,"satisKDV":10.362960000000001,"indirimliKDV":0.0,"uye1KDV":0.0,"uye2KDV":0.0,"uye3KDV":0.0,"uye4KDV":0.0,"uye5KDV":0.0,"spotResimAdi":"polisman-lastikli-bot---siyah-9645.jpg","spotResimThumbYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/Thumb/polisman-lastikli-bot---siyah-9645.jpg","spotResimYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg","spotResimBuyukYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/polisman-lastikli-bot---siyah-9645.jpg","paraBirimi":"TL","paraBirimiKodu":"TRY","paraBirimiDilKodu":"tr-TR","urunSepetFiyati":129.537,"urunSepetFiyatiKDV":10.362960000000001,"urunFiyatiOrjinal":129.537,"urunFiyatiOrjinalKDV":10.362960000000001,"indirimOrani":0,"ekSecenekOzellik":null,"ekSecenekOzellikDetay":null,"ekSecenekOzellikDetayIDs":null,"resimler":null,"urunKampanyaAktif":false,"urunKampanyaAdet":0,"urunKampanyaUrunFiyat":0.0,"urunKampanyaSepetTutari":0.0,"urunKampanyaKosulsuzEklenebilir":true,"urunKampanyaNormalFiyatKullan":false,"alisFiyatiStr":null,"satisFiyatiStr":"₺139,90","indirimliFiyatiStr":"₺0,00","uyeTipiFiyat1Str":"₺0,00","uyeTipiFiyat2Str":"₺0,00","uyeTipiFiyat3Str":"₺0,00","uyeTipiFiyat4Str":"₺0,00","uyeTipiFiyat5Str":"₺0,00","urunSepetFiyatiStr":"₺139,90","urunFiyatiOrjinalStr":"₺139,90","id":8313,"stokKodu":"SH000593-SİYAH","barkod":"8699403067516","stokAdedi":6.0,"eksiStokAdedi":0.0,"alisFiyati":0.0,"satisFiyati":129.537,"indirimliFiyati":0.0,"kdvOrani":8,"kdvDahil":true,"paraBirimiId":1,"satisFiyati1":0.0,"indirimliFiyati1":0.0,"kdvOrani1":0,"kdvDahil1":false,"paraBirimi1Id":1,"satisFiyati2":0.0,"indirimliFiyati2":0.0,"kdvOrani2":0,"kdvDahil2":false,"paraBirimi2Id":1,"satisFiyati3":0.0,"indirimliFiyati3":0.0,"kdvOrani3":0,"kdvDahil3":false,"paraBirimi3Id":1,"satisFiyati4":0.0,"indirimliFiyati4":0.0,"kdvOrani4":0,"kdvDahil4":false,"paraBirimi4Id":1,"satisFiyati5":0.0,"indirimliFiyati5":0.0,"kdvOrani5":0,"kdvDahil5":false,"paraBirimi5Id":1,"satisFiyati6":0.0,"indirimliFiyati6":0.0,"kdvOrani6":0,"kdvDahil6":false,"paraBirimi6Id":1,"satisFiyati7":0.0,"indirimliFiyati7":0.0,"kdvOrani7":0,"kdvDahil7":false,"paraBirimi7Id":1,"satisFiyati8":0.0,"indirimliFiyati8":0.0,"kdvOrani8":0,"kdvDahil8":false,"paraBirimi8Id":1,"satisFiyati9":0.0,"indirimliFiyati9":0.0,"kdvOrani9":0,"kdvDahil9":false,"paraBirimi9Id":1,"satisFiyati10":0.0,"indirimliFiyati10":0.0,"kdvOrani10":0,"kdvDahil10":false,"paraBirimi10Id":1,"satisFiyati11":0.0,"indirimliFiyati11":0.0,"kdvOrani11":0,"kdvDahil11":false,"paraBirimi11Id":1,"satisFiyati12":0.0,"indirimliFiyati12":0.0,"kdvOrani12":0,"kdvDahil12":false,"paraBirimi12Id":1,"satisFiyati13":0.0,"indirimliFiyati13":0.0,"kdvOrani13":0,"kdvDahil13":false,"paraBirimi13Id":1,"satisFiyati14":0.0,"indirimliFiyati14":0.0,"kdvOrani14":0,"kdvDahil14":false,"paraBirimi14Id":1,"satisFiyati15":0.0,"indirimliFiyati15":0.0,"kdvOrani15":0,"kdvDahil15":false,"paraBirimi15Id":1,"satisFiyati16":0.0,"indirimliFiyati16":0.0,"kdvOrani16":0,"kdvDahil16":false,"paraBirimi16Id":1,"satisFiyati17":0.0,"indirimliFiyati17":0.0,"kdvOrani17":0,"kdvDahil17":false,"paraBirimi17Id":1,"satisFiyati18":0.0,"indirimliFiyati18":0.0,"kdvOrani18":0,"kdvDahil18":false,"paraBirimi18Id":1,"satisFiyati19":0.0,"indirimliFiyati19":0.0,"kdvOrani19":0,"kdvDahil19":false,"paraBirimi19Id":1,"satisFiyati20":0.0,"indirimliFiyati20":0.0,"kdvOrani20":0,"kdvDahil20":false,"paraBirimi20Id":1,"uyeTipiFiyat1":0.0,"uyeTipiFiyat2":0.0,"uyeTipiFiyat3":0.0,"uyeTipiFiyat4":0.0,"uyeTipiFiyat5":0.0,"iscilikAgirlik":0.0,"iscilikParaBirimiId":1,"kargoAgirligi":1.0,"kargoAgirligiYurtDisi":0.0,"kargoUcreti":0.0,"urunKartiId":1732,"aktif":true,"anaUrun":false,"eklemeTarihi":"0001-01-01T00:00:00","duzenlemeTarihi":"0001-01-01T00:00:00","ekleyenKullanici":0,"duzenleyenKullanici":0,"tedarikciKodu":"NEBIMV3|SH000593|SİYAH|38","tedarikciKodu2":null},{"alisKDV":0.0,"satisKDV":10.362960000000001,"indirimliKDV":0.0,"uye1KDV":0.0,"uye2KDV":0.0,"uye3KDV":0.0,"uye4KDV":0.0,"uye5KDV":0.0,"spotResimAdi":"polisman-lastikli-bot---siyah-9645.jpg","spotResimThumbYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/Thumb/polisman-lastikli-bot---siyah-9645.jpg","spotResimYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg","spotResimBuyukYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/polisman-lastikli-bot---siyah-9645.jpg","paraBirimi":"TL","paraBirimiKodu":"TRY","paraBirimiDilKodu":"tr-TR","urunSepetFiyati":129.537,"urunSepetFiyatiKDV":10.362960000000001,"urunFiyatiOrjinal":129.537,"urunFiyatiOrjinalKDV":10.362960000000001,"indirimOrani":0,"ekSecenekOzellik":null,"ekSecenekOzellikDetay":null,"ekSecenekOzellikDetayIDs":null,"resimler":null,"urunKampanyaAktif":false,"urunKampanyaAdet":0,"urunKampanyaUrunFiyat":0.0,"urunKampanyaSepetTutari":0.0,"urunKampanyaKosulsuzEklenebilir":true,"urunKampanyaNormalFiyatKullan":false,"alisFiyatiStr":null,"satisFiyatiStr":"₺139,90","indirimliFiyatiStr":"₺0,00","uyeTipiFiyat1Str":"₺0,00","uyeTipiFiyat2Str":"₺0,00","uyeTipiFiyat3Str":"₺0,00","uyeTipiFiyat4Str":"₺0,00","uyeTipiFiyat5Str":"₺0,00","urunSepetFiyatiStr":"₺139,90","urunFiyatiOrjinalStr":"₺139,90","id":8314,"stokKodu":"SH000593-SİYAH","barkod":"8699403067523","stokAdedi":5.0,"eksiStokAdedi":0.0,"alisFiyati":0.0,"satisFiyati":129.537,"indirimliFiyati":0.0,"kdvOrani":8,"kdvDahil":true,"paraBirimiId":1,"satisFiyati1":0.0,"indirimliFiyati1":0.0,"kdvOrani1":0,"kdvDahil1":false,"paraBirimi1Id":1,"satisFiyati2":0.0,"indirimliFiyati2":0.0,"kdvOrani2":0,"kdvDahil2":false,"paraBirimi2Id":1,"satisFiyati3":0.0,"indirimliFiyati3":0.0,"kdvOrani3":0,"kdvDahil3":false,"paraBirimi3Id":1,"satisFiyati4":0.0,"indirimliFiyati4":0.0,"kdvOrani4":0,"kdvDahil4":false,"paraBirimi4Id":1,"satisFiyati5":0.0,"indirimliFiyati5":0.0,"kdvOrani5":0,"kdvDahil5":false,"paraBirimi5Id":1,"satisFiyati6":0.0,"indirimliFiyati6":0.0,"kdvOrani6":0,"kdvDahil6":false,"paraBirimi6Id":1,"satisFiyati7":0.0,"indirimliFiyati7":0.0,"kdvOrani7":0,"kdvDahil7":false,"paraBirimi7Id":1,"satisFiyati8":0.0,"indirimliFiyati8":0.0,"kdvOrani8":0,"kdvDahil8":false,"paraBirimi8Id":1,"satisFiyati9":0.0,"indirimliFiyati9":0.0,"kdvOrani9":0,"kdvDahil9":false,"paraBirimi9Id":1,"satisFiyati10":0.0,"indirimliFiyati10":0.0,"kdvOrani10":0,"kdvDahil10":false,"paraBirimi10Id":1,"satisFiyati11":0.0,"indirimliFiyati11":0.0,"kdvOrani11":0,"kdvDahil11":false,"paraBirimi11Id":1,"satisFiyati12":0.0,"indirimliFiyati12":0.0,"kdvOrani12":0,"kdvDahil12":false,"paraBirimi12Id":1,"satisFiyati13":0.0,"indirimliFiyati13":0.0,"kdvOrani13":0,"kdvDahil13":false,"paraBirimi13Id":1,"satisFiyati14":0.0,"indirimliFiyati14":0.0,"kdvOrani14":0,"kdvDahil14":false,"paraBirimi14Id":1,"satisFiyati15":0.0,"indirimliFiyati15":0.0,"kdvOrani15":0,"kdvDahil15":false,"paraBirimi15Id":1,"satisFiyati16":0.0,"indirimliFiyati16":0.0,"kdvOrani16":0,"kdvDahil16":false,"paraBirimi16Id":1,"satisFiyati17":0.0,"indirimliFiyati17":0.0,"kdvOrani17":0,"kdvDahil17":false,"paraBirimi17Id":1,"satisFiyati18":0.0,"indirimliFiyati18":0.0,"kdvOrani18":0,"kdvDahil18":false,"paraBirimi18Id":1,"satisFiyati19":0.0,"indirimliFiyati19":0.0,"kdvOrani19":0,"kdvDahil19":false,"paraBirimi19Id":1,"satisFiyati20":0.0,"indirimliFiyati20":0.0,"kdvOrani20":0,"kdvDahil20":false,"paraBirimi20Id":1,"uyeTipiFiyat1":0.0,"uyeTipiFiyat2":0.0,"uyeTipiFiyat3":0.0,"uyeTipiFiyat4":0.0,"uyeTipiFiyat5":0.0,"iscilikAgirlik":0.0,"iscilikParaBirimiId":1,"kargoAgirligi":1.0,"kargoAgirligiYurtDisi":0.0,"kargoUcreti":0.0,"urunKartiId":1732,"aktif":true,"anaUrun":false,"eklemeTarihi":"0001-01-01T00:00:00","duzenlemeTarihi":"0001-01-01T00:00:00","ekleyenKullanici":0,"duzenleyenKullanici":0,"tedarikciKodu":"NEBIMV3|SH000593|SİYAH|39","tedarikciKodu2":null},{"alisKDV":0.0,"satisKDV":10.362960000000001,"indirimliKDV":0.0,"uye1KDV":0.0,"uye2KDV":0.0,"uye3KDV":0.0,"uye4KDV":0.0,"uye5KDV":0.0,"spotResimAdi":"polisman-lastikli-bot---siyah-9645.jpg","spotResimThumbYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/Thumb/polisman-lastikli-bot---siyah-9645.jpg","spotResimYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg","spotResimBuyukYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/polisman-lastikli-bot---siyah-9645.jpg","paraBirimi":"TL","paraBirimiKodu":"TRY","paraBirimiDilKodu":"tr-TR","urunSepetFiyati":129.537,"urunSepetFiyatiKDV":10.362960000000001,"urunFiyatiOrjinal":129.537,"urunFiyatiOrjinalKDV":10.362960000000001,"indirimOrani":0,"ekSecenekOzellik":null,"ekSecenekOzellikDetay":null,"ekSecenekOzellikDetayIDs":null,"resimler":null,"urunKampanyaAktif":false,"urunKampanyaAdet":0,"urunKampanyaUrunFiyat":0.0,"urunKampanyaSepetTutari":0.0,"urunKampanyaKosulsuzEklenebilir":true,"urunKampanyaNormalFiyatKullan":false,"alisFiyatiStr":null,"satisFiyatiStr":"₺139,90","indirimliFiyatiStr":"₺0,00","uyeTipiFiyat1Str":"₺0,00","uyeTipiFiyat2Str":"₺0,00","uyeTipiFiyat3Str":"₺0,00","uyeTipiFiyat4Str":"₺0,00","uyeTipiFiyat5Str":"₺0,00","urunSepetFiyatiStr":"₺139,90","urunFiyatiOrjinalStr":"₺139,90","id":8315,"stokKodu":"SH000593-SİYAH","barkod":"8699403067530","stokAdedi":4.0,"eksiStokAdedi":0.0,"alisFiyati":0.0,"satisFiyati":129.537,"indirimliFiyati":0.0,"kdvOrani":8,"kdvDahil":true,"paraBirimiId":1,"satisFiyati1":0.0,"indirimliFiyati1":0.0,"kdvOrani1":0,"kdvDahil1":false,"paraBirimi1Id":1,"satisFiyati2":0.0,"indirimliFiyati2":0.0,"kdvOrani2":0,"kdvDahil2":false,"paraBirimi2Id":1,"satisFiyati3":0.0,"indirimliFiyati3":0.0,"kdvOrani3":0,"kdvDahil3":false,"paraBirimi3Id":1,"satisFiyati4":0.0,"indirimliFiyati4":0.0,"kdvOrani4":0,"kdvDahil4":false,"paraBirimi4Id":1,"satisFiyati5":0.0,"indirimliFiyati5":0.0,"kdvOrani5":0,"kdvDahil5":false,"paraBirimi5Id":1,"satisFiyati6":0.0,"indirimliFiyati6":0.0,"kdvOrani6":0,"kdvDahil6":false,"paraBirimi6Id":1,"satisFiyati7":0.0,"indirimliFiyati7":0.0,"kdvOrani7":0,"kdvDahil7":false,"paraBirimi7Id":1,"satisFiyati8":0.0,"indirimliFiyati8":0.0,"kdvOrani8":0,"kdvDahil8":false,"paraBirimi8Id":1,"satisFiyati9":0.0,"indirimliFiyati9":0.0,"kdvOrani9":0,"kdvDahil9":false,"paraBirimi9Id":1,"satisFiyati10":0.0,"indirimliFiyati10":0.0,"kdvOrani10":0,"kdvDahil10":false,"paraBirimi10Id":1,"satisFiyati11":0.0,"indirimliFiyati11":0.0,"kdvOrani11":0,"kdvDahil11":false,"paraBirimi11Id":1,"satisFiyati12":0.0,"indirimliFiyati12":0.0,"kdvOrani12":0,"kdvDahil12":false,"paraBirimi12Id":1,"satisFiyati13":0.0,"indirimliFiyati13":0.0,"kdvOrani13":0,"kdvDahil13":false,"paraBirimi13Id":1,"satisFiyati14":0.0,"indirimliFiyati14":0.0,"kdvOrani14":0,"kdvDahil14":false,"paraBirimi14Id":1,"satisFiyati15":0.0,"indirimliFiyati15":0.0,"kdvOrani15":0,"kdvDahil15":false,"paraBirimi15Id":1,"satisFiyati16":0.0,"indirimliFiyati16":0.0,"kdvOrani16":0,"kdvDahil16":false,"paraBirimi16Id":1,"satisFiyati17":0.0,"indirimliFiyati17":0.0,"kdvOrani17":0,"kdvDahil17":false,"paraBirimi17Id":1,"satisFiyati18":0.0,"indirimliFiyati18":0.0,"kdvOrani18":0,"kdvDahil18":false,"paraBirimi18Id":1,"satisFiyati19":0.0,"indirimliFiyati19":0.0,"kdvOrani19":0,"kdvDahil19":false,"paraBirimi19Id":1,"satisFiyati20":0.0,"indirimliFiyati20":0.0,"kdvOrani20":0,"kdvDahil20":false,"paraBirimi20Id":1,"uyeTipiFiyat1":0.0,"uyeTipiFiyat2":0.0,"uyeTipiFiyat3":0.0,"uyeTipiFiyat4":0.0,"uyeTipiFiyat5":0.0,"iscilikAgirlik":0.0,"iscilikParaBirimiId":1,"kargoAgirligi":1.0,"kargoAgirligiYurtDisi":0.0,"kargoUcreti":0.0,"urunKartiId":1732,"aktif":true,"anaUrun":false,"eklemeTarihi":"0001-01-01T00:00:00","duzenlemeTarihi":"0001-01-01T00:00:00","ekleyenKullanici":0,"duzenleyenKullanici":0,"tedarikciKodu":"NEBIMV3|SH000593|SİYAH|40","tedarikciKodu2":null}],"moneyOrderDiscount":0,"currencies":[{"id":1,"tanim":"TL","dovizKodu":"TRY","kur":1.0,"aktif":true,"varsayilan":true,"guncellemeTarihi":"2014-02-05T13:46:08","dilKodu":"tr-TR","formatTanimGoster":false,"simgeKonum":0,"format":{"formatTanimGoster":false,"simge":"₺","simgeKonum":0,"ondalikAyraci":",","panelOndalikBasamak":4,"satisOndalikBasamak":2}},{"id":4,"tanim":"CHF","dovizKodu":"CHF","kur":2.4698,"aktif":false,"varsayilan":false,"guncellemeTarihi":"2014-02-08T22:47:38","dilKodu":"de-CH","formatTanimGoster":false,"simgeKonum":0,"format":{"formatTanimGoster":false,"simge":"CHF","simgeKonum":0,"ondalikAyraci":".","panelOndalikBasamak":4,"satisOndalikBasamak":2}},{"id":3,"tanim":"EURO","dovizKodu":"EUR","kur":3.0148,"aktif":true,"varsayilan":false,"guncellemeTarihi":"2014-02-08T22:47:38","dilKodu":"de-DE","formatTanimGoster":false,"simgeKonum":0,"format":{"formatTanimGoster":false,"simge":"€","simgeKonum":0,"ondalikAyraci":",","panelOndalikBasamak":4,"satisOndalikBasamak":2}},{"id":2,"tanim":"USD","dovizKodu":"USD","kur":2.2209,"aktif":true,"varsayilan":false,"guncellemeTarihi":"2014-02-08T22:47:38","dilKodu":"en-US","formatTanimGoster":false,"simgeKonum":0,"format":{"formatTanimGoster":false,"simge":"$","simgeKonum":0,"ondalikAyraci":".","panelOndalikBasamak":4,"satisOndalikBasamak":2}}],"productPrice":129.537,"productPriceStr":"139,9","productPriceKDVIncluded":139.89996000000002,"productCurrency":"TL","product":{"id":8311,"stokKodu":"SH000593-SİYAH","barkod":"8699403067493","stokAdedi":5.0,"eksiStokAdedi":0.0,"satisFiyati":129.537,"indirimliFiyati":0.0,"satisKDV":10.362960000000001,"indirimliKDV":0.0,"kdvOrani":8,"kdvDahil":true,"paraBirimiId":1,"kargoAgirligi":1.0,"kargoUcreti":0.0,"urunKartiId":1732,"aktif":true,"anaUrun":true,"spotResimAdi":"polisman-lastikli-bot---siyah-9645.jpg","spotResimThumbYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/Thumb/polisman-lastikli-bot---siyah-9645.jpg","spotResimYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg","spotResimBuyukYolu":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/polisman-lastikli-bot---siyah-9645.jpg","tedarikciKodu":"NEBIMV3|SH000593|SİYAH|36","paraBirimi":"TL","paraBirimiKodu":"TRY","paraBirimiDilKodu":"tr-TR","urunSepetFiyati":129.537,"urunSepetFiyatiKDV":10.362960000000001,"urunFiyatiOrjinal":129.537,"urunFiyatiOrjinalKDV":10.362960000000001,"indirimOrani":0,"ekSecenekOzellik":null,"ekSecenekOzellikDetay":null,"ekSecenekOzellikDetayIDs":null,"resimler":null,"urunKampanyaAktif":false,"urunKampanyaAdet":0,"urunKampanyaUrunFiyat":0.0,"urunKampanyaSepetTutari":0.0,"urunKampanyaKosulsuzEklenebilir":true,"urunKampanyaNormalFiyatKullan":false,"satisFiyatiStr":"₺139,90","indirimliFiyatiStr":"₺0,00","urunFiyatiOrjinalStr":"₺139,90","tahminiTeslimSuresi":0,"tahminiTeslimSuresiGoster":false},"productPayAtTheDoorPrice":4.0,"productPayAtTheDoorWithCardPrice":0.0,"openCartPopup":true,"rating":0,"maxInstallment":9,"productFileUploadActive":false,"productFileUploadIsRequire":false,"productFileUploadMaxSize":0,"productCombineActive":false,"productCategoryId":2,"salesUnit":"Adet","brandName":"Selin Shoes","mainVariantId":8311,"totalStockAmount":24.0,"productCombinePurchase":false,"productCombineBulkPurchase":false,"formId":0,"videoSettings":{"videoLink":"","videoTagTipi":"iframe","urunListedeGoster":false,"otomatikOynat":false,"videoSesAktif":false,"tumKontrolleriGoster":false},"dynamicForm":null,"memberCriticalStock":1,"productActive":true,"productDesingSetting":{"active":false,"desingIdType":0,"pitchPrintDesingId":null},"is3dImageActive":false,"indirimOraniGoster":false,"fiyatGoster":true,"showVatIncludedPrice":false,"showLocalPrice":false,"productImages":[{"productImageId":2290,"imageName":"polisman-lastikli-bot---siyah-9645.jpg","bigImagePath":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/polisman-lastikli-bot---siyah-9645.jpg","thumbImagePath":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/polisman-lastikli-bot---siyah-9645.jpg","imageType":1,"imagePath":"https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg","imageOrder":1,"threeDImageFolder":"","variantId":0,"productId":1732,"isShowCase":0}],"isSuite":false,"suite":{},"isIntegral":false}; globalModel.pageType = 'productdetail';var productsModel = {"pageType":3,"pageName":"","targetId":1732,"pagingType":1,"orderBy":null,"orderDirection":null,"showProductVideo":-1,"autoPlayVideo":-1,"productVariantListActive":false,"filterSettings":null,"urlList":[{"dil":"tr","sayfaAdresi":"/polisman-lastikli-bot---siyah-1732","seoSayfaBaslik":"POLİSMAN LASTİKLİ BOT - SİYAH - Selin Shoes","seoAnahtarKelime":"","seoSayfaAciklama":"POLİSMAN LASTİKLİ BOT - SİYAH - Selin Shoes , en iyi fiyat ve hızlı kargo ile selinshoes.com'da.Kadın(bayan) Bot ve Çizme modellerini hemen keşfet! ","seoNoIndex":false,"seoNoFollow":false}]};//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C092E9BD" />
+</div>
+        <div id="header" class="productHeader">
+            
+            <div class="headerContent">
+                
+                <div id="logo">
+                    <a class="logo" href="/"><img alt="logo" src="/Uploads/Images/logo.png" /></a>
+<div class="header-sosyal">
+<ul class="headersosyalmedya">
+	<li><a href="https://tr-tr.facebook.com/Selinshoes/" id="Facebook"><i class="fa fa-facebook"></i></a></li>
+	<li><a href="https://www.instagram.com/selin_shoes/" id="Instagram"><i class="fa fa-instagram"></i></a></li>
+</ul>
+</div>
+
+                </div>
+                
+                <div class="welcome" id="divMemberPanel">
+                    <div class="memberWelcomeContent" id="divMemberWelcomeContent">
+                    </div>
+                </div>
+                <div class="usernav">
+                    <ul>
+                        <li><a href="/Default.aspx" tici-lang="GlobalMasterPage_Anasayfa" rel="nofollow"></a></li>
+                        <li><a href="/Iletisim.aspx" tici-lang="GlobalMasterPage_Iletisim" rel="nofollow"></a></li>
+                    </ul>
+                </div>
+                <script id="scriptTemplateGlobalSepetUrun" type="text/x-handlebars-template">
+                    {{#products}}
+                          <li class="topCardItem">
+                              <a href="/Sepetim.aspx" rel="nofollow">
+                                  <img src="{{image}}" alt="{{name}}" onerror="this.onerror=null;this.src='/Scripts/images/resimyok_ufak.jpg';" style="height: 70px;" />
+                                  <span class="SepettopAd"><span>{{name}}</span><span>{{variant}}</span></span>
+                                  <span class="sepetTopBirimFiyat" style="display: none;">{{ price }} </span>
+                                  <span class="SepetTopAdet">x&nbsp;{{ piece }}
+                                  </span>
+                                  <span class="sepetTopFiyat" style="display: none">{{ tPrice }} </span>
+                                  <input class="hddProductId" name="hddProductId" type="hidden" value="{{pId}}" />
+                                  <input class="hddVariantId" name="hddVariantId" type="hidden" value="{{vId}}" />
+                              </a>
+                              <a onclick="sepettenCikar({{vId}},{{cId}})" rel="nofollow">
+                                  <span><i class="fa fa-times" aria-hidden="true"></i></span>
+                              </a>
+                          </li>
+                    {{/products}}
+                </script>
+                <div class="mycart">
+                    <a href="/Sepetim.aspx" rel="nofollow">
+                        <span class="sepetTecxt" tici-lang="GlobalMasterPage_Sepetim"></span>
+                        <span id="spnTopSepetToplamUrun" class="sepetUrunSayisi"></span>
+                        <span class="sepetUrun" tici-lang="GlobalMasterPage_SepetUrun"></span>
+                        <span id="spnTopSepetToplamTutar" class="sepetTopTutar" style="display: none;"></span>
+                    </a>
+                    <div class="CartProduct" style="display: none;">
+                        <ul class="SProduct" style="display: block;">
+                        </ul>
+                        <ul id="ulUstSepetteUrunYok" class="divustSepetteUrunYok">
+                            <li>
+                                <span class="spanustSepetteUrunYok" tici-lang="GlobalMasterPage_SepetUrunYok"></span>
+                            </li>
+                        </ul>
+                        <ul class="SPrice">
+                            <li>
+                                <span tici-lang="GlobalMasterPage_SepetGenelToplam"></span>:
+                                <span id="spnUstSepetToplamTutar" class="sepetToplamTutar"></span>
+                            </li>
+                        </ul>
+
+                        <a href="/sepetim.aspx" class="button headerCartBtn" style="display: none;" tici-lang="BlokModul_SepetBlok_Sepetim" rel="nofollow"></a>
+                        <a href="javascript:GirisKontrol(0, '/SiparisTamamla.aspx');" class="button headerOrderBtn" style="display: none;" tici-lang="Sepet_AlisverisiTamamla" rel="nofollow"></a>
+                    </div>
+                </div>
+                <div id="divTopProductSearch" class="searchContent ">
+                    <div class="search" id="divArama">
+                        <button class="ButtonMic" id="start_button" type="button" onclick="return startButton(event);" style="display: inline-block; cursor: pointer;">
+                            <img alt="Start" id="start_img" src="/Scripts/speech/mic.gif" width="32"></button>
+                        <input name="ctl00$txtbxArama" type="text" id="txtbxArama" onkeypress="return ProductSeachTopOnKeyPress(event)" class="urunSearchAC rsbInput" autocomplete="off" placeholder="Arama" />
+                        
+                        <input type="button" name="" onclick="ProductSearchTop()" tici-lang-value="BlokModul_UrunArama_Ara" tici-lang-title="BlokModul_UrunArama_Ara" id="btnKelimeAra" class="rsbButton" />
+                    </div>
+                </div>
+                <div class="yanResimliMenu">
+                    <a class="tumKategorilerClick"></a>
+                    <div class="yanResimliMenuContent">
+                        <div>
+                            <div>
+                                <div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="navigation">
+                    <div>
+                        <div id="divUcTopMenu">
+                            <ul class="HeaderMenu2 navUl" id="HeaderMenu2"><li><a href='/kadin-ayakkabi-modelleri' target="_self" title="TÜM MODELLER">TÜM MODELLER</a></li>
+<li><a href='/kadin-bot-ve-cizme' target="_self" title="BOT VE ÇİZME">BOT VE ÇİZME</a></li>
+<li><a href='/yeni-yil-indirimi' target="_self" title="YENİ YIL İNDİRİMİ">YENİ YIL İNDİRİMİ</a></li>
+<li><a href='/bayan-spor-ayakkabi' target="_self" title="SPOR AYAKKABILAR">SPOR AYAKKABILAR</a></li>
+<li><a href='topuklu-ayakkabi' target="_self" title="TOPUKLU AYAKKABI">TOPUKLU AYAKKABI</a></li>
+<li><a href='firsatlar' target="_self" title="FIRSATLAR">FIRSATLAR</a></li>
+</ul>
+
+
+<div class="TempMenu">
+    <div></div>
+</div>
+<script>
+    function menuImageLoad() {
+        $(".menuImageLoad").each(function () {
+            if ($(this).attr("src") != undefined && $(this).attr("src").indexOf("/Uploads/Images/blank.png") > -1) {
+                if ($(window).scrollTop() + $(window).height() > $(this).offset().top) {
+                    $(this).attr("src", $(this).attr("data-original"));
+                }
+            }
+        });
+    }
+    $(document).ready(function () {
+        $(".navigation .navUl > li").hover(function () {
+            menuImageLoad();
+        });
+    });
+</script>
+
+<!--MENU TIPI 2-->
+
+<!--MENU TIPI 3-->
+
+<!--MENU TIPI 5-->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ticiTopBlockContent">
+            
+        </div>
+        <div class="clear"></div>
+
+        
+
+        <div id="divIcerik" class="ticiContainer productDetailContainer">
+            
+            
+    <div class="categoryOverlay" style="display: none;">
+        <div id="loader"></div>
+    </div>
+    <div>
+        
+        <div id="divCenterBlock" class="centerCount col-sm-12">
+
+            <div class="middleTopBlock">
+                
+            </div>
+
+            
+            <div>
+                <input type="hidden" name="ctl00$mainHolder$UrunDetay$hddnUrunID" id="hddnUrunID" value="0" />
+
+<link href="https://cdn.ticimax.com/Version/v8.10.2/10/bundles/ticimax.productdetail.min.css" rel="stylesheet" />
+<script src="https://cdn.ticimax.com/Version/v8.10.2/10/bundles/ticimax.productdetail.js"></script>
+
+
+
+
+<div>
+    <div id="contentProductDetail" class="contentProductDetail">
+
+        <div class="ProductDetail">
+            <div class="categoryTitle">
+                <div class="proCategoryTitle categoryTitleText">
+                    <ul class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="/">
+                                <span itemprop='name'>Anasayfa</span>
+                                <meta itemprop="position" content="1" />
+                            </a>> 
+                        </li>
+                        <li itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+                                        <a itemprop='item' target='_self' href='/kadin-bot-ve-cizme'><span itemprop='name'>Bot ve Çizme</span><meta itemprop='position' content='2' /></a> > </li><li itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+                                        <a itemprop='item' href='/polisman-lastikli-bot---siyah-1732'><span itemprop='name'>POLİSMAN LASTİKLİ BOT - SİYAH</span><meta itemprop='position' content='3' /></a></li>
+                    </ul>
+                </div>
+                <a id="linkOncekiSayfa" class="back hidden-phone" tici-lang="UrunDetay_OncekiSayfa"></a>
+            </div>
+            <div class="clear"></div>
+
+            <div id="ProductDetailMain" class="ProductDetailMain">
+                <div class="ProductDetailMainRow">
+
+                    
+
+
+                    <div class="leftImage">
+    <div class="Images imageZoomPreview">
+        <img id="imgUrunResim" src="https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/polisman-lastikli-bot---siyah-9645.jpg" class="cloudzoom" />
+    </div>
+    <div id="divVideoGoruntulemeAlan" class="videoGoruntuleme" style="display: none">
+    </div>
+    <div class="SmallImages" id="divThumbList">
+    </div>
+    <div class="mobileImageSlider" id="divMobileImageList">
+    </div>
+</div>
+
+
+                    <div class="RightDetail">
+    <div class="ProductName">
+        <h1>
+            <span>
+                POLİSMAN LASTİKLİ BOT - SİYAH
+            </span>
+        </h1>
+    </div>
+    <div class="PriceList">
+        <div class="Formline puanVer">
+        </div>
+        <div class="Formline" id="divMarka">
+            <span class="left_line lineTitle">Marka</span>
+            <span class="center_line lineTitle">:</span>
+            <span class="right_line Marka">
+                <a href="/selinshoes">
+                    <span>Selin Shoes</span>
+                </a>
+            </span>
+        </div>
+        <div class="Formline" id="divTedarikci">
+            <span class="left_line lineTitle">Tedarikçi</span>
+            <span class="center_line lineTitle">:</span>
+            <span class="right_line Tedarikci">
+                <a href="/nebimv3-3">
+                    <span>NEBIMV3</span>
+                </a>
+            </span>
+        </div>
+        <div id="divUrunKampanyaliFiyat" style="display:none;">
+            <span class="urunKampanyaTanim"></span>
+            <span class="urunKampanyaIndirimOrani"></span>
+            <span class="urunKampanyaFiyat"></span>
+            <span class="urunKampanyaAciklama">Sepetteki Son Fiyat</span>
+        </div>
+
+        <div id="pnlFiyatlar">
+            <div id="divFiyatAlanlari">
+<div class="urunDetayFiyatContainer">
+    <div class="Formline" id="divIndirimsizFiyat">
+        <span class="left_line lineTitle">Fiyat</span>
+        <span class="center_line lineTitle">:</span>
+        <span class="right_line indirimliFiyat" id="fiyat2">
+            <span class="spanFiyat">₺139,90</span><span class="spanKdv">(KDV Dahil)</span>
+        </span>
+    </div>
+
+    <div class="Formline" id="divOzellestirmeFiyati" style="display:none">
+        <span class="left_line lineTitle">Sepet Fiyatı</span>
+        <span class="center_line lineTitle">:</span>
+        <span class="right_line indirimliFiyat" id="spnSepetFiyati">
+            <span class="spanFiyat"></span>
+        </span>
+    </div>
+</div>
+            </div>
+        </div>
+
+        <div class="Formline" id="divTaksitAciklama">
+            <span class="left_line teksatir taksitSatir">
+                *
+                &#8378;16,87
+                'den başlayan taksitlerle
+            </span>
+        </div>
+        <div class="Formline BorderNone OnYaziContent" id="divOnyazi">
+        </div>
+
+
+        <div class="asortiItem"> </div>
+
+        <div id="divUrunEkSecenek" class="Formline BorderNone"></div>
+
+
+    </div>
+    <div class="ProductIcon hidden-phone">
+
+        <div id="divKritikStok" style="display: none">
+            <a class="tipL" title='Kritik Stok'>
+                <span class="box1">
+                    <i class="fa fa-exclamation" aria-hidden="true"></i>Kritik Stok
+                </span>
+            </a>
+        </div>
+
+        <div class="UTelefonlaSiparis" id="divTelefonSiparis">
+            <a class="tipL" title='Telefonla Sipariş' onclick="TelefonlaSiparisGoster()">
+                <span class="box1">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    Telefonla Sipariş
+                </span>
+            </a>
+        </div>
+        <div class="UFavorilerimeEkle">
+            <a onclick="javascript:FavoriUrunDetay();" data-action="1" title="Favorilere Ekle" class="tipL" id="aFavoriEkleBtn">
+                <span class="box1"><i class="fa fa-heart" aria-hidden="true"></i>Favorilere Ekle</span>
+            </a>
+        </div>
+        <div class="UIstekListemeEkle">
+            <a onclick="javascript:IstekListemeEkle();" class="tipL" title='İstek Listeme Ekle'>
+                <span class="box1">
+                    <i class="fa fa-shopping-basket" aria-hidden="true"></i>
+                    İstek Listeme Ekle
+                </span>
+            </a>
+        </div>
+        <div class="UKarsilastirma">
+            <a class="tipL" onclick="addToCompare()" title="Karşılaştır">
+                <span class="box1">
+                    <i class="fa fa-exchange" aria-hidden="true"></i>
+                    Karşılaştır
+                </span>
+            </a>
+        </div>
+        <div class="FiyatHaberVer">
+            <a id="aFiyatDusunceHaberVer" class="tipL" title='Fiyat Düşünce Haber Ver' href="javascript:;" onclick="fiyatDusunceHaberVer(this)">
+                <span class='box1'><i class='fa fa-arrow-down' aria-hidden='true'></i>Fiyat Düşünce Haber Ver</span>
+            </a>
+        </div>
+        <div class="UGelinceHaberVer">
+            <a id="aGelinceHaberVer" href="javascript:;" onclick="gelinceHaberVer(this)">
+                <span class='box1 tipL' title='Gelince Haber Ver'>
+                    <i class='fa fa-reply-all' aria-hidden='true'></i>
+                    Gelince Haber Ver
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div class="clear"></div>
+    <div class="buybutton" id="divSatinAl">
+        <div class="buyfast">
+            <input type="button" class="buyfastbutton button" value='Hemen Al' id="btnHemenAl" onclick="hemenAl();" />
+        </div>
+        <div class="BasketBtn">
+            <div id="divBasketInputTextBox" class="Basketinp">
+                <span class="riSingle riContSpinButtons RadInput RadInput_Default">
+                    <a href="javascript:void(0);" class="urunDetayAdetArttirma urunListeAdetArtir riUp" onclick="artir(this)">Artır</a>
+                    <input type="text" id="txtbxurunSiparisAdedi"
+                           step="1"
+                           min="1"
+                           value="1"
+                           data-double="False"
+                           class="txtSepetAdet" name="txtbxurunSiparisAdedi" />
+                    <a href="javascript:void(0);" class="urunDetayAdetArttirma riDown" onclick="azalt(this)">Azalt</a>
+
+                </span>
+
+            </div>
+            <div class="basketBtn">
+                <input type="button" value='Sepete Ekle' onclick="sepeteEkleUrunDetay();" class="Addtobasket button" />
+            </div>
+        </div>
+    </div>
+    <div id="divStokYok" style="display: none;">
+        Ürün stoklarımızda kalmamıştır.
+    </div>
+    <div class="clear"></div>
+    <div class="ProductIcon2 ">
+        <div class="TavsiyeEtBtnContent">
+            <a class="hidden-phone TavsiyeEtBtn button" onclick="TavsiyeGoster()"><span>Tavsiye Et</span></a>
+        </div>
+        <div class="hidden-phone">
+            <a rel="nofollow" class="printBtn button" href="/Print/UrunDetay.aspx?UrunKod=1732&PBDK=TRY" target="_blank"><span>Sayfayı Yazdır</span></a>
+        </div>
+        <div class="YorumYazbtnContent">
+            <a class="hidden-phone button" onclick="YorumYazGoster()"><span>Yorum Yaz</span></a>
+        </div>
+        <div class="clear"></div>
+
+
+
+    </div>
+</div>
+
+                    <div class="clear ResetClear"></div>
+
+                    
+
+                    
+                    
+                    <div class="clear ResetClear"></div>
+                    <div class="urunOzellik">
+                        <div class="urunTab">
+                            <ul>
+                                <li class="TabOzellikler">
+                                    <a href="javascript:void(0);" tici-lang="UrunDetay_TabUrunOzellikleri"></a>
+                                </li>
+                                <li class="hidden-phone TabYorumlar" >
+                                    <a href="javascript:void(0);" onclick="TabGetComments();" data-tab="Commets"><span tici-lang="UrunDetay_TabYorumlar"></span><span id="divYorumSayisi"></span></a>
+                                </li>
+                                
+                                <li class="hidden-phone TabOdemeSecenekleri" >
+                                    <a href="javascript:void(0);" tici-lang="UrunDetay_TabOdemeSecenekleri" onclick="GetOdemeSecenekleri()"></a>
+                                </li>
+                                
+                                <li class="hidden-phone TabUrunOnerileri" >
+                                    <a href="javascript:void(0);" data-tab="recommendations" onclick="TabGetRecommendations();" tici-lang="UrunDetay_TabUrunOnerileri"></a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                        <div class="urunDetayPanel" style="clear: both;">
+                            <div class="urunTabAlt">
+                                <p><strong>Topuk Y&uuml;ksekliği : 4&nbsp;cm</strong><br />
+<br />
+<strong>Boy Uzunluğu (Topuk Dahil) : 20&nbsp;cm</strong><br />
+<br />
+<strong>Taban : Kau&ccedil;uk Taban<br />
+<br />
+Meteryal : Suni Deri<br />
+<br />
+İ&ccedil; Meteryal : Kumaş Astar<br />
+<br />
+Kalıp : Standart / Tam Kalıp</strong></p>
+
+<p><strong>Manken : 38</strong><br />
+<br />
+<em>Suni deri bilekte bot.&nbsp;&Uuml;st&uuml; suni deri , bağcıklı . Yan &uuml;st b&ouml;lgeleri lastikli.&nbsp;Arkası &ccedil;ekme kayışlı.</em></p>
+
+
+                            </div>
+                        </div>
+                        <!--#region URUN YORUM  -->
+                        <div class="urunDetayPanel" style="clear: both; display: none;">
+                            <div class="urunTabAlt">
+                                <div id="yorumYaz" style="display: block; width: 320px;">
+                                </div>
+                                <div class="tabYorumlar">
+                                </div>
+                            </div>
+                        </div>
+                        <!--#endregion -->
+
+                        
+                        <div class="urunDetayPanel" style="clear: both; display: none;">
+                            <div id="mainHolder_UrunDetay_divOdemeSecenekleriIcerik" class="urunTabAlt"><div class="havaleFiyati odemeSecenekHavale" id="divHavaleFiyati">
+    Havale ile Ödeme
+    <br />
+    <strong>
+        <span id="ltrHavaleFiyati">₺139,90</span>
+    </strong>
+</div>
+<div class="tekCekimOdeme odemeSecenekTekKrediKarti" id="divTekCekimFiyati">
+    Kredi Kartı Tek Çekim
+    <br />
+    <span id="ltrTekCekim">₺139,90</span>
+</div>
+<div class="kapidaOdeme odemeSecenekKapidaOdeme" id="divKapidaOdemeFiyati">
+    Kapıda Ödeme Nakit
+    <br />
+    <span id="ltrKapidaOdemeFiyati">₺143,90</span>
+</div>
+<div id="divTaksitContainer">
+    <div class="taksitMain"></div>
+</div></div>
+                        </div>
+                        
+
+                        <div class="urunDetayPanel" style="clear: both; display: none;">
+                            <div class="urunTabAlt tabUrunOneriler">
+                            </div>
+                        </div>
+
+                        
+
+                    </div>
+                    <div class="clear"></div>
+                    
+                    
+                    <div class="clear"></div>
+                    <div id="BenzerUrunDiv">
+                        <div class="detaySliderContainer" id="divBenzerUrun">
+    <div class="ProductList Kategori1 kategoriBlock">
+        <div class="jCarouselLite">
+            <div class="JKatAdi">
+                <span class="bold">
+                    <span class="satir1">Benzer Ürünler</span>
+                </span>
+            </div>
+            <div class="clear"></div>
+            <ul class="ulUrunSlider sliderOpacity">
+                <li>
+                    <div class="productItem">
+<a class="itemCategory" href="/" title="" style="display: none;">
+    <div class="itemCategoryLine">
+        <span>
+            Bot ve &#199;izme
+        </span>
+    </div>
+</a>
+<div class="productImage">
+                       <a title="HELLY YA&#286;MUR &#199;&#304;ZMES&#304; - G&#220;M&#220;&#350;" href='/helly-yagmur-cizmesi'>
+                           <img class='resimOrginal' src='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/helly-yagmur-cizmesi---gumus-ae6a.jpg' data-original='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/helly-yagmur-cizmesi---gumus-ae6a.jpg' alt="HELLY YA&#286;MUR &#199;&#304;ZMES&#304; - G&#220;M&#220;&#350;" />
+                       </a>
+</div>
+<div class="productDetail">
+
+
+    <div class="productMarka" style="display: none;">Selin Shoes</div>
+    <div class="productName"><a title="HELLY YA&#286;MUR &#199;&#304;ZMES&#304; - G&#220;M&#220;&#350;" href='/helly-yagmur-cizmesi'>HELLY YA&#286;MUR &#199;&#304;ZMES&#304; - G&#220;M&#220;&#350;</a></div>
+    <div class="productPrice ">
+        <div class="discountPrice">
+            <span>
+                &#8378;99,90
+            </span>
+            <span class="discountKdv">
+                KDV Dahil
+            </span>
+        </div>
+    </div>
+</div>
+<div style="display: none;" class="urunListeAdet">
+    <a class="urunListeAdetAzalt" onclick="productQuantityReduce(this)">Azalt</a>
+    <input value="1" class="urunListeAdetTextBox txtSepetAdet txtSepetAdet668e825a8e764d178935c58203172d16" type="number"
+           min='1'
+           step='1'
+           data-double='False' formnovalidate />
+    <a class="urunListeAdetArtir" onclick="productQuantityToIncrease(this)">Artır</a>
+</div>
+<div class="productIcon">
+
+    <div class='favori favoriContent-1730-8301'>
+        <a onclick="productFavoritesProcess(-1,2,1730,8301,1,this)" init="false" data-action="1"
+           class="favoriteslist listfavoriPasif tip" onload="urunfavoriKontrol(this,1730)"
+           title="Favorilere Ekle">
+            Favorilere Ekle
+        </a>
+    </div>
+
+
+    <div class="mycartIcon tip" title="Sepete Ekle">
+        <a onclick="productListAddToCart(1730,8301,0,GetControlValue('.txtSepetAdet668e825a8e764d178935c58203172d16'),'/helly-yagmur-cizmesi',1)" class="btnAddToCart" data-productId="1730">
+            <span class="urunListeSpanSepeteEkle">Sepete Ekle</span>
+        </a>
+    </div>
+    <div class="examineIcon tip" title="Ürünü İncele">
+        <a href='/helly-yagmur-cizmesi'>
+            Ürünü İncele
+        </a>
+    </div>
+</div>
+
+
+
+
+                    </div>
+                </li>
+                <li>
+                    <div class="productItem">
+<a class="itemCategory" href="/" title="" style="display: none;">
+    <div class="itemCategoryLine">
+        <span>
+            Bot ve &#199;izme
+        </span>
+    </div>
+</a>
+<div class="productImage">
+                       <a title="JAM&#304;E TOPUKLU BOT - BEYAZ DER&#304;" href='/jamie-topuklu-bot---beyaz-deri-1698'>
+                           <img class='resimOrginal' src='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/jamie-topuklu-bot---beyaz-deri-b727.jpg' data-original='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/jamie-topuklu-bot---beyaz-deri-b727.jpg' alt="JAM&#304;E TOPUKLU BOT - BEYAZ DER&#304;" />
+                       </a>
+</div>
+<div class="productDetail">
+
+
+    <div class="productMarka" style="display: none;">Selin Shoes</div>
+    <div class="productName"><a title="JAM&#304;E TOPUKLU BOT - BEYAZ DER&#304;" href='/jamie-topuklu-bot---beyaz-deri-1698'>JAM&#304;E TOPUKLU BOT - BEYAZ DER&#304;</a></div>
+    <div class="productPrice ">
+        <div class="discountPrice">
+            <span>
+                &#8378;99,90
+            </span>
+            <span class="discountKdv">
+                KDV Dahil
+            </span>
+        </div>
+        <div class="regularPrice">
+            <span>
+                &#8378;119,90
+            </span>
+            <span class="regularKdv">
+                KDV Dahil
+            </span>
+        </div>
+    </div>
+</div>
+<div style="display: none;" class="urunListeAdet">
+    <a class="urunListeAdetAzalt" onclick="productQuantityReduce(this)">Azalt</a>
+    <input value="1" class="urunListeAdetTextBox txtSepetAdet txtSepetAdete7f35322d06f43dd92824a780af6369d" type="number"
+           min='1'
+           step='1'
+           data-double='False' formnovalidate />
+    <a class="urunListeAdetArtir" onclick="productQuantityToIncrease(this)">Artır</a>
+</div>
+<div class="productIcon">
+
+    <div class='favori favoriContent-1698-8137'>
+        <a onclick="productFavoritesProcess(-1,2,1698,8137,1,this)" init="false" data-action="1"
+           class="favoriteslist listfavoriPasif tip" onload="urunfavoriKontrol(this,1698)"
+           title="Favorilere Ekle">
+            Favorilere Ekle
+        </a>
+    </div>
+
+
+    <div class="mycartIcon tip" title="Sepete Ekle">
+        <a onclick="productListAddToCart(1698,8137,0,GetControlValue('.txtSepetAdete7f35322d06f43dd92824a780af6369d'),'/jamie-topuklu-bot---beyaz-deri-1698',1)" class="btnAddToCart" data-productId="1698">
+            <span class="urunListeSpanSepeteEkle">Sepete Ekle</span>
+        </a>
+    </div>
+    <div class="examineIcon tip" title="Ürünü İncele">
+        <a href='/jamie-topuklu-bot---beyaz-deri-1698'>
+            Ürünü İncele
+        </a>
+    </div>
+    <div class="discountIcon tip">
+        <span class="discountIcon_s1">%17</span>
+        <span class="discountIcon_s2">İndirim</span>
+        <div class="discountIconDetail">
+            %17İndirim
+        </div>
+    </div>
+</div>
+
+
+
+
+                    </div>
+                </li>
+                <li>
+                    <div class="productItem">
+<a class="itemCategory" href="/" title="" style="display: none;">
+    <div class="itemCategoryLine">
+        <span>
+            Bot ve &#199;izme
+        </span>
+    </div>
+</a>
+<div class="productImage">
+                       <a title="PETERS KROKOD&#304;L UZUN &#199;&#304;ZME - BEYAZ" href='/peters-krokodil-cizme---beyaz-1644'>
+                           <img class='resimOrginal' src='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/peters-krokodil-cizme---beyaz-8d3d.jpg' data-original='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/peters-krokodil-cizme---beyaz-8d3d.jpg' alt="PETERS KROKOD&#304;L UZUN &#199;&#304;ZME - BEYAZ" />
+                       </a>
+</div>
+<div class="productDetail">
+
+
+    <div class="productMarka" style="display: none;">Selin Shoes</div>
+    <div class="productName"><a title="PETERS KROKOD&#304;L UZUN &#199;&#304;ZME - BEYAZ" href='/peters-krokodil-cizme---beyaz-1644'>PETERS KROKOD&#304;L UZUN &#199;&#304;ZME - BEYAZ</a></div>
+    <div class="productPrice ">
+        <div class="discountPrice">
+            <span>
+                &#8378;89,90
+            </span>
+            <span class="discountKdv">
+                KDV Dahil
+            </span>
+        </div>
+        <div class="regularPrice">
+            <span>
+                &#8378;159,90
+            </span>
+            <span class="regularKdv">
+                KDV Dahil
+            </span>
+        </div>
+    </div>
+</div>
+<div style="display: none;" class="urunListeAdet">
+    <a class="urunListeAdetAzalt" onclick="productQuantityReduce(this)">Azalt</a>
+    <input value="1" class="urunListeAdetTextBox txtSepetAdet txtSepetAdet2794974c55794564af240b10d08c5955" type="number"
+           min='1'
+           step='1'
+           data-double='False' formnovalidate />
+    <a class="urunListeAdetArtir" onclick="productQuantityToIncrease(this)">Artır</a>
+</div>
+<div class="productIcon">
+
+    <div class='favori favoriContent-1644-7867'>
+        <a onclick="productFavoritesProcess(-1,2,1644,7867,1,this)" init="false" data-action="1"
+           class="favoriteslist listfavoriPasif tip" onload="urunfavoriKontrol(this,1644)"
+           title="Favorilere Ekle">
+            Favorilere Ekle
+        </a>
+    </div>
+
+
+    <div class="mycartIcon tip" title="Sepete Ekle">
+        <a onclick="productListAddToCart(1644,7867,0,GetControlValue('.txtSepetAdet2794974c55794564af240b10d08c5955'),'/peters-krokodil-cizme---beyaz-1644',1)" class="btnAddToCart" data-productId="1644">
+            <span class="urunListeSpanSepeteEkle">Sepete Ekle</span>
+        </a>
+    </div>
+    <div class="examineIcon tip" title="Ürünü İncele">
+        <a href='/peters-krokodil-cizme---beyaz-1644'>
+            Ürünü İncele
+        </a>
+    </div>
+    <div class="discountIcon tip">
+        <span class="discountIcon_s1">%44</span>
+        <span class="discountIcon_s2">İndirim</span>
+        <div class="discountIconDetail">
+            %44İndirim
+        </div>
+    </div>
+</div>
+
+
+
+
+                    </div>
+                </li>
+                <li>
+                    <div class="productItem">
+<a class="itemCategory" href="/" title="" style="display: none;">
+    <div class="itemCategoryLine">
+        <span>
+            Bot ve &#199;izme
+        </span>
+    </div>
+</a>
+<div class="productImage">
+                       <a title="MART&#304;NS KALIN TABAN BOT - S&#304;YAH DER&#304;" href='/martins-bot---siyah-deri-1585'>
+                           <img class='resimOrginal' src='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/martins-bot---siyah-deri-f76f.jpg' data-original='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/martins-bot---siyah-deri-f76f.jpg' alt="MART&#304;NS KALIN TABAN BOT - S&#304;YAH DER&#304;" />
+                       </a>
+</div>
+<div class="productDetail">
+
+
+    <div class="productMarka" style="display: none;">Selin Shoes</div>
+    <div class="productName"><a title="MART&#304;NS KALIN TABAN BOT - S&#304;YAH DER&#304;" href='/martins-bot---siyah-deri-1585'>MART&#304;NS KALIN TABAN BOT - S&#304;YAH DER&#304;</a></div>
+    <div class="productPrice ">
+        <div class="discountPrice">
+            <span>
+                &#8378;99,90
+            </span>
+            <span class="discountKdv">
+                KDV Dahil
+            </span>
+        </div>
+        <div class="regularPrice">
+            <span>
+                &#8378;119,90
+            </span>
+            <span class="regularKdv">
+                KDV Dahil
+            </span>
+        </div>
+    </div>
+</div>
+<div style="display: none;" class="urunListeAdet">
+    <a class="urunListeAdetAzalt" onclick="productQuantityReduce(this)">Azalt</a>
+    <input value="1" class="urunListeAdetTextBox txtSepetAdet txtSepetAdet3442399621b244c8a2b4b07eca728eff" type="number"
+           min='1'
+           step='1'
+           data-double='False' formnovalidate />
+    <a class="urunListeAdetArtir" onclick="productQuantityToIncrease(this)">Artır</a>
+</div>
+<div class="productIcon">
+
+    <div class='favori favoriContent-1585-7587'>
+        <a onclick="productFavoritesProcess(-1,2,1585,7587,1,this)" init="false" data-action="1"
+           class="favoriteslist listfavoriPasif tip" onload="urunfavoriKontrol(this,1585)"
+           title="Favorilere Ekle">
+            Favorilere Ekle
+        </a>
+    </div>
+
+
+    <div class="mycartIcon tip" title="Sepete Ekle">
+        <a onclick="productListAddToCart(1585,7587,0,GetControlValue('.txtSepetAdet3442399621b244c8a2b4b07eca728eff'),'/martins-bot---siyah-deri-1585',1)" class="btnAddToCart" data-productId="1585">
+            <span class="urunListeSpanSepeteEkle">Sepete Ekle</span>
+        </a>
+    </div>
+    <div class="examineIcon tip" title="Ürünü İncele">
+        <a href='/martins-bot---siyah-deri-1585'>
+            Ürünü İncele
+        </a>
+    </div>
+    <div class="discountIcon tip">
+        <span class="discountIcon_s1">%17</span>
+        <span class="discountIcon_s2">İndirim</span>
+        <div class="discountIconDetail">
+            %17İndirim
+        </div>
+    </div>
+</div>
+
+
+
+
+                    </div>
+                </li>
+                <li>
+                    <div class="productItem">
+<a class="itemCategory" href="/" title="" style="display: none;">
+    <div class="itemCategoryLine">
+        <span>
+            Bot ve &#199;izme
+        </span>
+    </div>
+</a>
+<div class="productImage">
+                       <a title="CROCO KOVBOY TOPUKLU BOT - KUM BEJ&#304;" href='/croco-bot---kum-beji-1563'>
+                           <img class='resimOrginal' src='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/croco-bot---kum-beji-8cc3.jpg' data-original='https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/thumb/croco-bot---kum-beji-8cc3.jpg' alt="CROCO KOVBOY TOPUKLU BOT - KUM BEJ&#304;" />
+                       </a>
+</div>
+<div class="productDetail">
+
+
+    <div class="productMarka" style="display: none;">Selin Shoes</div>
+    <div class="productName"><a title="CROCO KOVBOY TOPUKLU BOT - KUM BEJ&#304;" href='/croco-bot---kum-beji-1563'>CROCO KOVBOY TOPUKLU BOT - KUM BEJ&#304;</a></div>
+    <div class="productPrice ">
+        <div class="discountPrice">
+            <span>
+                &#8378;79,90
+            </span>
+            <span class="discountKdv">
+                KDV Dahil
+            </span>
+        </div>
+        <div class="regularPrice">
+            <span>
+                &#8378;149,90
+            </span>
+            <span class="regularKdv">
+                KDV Dahil
+            </span>
+        </div>
+    </div>
+</div>
+<div style="display: none;" class="urunListeAdet">
+    <a class="urunListeAdetAzalt" onclick="productQuantityReduce(this)">Azalt</a>
+    <input value="1" class="urunListeAdetTextBox txtSepetAdet txtSepetAdetad5cac350fdd46d3b8a05be0d6d11f6a" type="number"
+           min='1'
+           step='1'
+           data-double='False' formnovalidate />
+    <a class="urunListeAdetArtir" onclick="productQuantityToIncrease(this)">Artır</a>
+</div>
+<div class="productIcon">
+
+    <div class='favori favoriContent-1563-7527'>
+        <a onclick="productFavoritesProcess(-1,2,1563,7527,1,this)" init="false" data-action="1"
+           class="favoriteslist listfavoriPasif tip" onload="urunfavoriKontrol(this,1563)"
+           title="Favorilere Ekle">
+            Favorilere Ekle
+        </a>
+    </div>
+
+
+    <div class="mycartIcon tip" title="Sepete Ekle">
+        <a onclick="productListAddToCart(1563,7527,0,GetControlValue('.txtSepetAdetad5cac350fdd46d3b8a05be0d6d11f6a'),'/croco-bot---kum-beji-1563',1)" class="btnAddToCart" data-productId="1563">
+            <span class="urunListeSpanSepeteEkle">Sepete Ekle</span>
+        </a>
+    </div>
+    <div class="examineIcon tip" title="Ürünü İncele">
+        <a href='/croco-bot---kum-beji-1563'>
+            Ürünü İncele
+        </a>
+    </div>
+    <div class="discountIcon tip">
+        <span class="discountIcon_s1">%47</span>
+        <span class="discountIcon_s2">İndirim</span>
+        <div class="discountIconDetail">
+            %47İndirim
+        </div>
+    </div>
+</div>
+
+
+
+
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+                    </div>
+                    <div class="clear"></div>
+                    
+
+                    <div class="middleBottomBlock">
+                        
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        
+        <script type='text/javascript'>
+                                                  gtag('event', 'page_view', {
+                                                      'send_to': 'AW-697430203',
+                                                      'ecomm_pagetype': 'product',
+                                                      'ecomm_prodid': '1732',
+                                                      'ecomm_category': 'Bot ve Çizme',
+                                                      'ecomm_totalvalue': 139.90
+                                                  });
+                                              </script>
+        <script>
+                        ga('require', 'ec');
+                        ga('set', '&cu', 'try');ga('ec:addProduct', {
+                      "id": "1732",
+                      "name": "POLİSMAN LASTİKLİ BOT - SİYAH",
+                      "category": "Bot ve Çizme",
+                      "brand": "Selin Shoes",
+                      "list": "Bot ve Çizme",
+                      "position": 1,
+                    });ga('set','dimension1', '1732');
+                         ga('set','dimension2', 'product');
+                         ga('set','dimension3', productDetailModel.productPriceKDVIncluded + '');ga('ec:setAction', 'detail');</script>
+        <script type="application/ld+json">{"@context": "http://schema.org/","@type": "Product","name": "POLİSMAN LASTİKLİ BOT - SİYAH","image": ["https://selinshoes-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/polisman-lastikli-bot---siyah-9645.jpg"],"description": "<p><strong>Topuk Y&uuml;ksekliği : 4&nbsp;cm</strong><br />
+<br />
+<strong>Boy Uzunluğu (Topuk Dahil) : 20&nbsp;cm</strong><br />
+<br />
+<strong>Taban : Kau&ccedil;uk Taban<br />
+<br />
+Meteryal : Suni Deri<br />
+<br />
+İ&ccedil; Meteryal : Kumaş Astar<br />
+<br />
+Kalıp : Standart / Tam Kalıp</strong></p>
+
+<p><strong>Manken : 38</strong><br />
+<br />
+<em>Suni deri bilekte bot.&nbsp;&Uuml;st&uuml; suni deri , bağcıklı . Yan &uuml;st b&ouml;lgeleri lastikli.&nbsp;Arkası &ccedil;ekme kayışlı.</em></p>
+","mpn": "SH000593-SİYAH","sku": "SH000593-SİYAH","brand": {"@type": "Thing","name": "Selin Shoes"},"offers": {"@type": "Offer","url": "https://www.selinshoes.com/polisman-lastikli-bot---siyah-1732","priceCurrency": "try","price": "139.90","itemCondition": "NewCondition","availability": "InStock","seller": {"@type": "Organization","name": "Selin Shoes"}}}</script>
+        <script>
+                        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+                        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+                        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                        document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+                        fbq('init', '540271826539804');
+                        fbq('track', 'PageView');fbq('track', 'ViewContent', {
+                          content_name: 'POLİSMAN LASTİKLİ BOT - SİYAH',
+                          content_category: 'Bot ve Çizme',
+                          content_ids: ['1732'],
+                          content_type: 'product',
+                          value: 139.90,
+                          currency: 'TRY'
+                     });</script>
+        
+        
+        
+        <style>
+.price{position:fixed;bottom:0;left:0;z-index:100;width:100%;height:55px;background-color:#f8f8f8;border-top:1px solid #d3d3d3;display:flex;justify-content:flex-start;flex-direction:row;font-family:Source Sans Pro,sans-serif!important}body,div,html,span{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}body{background:#fafafa;font-family:Source Sans Pro,sans-serif;-webkit-tap-highlight-color:transparent}body{line-height:1}html{line-height:1.15;-webkit-text-size-adjust:100%}.price{position:fixed;bottom:0;left:0;z-index:100;width:100%;height:55px;background-color:#f8f8f8;border-top:1px solid #d3d3d3;display:flex;justify-content:flex-start;flex-direction:row}.price__wrapper{display:flex;flex-direction:row;width:25%;align-items:center;font-weight:600}.price__wrapper__percentage{display:flex;justify-content:center;align-items:center;background-color:#f067a6;border-radius:3px;box-sizing:border-box;height:30px;width:50px;margin-left:10px;font-size:14px;line-height:18px;color:#f8f8f8}.price__wrapper__percentage_price{margin-left:20px;font-weight:600}.price__wrapper__percentage__market_price{text-decoration:line-through;font-size:18px;line-height:20px;color:#999}.price__wrapper__percentage__market_currency{text-decoration:line-through;font-size:18px;line-height:20px;color:#999}.price__wrapper__percentage__sales_price{font-size:18px;line-height:20px;color:#f27a1a}.price__wrapper__percentage__sales_currency{font-size:16px;line-height:20px;color:#f27a1a}.price__container{display:flex;justify-content:space-around;flex-direction:row;width:25%;align-items:center;margin:auto;font-weight:600}.price__container__market_price{text-decoration:line-through;color:#999}.price__container__sales_price{color:#f27a1a}.price__container__currency{margin-left:3px}.price__add_to_basket{width:75%;font-size:15px;flex-grow:1}.price__add_to_basket__available{margin-right:7px;margin-left:7px}.price__add_to_basket__available>button{height:44px;margin:5px 0;font-weight:700;width:100%}@media only screen and (min-device-width:359px){.price{position:fixed;bottom:0;left:0;z-index:100;width:100%;height:55px;background-color:#f8f8f8;border-top:1px solid #d3d3d3;display:flex;justify-content:space-between;flex-direction:row}.price__wrapper{display:flex;flex-direction:row}.price__wrapper__percentage{display:flex;justify-content:center;align-items:center;background-color:#ce0017;border-radius:3px;box-sizing:border-box;height:30px;width:50px;margin-left:10px;font-size:14px;line-height:18px;color:#f8f8f8}.price__wrapper__percentage__market_price{text-decoration:line-through;font-size:16px;line-height:20px;color:#999}.price__wrapper__percentage__market_currency{text-decoration:line-through;font-size:16px;line-height:20px;color:#999}.price__wrapper__percentage__sales_price{font-size:18px;line-height:20px;color:#000}.price__wrapper__percentage__sales_currency{font-size:16px;line-height:20px;color:#000}.price__container{display:flex;flex-direction:row;margin:0!important}}@media only screen and (min-device-width:359px){.percentage__container{width:60%;font-size:12px;line-height:16px}}@media only screen and (max-device-width:359px){.price{position:fixed;bottom:0;left:0;z-index:100;width:100%;height:55px;background-color:#f8f8f8;border-top:1px solid #d3d3d3;display:flex;justify-content:flex-start;flex-direction:row}.price__wrapper{display:flex;flex-direction:row;width:60%;align-items:center}.price__wrapper__percentage{display:flex;justify-content:center;align-items:center;background-color:#ce0017;border-radius:3px;box-sizing:border-box;height:30px;width:50px;margin-left:10px;color:#f8f8f8 font-family: sans-serif}.price__wrapper__percentage__market_price{text-decoration:line-through;font-size:12px;line-height:16px;color:#999}.price__wrapper__percentage__market_currency{text-decoration:line-through;font-size:12px;line-height:16px;color:#999}.price__wrapper__percentage__sales_price{font-size:18px;line-height:18px;color:#f27a1a}.price__wrapper__percentage__sales_currency{font-size:14px;line-height:18px;color:#f27a1a}.price__container{display:flex;justify-content:space-around;flex-direction:column;width:25%;flex-direction:column;align-items:center;margin:auto}}
+  @media only screen and (min-width:0px) and (max-width:640px){#fixed_fiyat{display:block;width:50%;left:0;height:45px;position:fixed;bottom:0;color:#000;text-decoration:none;z-index:9999;font-size:18px;padding:10px 0;text-align:center;font-weight:600}}#sepeteekle{display:none}@media screen and (max-width:650px){#sepeteekle{display:block;width:50%;right:0;height:45px;position:fixed;bottom:0;background:#000;color:#fff;text-decoration:none;z-index:9999;font-size:18px;padding:10px 0;text-align:center;font-weight:300;margin:5px}}.price{position:fixed;bottom:0;left:0;z-index:100;width:100%;height:55px;background-color:#f8f8f8;border-top:1px solid #d3d3d3;display:flex;justify-content:flex-start;flex-direction:row;font-family:Source Sans Pro,sans-serif!important}body,div,html,span{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}body{background:#fafafa;font-family:Source Sans Pro,sans-serif;-webkit-tap-highlight-color:transparent}body{line-height:1}html{line-height:1.15;-webkit-text-size-adjust:100%}.price{position:fixed;bottom:0;left:0;z-index:100;width:100%;height:55px;background-color:#f8f8f8;border-top:1px solid #d3d3d3;display:flex;justify-content:flex-start;flex-direction:row}.price__container{display:flex;justify-content:space-around;flex-direction:row;width:25%;align-items:center;margin:auto;font-weight:600}.price__container__sales_price{color:#f27a1a}@media only screen and (min-device-width:359px){.price{position:fixed;bottom:0;left:0;z-index:100;width:100%;height:55px;background-color:#f8f8f8;border-top:1px solid #d3d3d3;display:flex;justify-content:space-between;flex-direction:row}.price__container{display:flex;flex-direction:row;margin:0!important}}@media only screen and (max-device-width:359px){.price{position:fixed;bottom:0;left:0;z-index:100;width:100%;height:55px;background-color:#f8f8f8;border-top:1px solid #d3d3d3;display:flex;justify-content:flex-start;flex-direction:row}.price__container{display:flex;justify-content:space-around;flex-direction:column;width:25%;flex-direction:column;align-items:center;margin:auto}}
+ @media only screen and (min-width:640px) and (max-width:9999px)
+ 
+ {
+  
+   .price {display:none!important; }
+   
+ }
+  
+  </style>
+
+
+
+
+
+
+<script>
+var abc = $("#fiyat2 > span.spanFiyat").length;
+if(abc > 0) {var abc = document.querySelector("#fiyat2 > span.spanFiyat").textContent;
+$('body').append('<div class="price"><div class="price__container"><div class="price__container__sales_price"><span id="fixed_fiyat" class="spanFiyat">'+ abc +'</span> <input id="sepeteekle" type="button" value="Sepete Ekle" onclick="sepeteEkleUrunDetay();" class="Addtobasket button"> </div></div></div>');
+}
+else {var abc= document.querySelector("#indirimliFiyat > span.spanFiyat").textContent;
+var normal_price = document.querySelector("#fiyat > span.spanFiyat").textContent;
+normal_price = normal_price.split("₺");
+var sale_price = document.querySelector("#indirimliFiyat > span.spanFiyat").textContent;
+sale_price = sale_price.split("₺");
+var final_price = 1-(parseFloat(sale_price[1].replace(',', '.')) / parseFloat(normal_price[1].replace(',', '.')));
+var final_price_ratio = final_price.toFixed(2); 
+final_price_ratio = final_price*100;
+final_price_ratio = final_price_ratio.toFixed();
+
+$('body').append('<div class="price"> <div class="price__wrapper percentage__container"> <div class="price__wrapper__percentage"> '+ final_price_ratio +'% </div><div class="price__wrapper__percentage_price"> <div class="price__wrapper__percentage__market_price"><span> ₺'+ normal_price[1] + '</span><span class="price__wrapper__percentage__market_currency"></span></div><div class="price__wrapper__percentage__sales_price"><span>₺'+sale_price[1]+'</span></div></div></div><div class="price__add_to_basket"> <div class="price__add_to_basket__available"> <button class="button sc-gqjmRU eFPVJL" type="button" width="100%" height="100%" onclick="sepeteEkleUrunDetay();">SEPETE EKLE</button> </div></div></div>');
+}
+
+$("#divSatinAl").css('display','none');
+
+</script>
+        <div class="urunsecoverlay" style="display: none;"></div>
+        <div id="sonuc" style="display: none;"></div>
+
+        <div id="divKendinTasarla" style="display: none;">
+            
+        </div>
+
+        <script id="scriptTemplateWebZoom" type="text/x-handlebars-template">
+            {{#images}}   
+                  {{#if (eq imageType 3)}}
+                   <div class="AltImgCapSmallImg" >
+                       <img  src='{{thumbImagePath}}' onclick="show3DImage()"  class="preview360Img"  />
+                   </div>
+                  {{else}}
+                        <div class="AltImgCapSmallImg" >
+                            <img class="cloudzoom-gallery" src='{{thumbImagePath}}' id="imgurunresmi" onclick="showProductImage()"
+                                data-cloudzoom='{{cloudZoomAtt this}}' />
+                        </div>
+                  {{/if}}
+            {{/images}}
+        </script>
+
+        <script id="scriptTemplateMobileZoom" type="text/x-handlebars-template">
+            {{#images}}  
+                 {{#if (eq type 'video') }}
+                   <a onclick="StartVideo()" href="javascript:void(0)">
+                       <video id="vdMobileUrunVideo" loop="" muted="muted" poster="{{imagePath}}" autoplay style="width: 100%;">
+                           <source src="{{videoLink}}" type="video/mp4">
+                       </video>
+                   </a>
+                 {{else}}
+                         <a class="lightItem" href="{{bigImagePath}}">
+                             <img src="{{imagePath}}" alt="">
+                         </a>
+                 {{/if}}
+            {{/images}}
+        </script>
+
+
+        <script id="scriptTemplateUrunAsorti" type="text/x-handlebars-template">
+            <div class="asortiAciklama">{{translate 'UrunDetay_AsortiSatisAciklama'}}</div>
+            {{#assortmentQuantities}}   
+                <div class="asortiListItem">
+                    <div class="asortiMiktar">{{ variantDefinition }}</div>
+                    <div class="asortiAyrac">:</div>
+                    <div class="asortiAdet">{{ quantity }}</div>
+                    <div class="asortiBirim">{{productSalesUnit}}</div>
+                </div>
+            {{/assortmentQuantities}}
+        </script>
+
+        <script id="scriptTemplateFiyat" type="text/x-handlebars-template">{{#if settings.showPrice}}
+<div class="urunDetayFiyatContainer">
+    {{#if product.isDiscountedProduct}}
+    <div id="divIndirimliFiyat">
+        <div class="Formline PiyasafiyatiContent">
+            <span class="left_line lineTitle">{{translate 'Global_Fiyat'}}</span>
+            <span class="center_line lineTitle">:</span>
+            <span class="right_line" id="fiyat">
+                {{{product.productSellPrice}}}
+            </span>
+        </div>
+        <div class="Formline IndirimliFiyatContent">
+            <span class="left_line lineTitle">{{translate 'UrunDetay_Indirimli'}}</span>
+            <span class="center_line lineTitle">:</span>
+            <span class="right_line indirimliFiyat" id="indirimliFiyat">
+                {{{product.discountedPrice}}}
+            </span>
+        </div>
+    </div>
+    {{else}}
+    <div class="Formline" id="divIndirimsizFiyat">
+        <span class="left_line lineTitle">{{translate 'Global_Fiyat'}}</span>
+        <span class="center_line lineTitle">:</span>
+        <span class="right_line indirimliFiyat" id="fiyat2">
+            {{{product.productSellPrice}}}
+        </span>
+    </div>
+    {{/if}}
+
+    {{#if product.showVatIncludedPrice}}
+    <div class="Formline" id="divKDVDahilFiyat">
+        <span class="left_line lineTitle">{{translate 'Global_KdvDahil'}}</span>
+        <span class="center_line lineTitle">:</span>
+        <span class="right_line" id="kdvliFiyat">
+            {{{product.vatIncludedProductSellPrice}}}
+        </span>
+    </div>
+    {{/if}}
+    {{#if product.showLocalPrice}}
+    <div class="Formline" id="divTurkLirasiFiyat">
+        <span class="left_line lineTitle">{{translate 'Global_TLFiyat'}}</span>
+        <span class="center_line lineTitle">:</span>
+        <span class="right_line" id="tlFiyat">
+            {{{product.localSellPrice}}}
+        </span>
+    </div>
+    {{/if}}
+    <div class="Formline" id="divOzellestirmeFiyati" style="display:none">
+        <span class="left_line lineTitle">Sepet Fiyatı</span>
+        <span class="center_line lineTitle">:</span>
+        <span class="right_line indirimliFiyat" id="spnSepetFiyati">
+            <span class="spanFiyat">{{product.cartPrice}}</span>
+        </span>
+    </div>
+</div>
+{{/if}}</script>
+
+    </div>
+</div>
+
+            </div>
+            
+            <div class="middleBottomBlock">
+                
+            </div>
+
+        </div>
+        
+    </div>
+    
+    
+
+        </div>
+
+
+        <div class="clear"></div>
+        <div class="ticiBottomBlockContent">
+            
+        </div>
+        <div class="clear"></div>
+        <div id="footer" class="productFooter">
+            <div class="footerTop">
+                <div id="divNewsLetter" class="newaslater">
+                    <label tici-lang="GlobalMasterPage_NewsletterBaslik"></label>
+                    <div id="UpdatePanel1" class="newsletterContent">
+                        <input type="text" class="newstext textbox" name="txtbxNewsletterMail" id="txtbxNewsletterMail" tici-lang-placeholder='GlobalMasterPage_NewsletterEmailYaziniz' />
+                        <a id="btnMailKaydet" href="javascript:void(0)" class="newsbutton button" onclick="saveNewsletter()" tici-lang="Global_ButtonGonder"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footerCenter">
+                <div class="footerTopContent">
+<div class="ticiContainer">
+<div class="newEbulten"><span class="Eline1">E - B&Uuml;LTENİMİZE KAYIT OLUN</span> <span class="Eline2">Fırsat ve indirimlerden haberdar olmak i&ccedil;in e b&uuml;ltenimize kayıt olun</span>
+<div class="ebultenBox">&nbsp;</div>
+</div>
+
+<div class="hakkimzdaBox">
+<h1>HAKKIMIZDA</h1>
+<span>Selin Shoes sosyal medyanın kalbinde doğan, modayı her zaman bir adım &ouml;nde takip eden, cesur, ileri d&uuml;ş&uuml;nen, g&uuml;nl&uuml;k yeni stiller &uuml;reten online bir ayakkabı markasıdır. Misyonumuz; &uuml;rettiğimiz ayakkabıları her kadının hayalinden bir par&ccedil;a barındırarak t&uuml;m&uuml;yle harmanlayıp, m&uuml;şterilerimize en g&uuml;zel ayakkabıyı sunmakla birlikte, onlara kendilerini ifade etmenin, iş, hafta sonu ve g&uuml;nl&uuml;k yaşam bi&ccedil;imlerine g&uuml;ven vermenin muhteşem bir yolunu sunmaktır. D&uuml;nya &ccedil;apındaki en havalı yaşam tarzlarından esinlenerek en son stilleri uygun fiyatlarla her kızın ayakkabı arzusunu yerine getirmeyi hedefliyor. Yenilik&ccedil;i yaklaşımımız ve moda i&ccedil; g&uuml;d&uuml;lerimiz sayesinde diğer firmaların olmadığı yerden devam etmeyi hedefliyoruz.</span></div>
+
+<p class="hakkimzdaBox"><span>&nbsp;</span></p>
+
+<p class="hakkimzdaBox"><span>&quot;Her zamankinden &ccedil;ok şık bir şekilde&quot;</span></p>
+
+<p class="hakkimzdaBox"><span>&quot;Herkesin siz olmak isteyeceği kız olun #selinshoeskızı olun&quot;</span></p>
+</div>
+</div>
+
+<div class="footerContent">
+<div class="ticiContainer">
+<div class="footerMenu">
+<div class="footerBox first"><img src="uploads/images/logo.png" />
+<ul>
+	<li><a href="/"><i class="fa fa-phone"></i> 0 216 366 10 16 </a></li>
+	<li><a href="/"><i class="fa fa-whatsapp"></i> 0 553 836 81 9</a><a href="https://www.selinshoes.com/">0</a></li>
+	<li><a href="/"><i class="fa fa-envelope-o"></i>&nbsp;info@selinshoes.com </a></li>
+</ul>
+</div>
+
+<div class="footerBox">
+<p>BİZ KİMİZ</p>
+
+<ul>
+	<li><a href="/Iletisim.aspx">İletişim</a></li>
+</ul>
+</div>
+
+<div class="footerBox">
+<p>KURUMSAL</p>
+
+<ul>
+	<li><a href="/gizlilik-bildirgesi">Gizlilik Bildirgesi</a></li>
+	<li><a href="/satis-sozlesmesi">Satış S&ouml;zleşmesi</a></li>
+	<li><a href="/uyelik-sozlesmesi">&Uuml;yelik S&ouml;zleşmesi</a></li>
+</ul>
+</div>
+
+<div class="footerBox">
+<p>YARDIM</p>
+
+<ul>
+	<li><a href="/telefonla-destek">Telefonla Destek</a></li>
+	<li><a href="/online-destek">Online Destek</a></li>
+	<li><a href="/urun-ve-kargolama">&Uuml;r&uuml;n ve Kargolama</a></li>
+</ul>
+</div>
+
+<div class="footerBox last">
+<p>SOSYAL MEDYA</p>
+
+<ul class="footerSosyal">
+	<li><a href="https://tr-tr.facebook.com/Selinshoes/" id="Facebook"><i class="fa fa-facebook"></i></a></li>
+	<li><a href="https://www.instagram.com/selin_shoes/" id="İnstagram"><i class="fa fa-instagram"></i></a></li>
+</ul>
+
+<p>MOBİL UYGULAMALAR</p>
+
+<ul class="footerSosyal">
+	<li><a href="#"><i class="fa fa-apple"></i></a></li>
+	<li><a href="#"><i class="fa fa-android"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footerBankalar">
+<div class="ticiContainer"><img src="uploads/images/bankalar.jpg" /></div>
+&nbsp;
+
+<center>&nbsp;</center>
+</div>
+
+            </div>
+        </div>
+        <div id="divTicimaxCopyrightContent" align="center">
+            <a class="mobilTicimaxLogo" href="https://www.ticimax.com" title="Ticimax E-Ticaret Sistemleri" target="_blank">
+                <img src="https://cdn.ticimax.com/v888/App_Themes/Default/logo-60x20px.svg" style="width: 70px;" alt="Ticimax E-Ticaret Sistemleri" />
+            </a>
+            <p id="ticimaxCopyright" class="ticimax_link_main" style="color: #000; margin: 15px 0; display: block !important;">
+                Bu site Ticimax<sup>®</sup> Gelişmiş <a href='https://www.ticimax.com' style='color: #0066CC;' target='_blank' class='ticimax_link' title='E Ticaret Sistemleri Ticimax'> E-Ticaret </a> sistemleri ile hazırlanmıştır.
+            </p>
+        </div>
+
+        
+        <div id="topMessage" style="display: none;">
+            <div id="topMessageContainer">
+                <div class="topMessage" id="browserUpdate">
+                    <a class="browser-update-close" id="browserUpdateClose" href="">Kapat</a>
+                    <p>
+                        <strong>Internet Explorer tarayıcısının 9.0 ve daha eski sürümlerini desteklememekteyiz. </strong>Web sitemizi doğru görüntüleyebilmek için tarayıcınızı güncelleyebilirsiniz,<br>
+                        güncelleyemiyorsanız başka bir tarayıcıyı <span>ücretsiz</span> yükleyebilirsiniz.
+                    </p>
+                    <ul>
+                        <li><a class="browser-ie" href="https://windows.microsoft.com/en-US/windows/downloads/internet-explorer" target="_blank" rel="nofollow"><span><i class="fa fa-internet-explorer"></i>Internet Explorer</span> </a></li>
+                        <li><a class="browser-firefox" href="https://getfirefox.com/" target="_blank" rel="nofollow"><span><i class="fa fa-firefox"></i>Firefox</span> </a></li>
+                        <li><a class="browser-chrome" href="https://www.google.com/chrome/" target="_blank" rel="nofollow"><span><i class="fa fa-chrome"></i>Google Chrome</span> </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+if (typeof topMenuCallback != 'undefined') { topMenuCallback(); }//]]>
+</script>
+<script type="text/javascript">globalBlokModel = 4;  $(document).ready(function () {
+                               initLang();
+                            if (typeof blockCompleteCallback !== 'undefined')
+                               {  blockCompleteCallback(); }
+                            if (typeof blocksLoaded !== 'undefined')
+                               { blocksLoaded(); }
+                            if (typeof urunListCallback !== 'undefined')
+                               { urunListCallback();}
+
+                               InitTimers();
+                               $(".favoriteslist[init='false']").trigger('onload');
+
+                           });</script></form>
+
+    
+    
+    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4JXG7X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(56439943, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        ecommerce:"dataLayer"
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/56439943" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+    <div id="back-to-top"><a href="#"></a></div>
+
+    
+
+
+    
+    
+</body>
+</html>
